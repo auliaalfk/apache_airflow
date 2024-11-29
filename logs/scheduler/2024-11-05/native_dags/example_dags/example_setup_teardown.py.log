@@ -1,0 +1,7 @@
+[2024-11-05T19:06:02.171+0700] {processor.py:186} INFO - Started process (PID=67015) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T19:06:02.174+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2024-11-05T19:06:02.180+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:02.180+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T19:06:02.207+0700] {processor.py:925} INFO - DAG(s) 'example_setup_teardown' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py
+[2024-11-05T19:06:02.299+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:02.298+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T19:06:02.344+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:02.343+0700] {dag.py:4180} INFO - Setting next_dagrun for example_setup_teardown to None, run_after=None
+[2024-11-05T19:06:02.408+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_setup_teardown.py took 0.250 seconds

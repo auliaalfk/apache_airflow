@@ -1,0 +1,5 @@
+[2024-11-29T15:44:49.585+0700] {processor.py:186} INFO - Started process (PID=11269) to work on /home/3323600030_Aulia/airflow/dags/DAG/notification_dag_end_failed.py
+[2024-11-29T15:44:49.588+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/DAG/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T15:44:49.593+0700] {logging_mixin.py:190} INFO - [2024-11-29T15:44:49.593+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/DAG/notification_dag_end_failed.py
+[2024-11-29T15:44:49.628+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/DAG/notification_dag_end_failed.py
+[2024-11-29T15:44:50.963+0700] {logging_mixin.py:190} INFO - [2024-11-29T15:44:50.962+0700] {process_utils.py:266} INFO - Waiting up to 5 seconds for processes to exit...

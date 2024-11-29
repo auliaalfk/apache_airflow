@@ -1,0 +1,6 @@
+[2024-11-29T15:44:49.309+0700] {processor.py:186} INFO - Started process (PID=11267) to work on /home/3323600030_Aulia/airflow/dags/DAG/notification_task.py
+[2024-11-29T15:44:49.311+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/DAG/notification_task.py for tasks to queue
+[2024-11-29T15:44:49.315+0700] {logging_mixin.py:190} INFO - [2024-11-29T15:44:49.315+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/DAG/notification_task.py
+[2024-11-29T15:44:49.335+0700] {processor.py:925} INFO - DAG(s) 'notification_task' retrieved from /home/3323600030_Aulia/airflow/dags/DAG/notification_task.py
+[2024-11-29T15:44:49.775+0700] {logging_mixin.py:190} INFO - [2024-11-29T15:44:49.774+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T15:44:50.284+0700] {logging_mixin.py:190} INFO - [2024-11-29T15:44:50.284+0700] {process_utils.py:266} INFO - Waiting up to 5 seconds for processes to exit...

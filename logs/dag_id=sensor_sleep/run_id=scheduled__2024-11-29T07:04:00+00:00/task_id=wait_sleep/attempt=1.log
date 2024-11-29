@@ -1,0 +1,27 @@
+[2024-11-29T14:05:46.768+0700] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2024-11-29T14:05:46.824+0700] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sensor_sleep.wait_sleep scheduled__2024-11-29T07:04:00+00:00 [queued]>
+[2024-11-29T14:05:46.843+0700] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sensor_sleep.wait_sleep scheduled__2024-11-29T07:04:00+00:00 [queued]>
+[2024-11-29T14:05:46.844+0700] {taskinstance.py:2865} INFO - Starting attempt 1 of 1
+[2024-11-29T14:05:46.874+0700] {taskinstance.py:2888} INFO - Executing <Task(TimeDeltaSensor): wait_sleep> on 2024-11-29 07:04:00+00:00
+[2024-11-29T14:05:46.903+0700] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'sensor_sleep', 'wait_sleep', 'scheduled__2024-11-29T07:04:00+00:00', '--job-id', '39', '--raw', '--subdir', 'DAGS_FOLDER/PART_3/Sensor/sensor_sleep.py', '--cfg-path', '/tmp/tmpnw52ve42']
+[2024-11-29T14:05:46.907+0700] {standard_task_runner.py:105} INFO - Job 39: Subtask wait_sleep
+[2024-11-29T14:05:46.918+0700] {logging_mixin.py:190} WARNING - /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=30608) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2024-11-29T14:05:46.920+0700] {standard_task_runner.py:72} INFO - Started process 30720 to run task
+[2024-11-29T14:05:47.066+0700] {task_command.py:467} INFO - Running <TaskInstance: sensor_sleep.wait_sleep scheduled__2024-11-29T07:04:00+00:00 [running]> on host aulialfk
+[2024-11-29T14:05:47.347+0700] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='sensor_sleep' AIRFLOW_CTX_TASK_ID='wait_sleep' AIRFLOW_CTX_EXECUTION_DATE='2024-11-29T07:04:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2024-11-29T07:04:00+00:00'
+[2024-11-29T14:05:47.351+0700] {logging_mixin.py:190} INFO - Task instance is in running state
+[2024-11-29T14:05:47.354+0700] {logging_mixin.py:190} INFO -  Previous state of the Task instance: queued
+[2024-11-29T14:05:47.355+0700] {logging_mixin.py:190} INFO - Current task name:wait_sleep state:running start_date:2024-11-29 07:05:46.824667+00:00
+[2024-11-29T14:05:47.356+0700] {logging_mixin.py:190} INFO - Dag name:sensor_sleep and current dag run status:running
+[2024-11-29T14:05:47.356+0700] {taskinstance.py:731} INFO - ::endgroup::
+[2024-11-29T14:05:47.359+0700] {time_delta.py:51} INFO - Checking if the time (2024-11-29 07:05:30+00:00) has come
+[2024-11-29T14:05:47.367+0700] {base.py:336} INFO - Success criteria met. Exiting.
+[2024-11-29T14:05:47.414+0700] {taskinstance.py:340} INFO - ::group::Post task execution logs
+[2024-11-29T14:05:47.415+0700] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=sensor_sleep, task_id=wait_sleep, run_id=scheduled__2024-11-29T07:04:00+00:00, execution_date=20241129T070400, start_date=20241129T070546, end_date=20241129T070547
+[2024-11-29T14:05:47.442+0700] {logging_mixin.py:190} INFO - Task instance in success state
+[2024-11-29T14:05:47.444+0700] {logging_mixin.py:190} INFO -  Previous state of the Task instance: running
+[2024-11-29T14:05:47.445+0700] {logging_mixin.py:190} INFO - Dag name:sensor_sleep queued_at:2024-11-29 07:05:24.142335+00:00
+[2024-11-29T14:05:47.446+0700] {logging_mixin.py:190} INFO - Task hostname:aulialfk operator:TimeDeltaSensor
+[2024-11-29T14:05:47.506+0700] {local_task_job_runner.py:266} INFO - Task exited with return code 0
+[2024-11-29T14:05:47.627+0700] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2024-11-29T14:05:47.632+0700] {local_task_job_runner.py:245} INFO - ::endgroup::

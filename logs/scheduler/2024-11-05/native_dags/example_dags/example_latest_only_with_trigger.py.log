@@ -1,0 +1,7 @@
+[2024-11-05T19:06:04.892+0700] {processor.py:186} INFO - Started process (PID=67040) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-11-05T19:06:04.894+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only_with_trigger.py for tasks to queue
+[2024-11-05T19:06:04.903+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:04.900+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-11-05T19:06:04.924+0700] {processor.py:925} INFO - DAG(s) 'latest_only_with_trigger' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only_with_trigger.py
+[2024-11-05T19:06:05.024+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:05.023+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T19:06:05.102+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:05.102+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only_with_trigger to 2024-11-05 08:00:00+00:00, run_after=2024-11-05 12:00:00+00:00
+[2024-11-05T19:06:05.160+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only_with_trigger.py took 0.285 seconds

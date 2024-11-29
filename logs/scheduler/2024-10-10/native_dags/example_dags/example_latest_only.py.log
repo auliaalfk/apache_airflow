@@ -1,0 +1,947 @@
+[2024-10-10T15:23:13.208+0700] {processor.py:186} INFO - Started process (PID=28525) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:23:13.210+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T15:23:13.213+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:13.213+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:23:13.224+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:23:13.399+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:13.398+0700] {override.py:1900} INFO - Created Permission View: can read on DAG:latest_only
+[2024-10-10T15:23:13.420+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:13.419+0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:latest_only
+[2024-10-10T15:23:13.437+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:13.436+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:latest_only
+[2024-10-10T15:23:13.463+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:13.463+0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:latest_only
+[2024-10-10T15:23:13.477+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:13.477+0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:latest_only
+[2024-10-10T15:23:13.491+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:13.491+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:latest_only
+[2024-10-10T15:23:13.507+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:13.505+0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:latest_only
+[2024-10-10T15:23:13.507+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:13.507+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:23:13.531+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:13.531+0700] {dag.py:3262} INFO - Creating ORM DAG for latest_only
+[2024-10-10T15:23:13.549+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:13.549+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T15:23:13.587+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.389 seconds
+[2024-10-10T15:24:23.447+0700] {processor.py:186} INFO - Started process (PID=28780) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:24:23.450+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T15:24:23.454+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:24:23.453+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:24:23.464+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:24:23.485+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:24:23.484+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:24:23.519+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:24:23.519+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T15:24:23.548+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.113 seconds
+[2024-10-10T15:25:33.620+0700] {processor.py:186} INFO - Started process (PID=28873) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:25:33.622+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T15:25:33.626+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:25:33.625+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:25:33.636+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:25:33.657+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:25:33.656+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:25:33.689+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:25:33.689+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T15:25:33.718+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.109 seconds
+[2024-10-10T15:26:45.325+0700] {processor.py:186} INFO - Started process (PID=28952) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:26:45.327+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T15:26:45.331+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:26:45.330+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:26:45.341+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:26:45.361+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:26:45.361+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:26:45.397+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:26:45.397+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T15:26:45.431+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.118 seconds
+[2024-10-10T15:27:51.281+0700] {processor.py:186} INFO - Started process (PID=29018) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:27:51.282+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T15:27:51.286+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:27:51.285+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:27:51.296+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:27:51.316+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:27:51.315+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:27:51.345+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:27:51.345+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T15:27:51.374+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.106 seconds
+[2024-10-10T15:28:55.655+0700] {processor.py:186} INFO - Started process (PID=29095) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:28:55.657+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T15:28:55.660+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:28:55.659+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:28:55.669+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:28:55.690+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:28:55.690+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:28:55.720+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:28:55.720+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T15:28:55.750+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.103 seconds
+[2024-10-10T15:30:10.134+0700] {processor.py:186} INFO - Started process (PID=29174) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:30:10.136+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T15:30:10.139+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:30:10.139+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:30:10.149+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T15:30:10.169+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:30:10.169+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:30:10.199+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:30:10.199+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T15:30:10.231+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.108 seconds
+[2024-10-10T18:50:37.032+0700] {processor.py:186} INFO - Started process (PID=44606) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:50:37.034+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T18:50:37.042+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:37.042+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:50:37.072+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:50:37.380+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:37.379+0700] {override.py:1900} INFO - Created Permission View: can read on DAG:latest_only
+[2024-10-10T18:50:37.401+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:37.401+0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:latest_only
+[2024-10-10T18:50:37.418+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:37.418+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:latest_only
+[2024-10-10T18:50:37.434+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:37.434+0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:latest_only
+[2024-10-10T18:50:37.449+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:37.448+0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:latest_only
+[2024-10-10T18:50:37.470+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:37.469+0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:latest_only
+[2024-10-10T18:50:37.490+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:37.490+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:latest_only
+[2024-10-10T18:50:37.491+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:37.491+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:50:37.524+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:37.523+0700] {dag.py:3262} INFO - Creating ORM DAG for latest_only
+[2024-10-10T18:50:37.550+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:37.549+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T18:50:37.587+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.565 seconds
+[2024-10-10T18:51:08.101+0700] {processor.py:186} INFO - Started process (PID=44735) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:51:08.102+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T18:51:08.106+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:08.105+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:51:08.115+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:51:08.155+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:08.154+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:51:08.190+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:08.189+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T18:51:08.223+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.132 seconds
+[2024-10-10T18:51:38.629+0700] {processor.py:186} INFO - Started process (PID=44856) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:51:38.630+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T18:51:38.634+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:38.633+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:51:38.645+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:51:38.692+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:38.691+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:51:38.734+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:38.733+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T18:51:38.764+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.144 seconds
+[2024-10-10T18:52:09.082+0700] {processor.py:186} INFO - Started process (PID=44980) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:52:09.083+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T18:52:09.086+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:52:09.086+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:52:09.098+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:52:09.143+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:52:09.143+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:52:09.186+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:52:09.185+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T18:52:09.216+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.144 seconds
+[2024-10-10T18:52:39.735+0700] {processor.py:186} INFO - Started process (PID=45099) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:52:39.737+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T18:52:39.744+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:52:39.743+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:52:39.772+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:52:39.831+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:52:39.831+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:52:39.878+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:52:39.878+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T18:52:39.918+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.194 seconds
+[2024-10-10T18:53:45.397+0700] {processor.py:186} INFO - Started process (PID=45308) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:53:45.401+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T18:53:45.406+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:53:45.405+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:53:45.420+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:53:45.481+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:53:45.480+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:53:45.576+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:53:45.576+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T18:53:45.627+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.254 seconds
+[2024-10-10T18:54:16.097+0700] {processor.py:186} INFO - Started process (PID=45479) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:54:16.099+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T18:54:16.103+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:16.102+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:54:16.115+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:54:16.161+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:16.161+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:54:16.206+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:16.205+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T18:54:16.247+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.159 seconds
+[2024-10-10T18:54:51.561+0700] {processor.py:186} INFO - Started process (PID=45604) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:54:51.565+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T18:54:51.580+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:51.578+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:54:51.636+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:54:51.888+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:51.886+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:54:52.031+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:52.030+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T18:54:52.157+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.647 seconds
+[2024-10-10T18:55:22.578+0700] {processor.py:186} INFO - Started process (PID=45732) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:55:22.579+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T18:55:22.583+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:22.582+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:55:22.594+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:55:22.643+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:22.642+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:55:22.723+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:22.723+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T18:55:22.790+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.221 seconds
+[2024-10-10T18:55:53.143+0700] {processor.py:186} INFO - Started process (PID=45857) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:55:53.146+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T18:55:53.156+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:53.154+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:55:53.193+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:55:53.275+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:53.275+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:55:53.325+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:53.324+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T18:55:53.394+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.289 seconds
+[2024-10-10T18:56:23.918+0700] {processor.py:186} INFO - Started process (PID=45998) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:56:23.930+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T18:56:23.947+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:56:23.946+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:56:24.043+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:56:24.259+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:56:24.258+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:56:24.512+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:56:24.511+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T18:56:24.638+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.821 seconds
+[2024-10-10T18:58:41.063+0700] {processor.py:186} INFO - Started process (PID=46226) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:58:41.065+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T18:58:41.069+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:58:41.069+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:58:41.088+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:58:41.158+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:58:41.156+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:58:41.219+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:58:41.218+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T18:58:41.256+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.205 seconds
+[2024-10-10T18:59:11.458+0700] {processor.py:186} INFO - Started process (PID=46350) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:59:11.460+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T18:59:11.464+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:59:11.463+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:59:11.478+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:59:11.531+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:59:11.531+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:59:11.579+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:59:11.578+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T18:59:11.615+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.168 seconds
+[2024-10-10T18:59:42.148+0700] {processor.py:186} INFO - Started process (PID=46601) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:59:42.150+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T18:59:42.153+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:59:42.153+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:59:42.165+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T18:59:42.225+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:59:42.225+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:59:42.280+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:59:42.280+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 04:00:00+00:00, run_after=2024-10-10 08:00:00+00:00
+[2024-10-10T18:59:42.319+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.181 seconds
+[2024-10-10T19:01:51.163+0700] {processor.py:186} INFO - Started process (PID=46765) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:01:51.165+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:01:51.170+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:01:51.170+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:01:51.183+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:01:51.238+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:01:51.237+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:01:51.283+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:01:51.283+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:01:51.323+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.171 seconds
+[2024-10-10T19:02:22.135+0700] {processor.py:186} INFO - Started process (PID=46964) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:02:22.136+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:02:22.141+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:02:22.141+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:02:22.155+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:02:22.202+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:02:22.202+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:02:22.245+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:02:22.245+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:02:22.279+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.153 seconds
+[2024-10-10T19:02:52.586+0700] {processor.py:186} INFO - Started process (PID=47112) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:02:52.588+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:02:52.597+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:02:52.596+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:02:52.616+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:02:52.669+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:02:52.669+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:02:52.730+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:02:52.729+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:02:52.833+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.258 seconds
+[2024-10-10T19:16:41.526+0700] {processor.py:186} INFO - Started process (PID=47496) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:16:41.529+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:16:41.532+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:16:41.532+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:16:41.548+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:16:41.604+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:16:41.604+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:16:41.656+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:16:41.653+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:16:41.717+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.202 seconds
+[2024-10-10T19:17:12.408+0700] {processor.py:186} INFO - Started process (PID=47630) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:17:12.409+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:17:12.412+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:12.412+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:17:12.423+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:17:12.470+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:12.470+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:17:12.517+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:12.517+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:17:12.555+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.157 seconds
+[2024-10-10T19:17:43.330+0700] {processor.py:186} INFO - Started process (PID=47754) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:17:43.332+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:17:43.334+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:43.333+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:17:43.349+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:17:43.400+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:43.400+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:17:43.449+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:43.449+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:17:43.488+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.169 seconds
+[2024-10-10T19:18:14.223+0700] {processor.py:186} INFO - Started process (PID=47893) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:18:14.224+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:18:14.226+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:14.226+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:18:14.239+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:18:14.291+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:14.291+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:18:14.343+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:14.343+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:18:14.381+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.169 seconds
+[2024-10-10T19:18:45.050+0700] {processor.py:186} INFO - Started process (PID=48009) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:18:45.054+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:18:45.056+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:45.055+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:18:45.077+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:18:45.147+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:45.146+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:18:45.201+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:45.200+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:18:45.243+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.206 seconds
+[2024-10-10T19:19:17.835+0700] {processor.py:186} INFO - Started process (PID=48145) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:19:17.840+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:19:17.844+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:17.843+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:19:17.884+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:19:17.979+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:17.978+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:19:18.101+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:18.100+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:19:18.205+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.403 seconds
+[2024-10-10T19:19:48.866+0700] {processor.py:186} INFO - Started process (PID=48289) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:19:48.867+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:19:48.869+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:48.869+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:19:48.883+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:19:48.937+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:48.936+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:19:48.988+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:48.988+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:19:49.028+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.174 seconds
+[2024-10-10T19:20:19.428+0700] {processor.py:186} INFO - Started process (PID=48417) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:20:19.430+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:20:19.432+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:19.432+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:20:19.462+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:20:19.548+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:19.547+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:20:19.619+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:19.619+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:20:19.689+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.272 seconds
+[2024-10-10T19:20:50.503+0700] {processor.py:186} INFO - Started process (PID=48537) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:20:50.505+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:20:50.508+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:50.507+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:20:50.531+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:20:50.604+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:50.603+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:20:50.682+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:50.681+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:20:50.737+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.249 seconds
+[2024-10-10T19:21:31.853+0700] {processor.py:186} INFO - Started process (PID=48697) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:21:31.855+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:21:31.857+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:21:31.856+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:21:31.874+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:21:31.930+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:21:31.929+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:21:31.991+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:21:31.991+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:21:32.070+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.231 seconds
+[2024-10-10T19:22:02.486+0700] {processor.py:186} INFO - Started process (PID=48821) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:22:02.487+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:22:02.490+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:02.489+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:22:02.505+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:22:02.558+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:02.558+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:22:02.613+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:02.612+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:22:02.662+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.191 seconds
+[2024-10-10T19:22:33.376+0700] {processor.py:186} INFO - Started process (PID=48938) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:22:33.377+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:22:33.379+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:33.379+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:22:33.395+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:22:33.493+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:33.492+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:22:33.551+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:33.550+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:22:33.590+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.228 seconds
+[2024-10-10T19:28:22.678+0700] {processor.py:186} INFO - Started process (PID=49225) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:28:22.681+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:28:22.686+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:22.686+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:28:22.699+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:28:22.777+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:22.776+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:28:22.843+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:22.843+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:28:22.897+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.230 seconds
+[2024-10-10T19:28:53.877+0700] {processor.py:186} INFO - Started process (PID=49373) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:28:53.883+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:28:53.890+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:53.889+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:28:53.911+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:28:53.977+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:53.976+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:28:54.047+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:54.046+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:28:54.122+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.258 seconds
+[2024-10-10T19:29:25.049+0700] {processor.py:186} INFO - Started process (PID=49518) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:29:25.050+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:29:25.054+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:25.053+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:29:25.066+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:29:25.139+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:25.138+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:29:25.204+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:25.203+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:29:25.251+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.219 seconds
+[2024-10-10T19:29:55.574+0700] {processor.py:186} INFO - Started process (PID=49640) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:29:55.575+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:29:55.580+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:55.580+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:29:55.592+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:29:55.646+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:55.646+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:29:55.701+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:55.701+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:29:55.737+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.179 seconds
+[2024-10-10T19:30:26.325+0700] {processor.py:186} INFO - Started process (PID=49764) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:30:26.329+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:30:26.335+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:30:26.334+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:30:26.351+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:30:26.427+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:30:26.426+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:30:26.484+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:30:26.483+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:30:26.543+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.242 seconds
+[2024-10-10T19:31:02.305+0700] {processor.py:186} INFO - Started process (PID=49984) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:31:02.321+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:31:02.362+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:02.362+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:31:02.529+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:31:02.714+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:02.713+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:31:03.087+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:03.078+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:31:03.353+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.143 seconds
+[2024-10-10T19:31:03.642+0700] {processor.py:186} INFO - Started process (PID=50024) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:31:03.654+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:31:03.670+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:03.670+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:31:03.763+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:31:04.077+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:04.076+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:31:04.466+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:04.465+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:31:04.622+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.022 seconds
+[2024-10-10T19:31:34.037+0700] {processor.py:186} INFO - Started process (PID=50264) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:31:34.038+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:31:34.042+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:34.042+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:31:34.063+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:31:34.131+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:34.131+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:31:34.175+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:34.175+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:31:34.209+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.181 seconds
+[2024-10-10T19:31:34.740+0700] {processor.py:186} INFO - Started process (PID=50272) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:31:34.742+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:31:34.752+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:34.751+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:31:34.775+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:31:34.849+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:34.848+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:31:34.893+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:34.893+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:31:34.938+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.216 seconds
+[2024-10-10T19:32:12.397+0700] {processor.py:186} INFO - Started process (PID=50831) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:32:12.404+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:32:12.410+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:12.409+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:32:12.426+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:32:12.500+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:12.500+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:32:12.620+0700] {processor.py:186} INFO - Started process (PID=50833) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:32:12.625+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:32:12.648+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:12.641+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:32:12.669+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:12.666+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:32:12.709+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:32:12.815+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.454 seconds
+[2024-10-10T19:32:12.852+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:12.852+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:32:12.982+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:12.982+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:32:13.053+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.474 seconds
+[2024-10-10T19:32:43.504+0700] {processor.py:186} INFO - Started process (PID=51368) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:32:43.505+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:32:43.517+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:43.516+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:32:43.546+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:32:43.695+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:43.694+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:32:43.863+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:43.863+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:32:43.959+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.470 seconds
+[2024-10-10T19:32:44.193+0700] {processor.py:186} INFO - Started process (PID=51376) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:32:44.196+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:32:44.208+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:44.207+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:32:44.253+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:32:44.403+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:44.403+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:32:44.570+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:44.569+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:32:44.737+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.577 seconds
+[2024-10-10T19:33:17.346+0700] {processor.py:186} INFO - Started process (PID=51648) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:33:17.352+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:33:17.362+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:17.358+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:33:17.402+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:33:17.536+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:17.535+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:33:17.660+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:17.659+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:33:17.855+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.540 seconds
+[2024-10-10T19:33:17.980+0700] {processor.py:186} INFO - Started process (PID=51654) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:33:17.985+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:33:18.000+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:17.993+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:33:18.035+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:33:18.150+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:18.150+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:33:18.239+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:18.237+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:33:18.456+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.511 seconds
+[2024-10-10T19:33:39.503+0700] {processor.py:186} INFO - Started process (PID=51852) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:33:39.516+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:33:39.569+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:39.568+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:33:39.607+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:33:40.005+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:40.004+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:33:40.344+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:40.343+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:33:40.536+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.098 seconds
+[2024-10-10T19:33:55.200+0700] {processor.py:186} INFO - Started process (PID=52019) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:33:55.203+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:33:55.215+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:55.212+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:33:55.278+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:33:55.478+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:55.478+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:33:55.657+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:55.657+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:33:55.887+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.737 seconds
+[2024-10-10T19:33:57.859+0700] {processor.py:186} INFO - Started process (PID=52052) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:33:57.864+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:33:57.882+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:57.882+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:33:57.956+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:33:58.193+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:58.192+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:33:58.528+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:58.528+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:33:58.744+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.960 seconds
+[2024-10-10T19:34:13.199+0700] {processor.py:186} INFO - Started process (PID=52220) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:34:13.206+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:34:13.222+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:13.221+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:34:13.265+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:34:13.414+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:13.414+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:13.676+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:13.675+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:34:13.879+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.721 seconds
+[2024-10-10T19:34:26.361+0700] {processor.py:186} INFO - Started process (PID=52373) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:34:26.367+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:34:26.373+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:26.373+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:34:26.436+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:34:26.548+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:26.547+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:26.680+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:26.680+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:34:26.816+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.488 seconds
+[2024-10-10T19:34:28.997+0700] {processor.py:186} INFO - Started process (PID=52405) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:34:28.999+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:34:29.003+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:29.002+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:34:29.024+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:34:29.173+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:29.170+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:29.277+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:29.274+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:34:29.340+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.369 seconds
+[2024-10-10T19:34:44.766+0700] {processor.py:186} INFO - Started process (PID=52566) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:34:44.771+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:34:44.787+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:44.785+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:34:44.865+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:34:45.084+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:45.083+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:45.353+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:45.343+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:34:45.537+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.818 seconds
+[2024-10-10T19:34:58.656+0700] {processor.py:186} INFO - Started process (PID=52729) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:34:58.661+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:34:58.696+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:58.696+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:34:58.720+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:34:58.941+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:58.940+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:59.284+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:59.283+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:34:59.452+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.864 seconds
+[2024-10-10T19:35:00.835+0700] {processor.py:186} INFO - Started process (PID=52758) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:35:00.845+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:35:00.864+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:00.863+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:35:00.948+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:35:01.217+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:01.211+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:35:01.671+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:01.655+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:35:02.271+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.472 seconds
+[2024-10-10T19:35:21.786+0700] {processor.py:186} INFO - Started process (PID=52953) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:35:21.788+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:35:21.791+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:21.791+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:35:21.821+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:35:22.006+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:22.006+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:35:22.112+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:22.103+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:35:22.294+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.583 seconds
+[2024-10-10T19:35:41.780+0700] {processor.py:186} INFO - Started process (PID=53130) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:35:41.824+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:35:41.863+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:41.857+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:35:41.969+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:35:42.287+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:42.274+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:35:42.574+0700] {processor.py:186} INFO - Started process (PID=53134) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:35:42.582+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:35:42.588+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:42.587+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:35:42.579+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:42.579+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:35:42.643+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:35:42.728+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:42.727+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:35:42.844+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.243 seconds
+[2024-10-10T19:35:42.878+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:42.878+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:35:43.058+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.534 seconds
+[2024-10-10T19:35:56.728+0700] {processor.py:186} INFO - Started process (PID=53287) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:35:56.735+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:35:56.793+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:56.760+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:35:56.827+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:35:57.017+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:57.017+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:35:57.397+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:57.396+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:35:57.666+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.040 seconds
+[2024-10-10T19:36:13.312+0700] {processor.py:186} INFO - Started process (PID=53482) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:36:13.314+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:36:13.336+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:13.336+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:36:13.390+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:36:13.578+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:13.569+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:36:13.730+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:13.730+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:36:13.837+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.565 seconds
+[2024-10-10T19:36:14.068+0700] {processor.py:186} INFO - Started process (PID=53492) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:36:14.070+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:36:14.076+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:14.073+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:36:14.103+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:36:14.219+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:14.218+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:36:14.293+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:14.293+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:36:14.353+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.309 seconds
+[2024-10-10T19:36:27.888+0700] {processor.py:186} INFO - Started process (PID=53640) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:36:27.891+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:36:27.897+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:27.896+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:36:27.922+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:36:27.993+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:27.993+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:36:28.134+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:28.134+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:36:28.246+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.373 seconds
+[2024-10-10T19:36:48.761+0700] {processor.py:186} INFO - Started process (PID=53892) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:36:48.775+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:36:48.797+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:48.797+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:36:48.888+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:36:49.155+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:49.155+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:36:49.384+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:49.384+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:36:49.614+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.922 seconds
+[2024-10-10T19:36:51.098+0700] {processor.py:186} INFO - Started process (PID=53920) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:36:51.108+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:36:51.123+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:51.120+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:36:51.191+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:36:51.443+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:51.442+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:36:51.764+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:51.757+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:36:51.991+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.929 seconds
+[2024-10-10T19:37:01.057+0700] {processor.py:186} INFO - Started process (PID=54036) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:37:01.059+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:37:01.070+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:01.067+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:37:01.091+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:37:01.238+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:01.235+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:37:01.390+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:01.388+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:37:01.615+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.582 seconds
+[2024-10-10T19:37:32.030+0700] {processor.py:186} INFO - Started process (PID=54284) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:37:32.042+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:37:32.074+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:32.062+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:37:32.186+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:37:32.599+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:32.590+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:37:32.948+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:32.948+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:37:33.192+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.257 seconds
+[2024-10-10T19:37:33.899+0700] {processor.py:186} INFO - Started process (PID=54302) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:37:33.900+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:37:33.939+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:33.929+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:37:34.043+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:37:34.362+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:34.359+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:37:34.669+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:34.668+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:37:34.996+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.158 seconds
+[2024-10-10T19:37:46.119+0700] {processor.py:186} INFO - Started process (PID=54415) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:37:46.128+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:37:46.173+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:46.158+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:37:46.267+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:37:46.477+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:46.470+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:37:46.802+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:46.786+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:37:47.056+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.059 seconds
+[2024-10-10T19:38:13.731+0700] {processor.py:186} INFO - Started process (PID=54689) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:38:13.757+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:38:13.805+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:13.800+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:38:14.002+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:38:14.485+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:14.469+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:38:14.815+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:14.815+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:38:15.222+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.621 seconds
+[2024-10-10T19:38:25.222+0700] {processor.py:186} INFO - Started process (PID=54799) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:38:25.230+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:38:25.256+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:25.255+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:38:25.341+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:38:25.504+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:25.504+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:38:25.843+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:25.842+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:38:26.105+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.006 seconds
+[2024-10-10T19:38:29.255+0700] {processor.py:186} INFO - Started process (PID=54844) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:38:29.257+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:38:29.279+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:29.272+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:38:29.352+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:38:29.598+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:29.590+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:38:30.080+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:30.079+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:38:30.423+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.236 seconds
+[2024-10-10T19:38:35.206+0700] {processor.py:186} INFO - Started process (PID=54910) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:38:35.222+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:38:35.269+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:35.268+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:38:35.378+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:38:35.482+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:35.480+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:38:35.851+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:35.850+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:38:35.961+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.851 seconds
+[2024-10-10T19:39:07.901+0700] {processor.py:186} INFO - Started process (PID=55171) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:39:07.904+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:39:07.913+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:07.910+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:39:07.990+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:39:08.250+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:08.241+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:39:08.714+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:08.714+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:39:08.973+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.096 seconds
+[2024-10-10T19:39:23.074+0700] {processor.py:186} INFO - Started process (PID=55354) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:39:23.090+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:39:23.152+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:23.134+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:39:23.217+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:39:23.491+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:23.490+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:39:23.829+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:23.827+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:39:23.834+0700] {processor.py:186} INFO - Started process (PID=55362) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:39:23.857+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:39:23.911+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:23.910+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:39:23.966+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.979 seconds
+[2024-10-10T19:39:24.069+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:39:24.535+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:24.530+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:39:25.030+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:25.029+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:39:25.260+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.555 seconds
+[2024-10-10T19:39:26.781+0700] {processor.py:186} INFO - Started process (PID=55391) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:39:26.804+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:39:26.874+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:26.852+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:39:27.018+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:39:27.593+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:27.593+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:39:28.313+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:28.310+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:39:28.715+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 2.048 seconds
+[2024-10-10T19:39:52.200+0700] {processor.py:186} INFO - Started process (PID=55719) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:39:52.222+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:39:52.258+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:52.257+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:39:52.358+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:39:52.740+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:52.739+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:39:53.093+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:53.083+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:39:53.271+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.107 seconds
+[2024-10-10T19:40:05.412+0700] {processor.py:186} INFO - Started process (PID=55862) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:40:05.427+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:40:05.450+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:05.449+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:40:05.550+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:40:05.802+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:05.802+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:40:06.155+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:06.141+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:40:06.332+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.006 seconds
+[2024-10-10T19:40:08.580+0700] {processor.py:186} INFO - Started process (PID=55899) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:40:08.595+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:40:08.623+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:08.611+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:40:08.706+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:40:08.988+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:08.987+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:40:09.554+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:09.553+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:40:09.808+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.279 seconds
+[2024-10-10T19:40:13.780+0700] {processor.py:186} INFO - Started process (PID=55960) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:40:13.783+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:40:13.788+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:13.787+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:40:13.803+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:40:13.885+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:13.885+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:40:13.962+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:13.962+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:40:14.074+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.404 seconds
+[2024-10-10T19:40:40.004+0700] {processor.py:186} INFO - Started process (PID=56184) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:40:40.051+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:40:40.066+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:40.065+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:40:40.128+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:40:40.615+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:40.615+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:40:40.988+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:40.977+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:40:41.365+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.630 seconds
+[2024-10-10T19:40:51.120+0700] {processor.py:186} INFO - Started process (PID=56287) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:40:51.128+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:40:51.145+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:51.143+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:40:51.256+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:40:51.610+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:51.609+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:40:52.123+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:52.122+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:40:52.557+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.493 seconds
+[2024-10-10T19:41:00.832+0700] {processor.py:186} INFO - Started process (PID=56379) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:41:00.835+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:41:00.843+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:00.841+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:41:00.858+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:41:00.981+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:00.980+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:41:01.392+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:01.392+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:41:01.806+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.067 seconds
+[2024-10-10T19:41:15.170+0700] {processor.py:186} INFO - Started process (PID=56548) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:41:15.179+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:41:15.197+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:15.197+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:41:15.323+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:41:16.165+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:16.165+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:41:16.780+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:16.780+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:41:17.123+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.982 seconds
+[2024-10-10T19:41:37.868+0700] {processor.py:186} INFO - Started process (PID=56783) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:41:37.886+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:41:37.924+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:37.912+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:41:38.051+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:41:38.347+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:38.346+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:41:38.650+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:38.650+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:41:38.903+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.114 seconds
+[2024-10-10T19:41:40.639+0700] {processor.py:186} INFO - Started process (PID=56820) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:41:40.645+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:41:40.675+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:40.674+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:41:40.802+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:41:40.909+0700] {processor.py:186} INFO - Started process (PID=56824) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:41:40.912+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:41:40.924+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:40.922+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:41:40.972+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:41:41.205+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:41.204+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:41:41.250+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:41.249+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:41:41.590+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:41.586+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:41:41.830+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.968 seconds
+[2024-10-10T19:41:41.890+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:41.890+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:41:42.073+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.508 seconds
+[2024-10-10T19:42:07.512+0700] {processor.py:186} INFO - Started process (PID=57114) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:42:07.517+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:42:07.563+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:07.550+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:42:07.817+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:42:07.995+0700] {processor.py:186} INFO - Started process (PID=57120) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:42:07.999+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:42:08.094+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:08.089+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:42:08.209+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:42:08.457+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:08.456+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:08.641+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:08.640+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:08.943+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:08.936+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:42:09.103+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.789 seconds
+[2024-10-10T19:42:09.187+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:09.186+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:42:09.453+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.539 seconds
+[2024-10-10T19:42:30.095+0700] {processor.py:186} INFO - Started process (PID=57404) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:42:30.101+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:42:30.123+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:30.121+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:42:30.227+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:42:30.701+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:30.700+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:31.092+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:31.086+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:42:31.382+0700] {processor.py:186} INFO - Started process (PID=57417) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:42:31.384+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.340 seconds
+[2024-10-10T19:42:31.384+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:42:31.394+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:31.393+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:42:31.416+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:42:31.531+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:31.530+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:31.680+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:31.680+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:42:31.879+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.536 seconds
+[2024-10-10T19:42:35.971+0700] {processor.py:186} INFO - Started process (PID=57468) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:42:35.972+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:42:36.013+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:35.998+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:42:36.155+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:42:36.524+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:36.524+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:36.980+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:36.978+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:42:37.194+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.327 seconds
+[2024-10-10T19:43:24.187+0700] {processor.py:186} INFO - Started process (PID=57978) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:43:24.199+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:43:24.224+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:24.212+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:43:24.312+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:43:24.803+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:24.803+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:43:24.833+0700] {processor.py:186} INFO - Started process (PID=57983) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:43:24.897+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:43:24.908+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:24.906+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:43:24.945+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:43:25.425+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:25.424+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:43:25.588+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:25.588+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:43:26.036+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.908 seconds
+[2024-10-10T19:43:26.241+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:26.241+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:43:26.457+0700] {processor.py:186} INFO - Started process (PID=57999) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:43:26.465+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:43:26.513+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:26.513+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:43:26.655+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.967 seconds
+[2024-10-10T19:43:26.670+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:43:27.143+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:27.143+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:43:27.653+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:27.650+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:43:27.945+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.599 seconds
+[2024-10-10T19:43:35.010+0700] {processor.py:186} INFO - Started process (PID=58092) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:43:35.032+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:43:35.057+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:35.048+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:43:35.138+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:43:35.408+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:35.407+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:43:35.920+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:35.919+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:43:36.301+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.411 seconds
+[2024-10-10T19:43:39.816+0700] {processor.py:186} INFO - Started process (PID=58177) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:43:39.819+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:43:39.928+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:39.927+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:43:40.055+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:43:40.412+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:40.412+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:43:40.900+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:40.897+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:43:41.200+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.420 seconds
+[2024-10-10T19:44:27.569+0700] {processor.py:186} INFO - Started process (PID=58637) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:44:27.584+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:44:27.629+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:27.624+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:44:27.776+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:44:28.220+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:28.214+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:44:28.735+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:28.735+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:44:29.039+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.591 seconds
+[2024-10-10T19:44:29.196+0700] {processor.py:186} INFO - Started process (PID=58656) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:44:29.209+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:44:29.222+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:29.215+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:44:29.326+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:44:29.670+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:29.670+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:44:30.313+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:30.285+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:44:30.684+0700] {processor.py:186} INFO - Started process (PID=58671) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:44:30.705+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:44:30.755+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.710 seconds
+[2024-10-10T19:44:30.762+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:30.762+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:44:30.909+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:44:31.249+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:31.246+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:44:31.526+0700] {processor.py:186} INFO - Started process (PID=58678) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:44:31.528+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:44:31.572+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:31.571+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:44:31.756+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:31.756+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:44:31.785+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:44:32.220+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:32.219+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:44:32.335+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.714 seconds
+[2024-10-10T19:44:32.875+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:32.875+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:44:33.133+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.736 seconds
+[2024-10-10T19:44:33.709+0700] {processor.py:186} INFO - Started process (PID=58697) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:44:33.729+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:44:33.758+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:33.757+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:44:33.798+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:44:34.266+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:34.266+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:44:34.602+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:34.602+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:44:34.997+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.423 seconds
+[2024-10-10T19:45:34.307+0700] {processor.py:186} INFO - Started process (PID=59229) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:45:34.395+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:45:34.407+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:34.406+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:45:34.545+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:45:34.831+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:34.830+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:45:34.940+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:34.939+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:45:35.233+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.954 seconds
+[2024-10-10T19:45:37.442+0700] {processor.py:186} INFO - Started process (PID=59260) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:45:37.448+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:45:37.460+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:37.459+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:45:37.493+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:45:37.607+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:37.606+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:45:37.770+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:37.762+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:45:38.178+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.788 seconds
+[2024-10-10T19:45:42.316+0700] {processor.py:186} INFO - Started process (PID=59339) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:45:42.324+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:45:42.333+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:42.333+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:45:42.411+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:45:42.589+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:42.588+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:45:42.708+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:42.708+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:45:44.650+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 2.397 seconds
+[2024-10-10T19:45:52.541+0700] {processor.py:186} INFO - Started process (PID=59433) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:45:52.558+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:45:52.617+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:52.616+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:45:52.697+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:45:53.430+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:53.429+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:45:54.464+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:54.464+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:45:54.882+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 2.435 seconds
+[2024-10-10T19:45:56.487+0700] {processor.py:186} INFO - Started process (PID=59471) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:45:56.501+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:45:56.569+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:56.563+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:45:56.709+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:45:56.959+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:56.958+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:45:57.512+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:57.512+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:45:57.881+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.449 seconds
+[2024-10-10T19:46:43.617+0700] {processor.py:186} INFO - Started process (PID=59883) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:46:43.631+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:46:43.667+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:43.666+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:46:43.760+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:46:44.124+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:44.091+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:46:44.644+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:44.644+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:46:44.854+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.325 seconds
+[2024-10-10T19:46:49.536+0700] {processor.py:186} INFO - Started process (PID=59942) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:46:49.552+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:46:49.568+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:49.568+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:46:49.715+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:46:50.137+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:50.134+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:46:50.476+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:50.476+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:46:50.681+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.201 seconds
+[2024-10-10T19:46:58.270+0700] {processor.py:186} INFO - Started process (PID=60054) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:46:58.282+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:46:58.293+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:58.292+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:46:58.411+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:46:58.739+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:58.721+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:46:59.163+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:59.163+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:46:59.393+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.210 seconds
+[2024-10-10T19:47:04.964+0700] {processor.py:186} INFO - Started process (PID=60165) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:04.970+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:47:04.987+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:04.979+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:05.051+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:05.324+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:05.324+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:05.714+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:05.714+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:47:05.955+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.022 seconds
+[2024-10-10T19:47:23.477+0700] {processor.py:186} INFO - Started process (PID=60397) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:23.483+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:47:23.523+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:23.506+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:23.630+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:23.890+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:23.889+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:24.197+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:24.196+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:47:24.548+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.155 seconds
+[2024-10-10T19:47:27.455+0700] {processor.py:186} INFO - Started process (PID=60469) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:27.461+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:47:27.472+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:27.469+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:27.515+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:27.654+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:27.653+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:27.836+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:27.829+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:47:28.367+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.959 seconds
+[2024-10-10T19:47:33.318+0700] {processor.py:186} INFO - Started process (PID=60564) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:33.341+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:47:33.376+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:33.375+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:33.429+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:33.701+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:33.700+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:34.007+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:33.999+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:47:34.598+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.329 seconds
+[2024-10-10T19:47:38.051+0700] {processor.py:186} INFO - Started process (PID=60622) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:38.140+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:47:38.150+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:38.149+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:38.228+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:38.418+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:38.418+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:38.541+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:38.541+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:47:39.696+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.663 seconds
+[2024-10-10T19:47:43.061+0700] {processor.py:186} INFO - Started process (PID=60710) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:43.068+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:47:43.085+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:43.085+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:43.171+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:47:43.484+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:43.484+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:43.874+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:43.873+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:47:44.131+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.131 seconds
+[2024-10-10T19:48:01.485+0700] {processor.py:186} INFO - Started process (PID=60944) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:48:01.504+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:48:01.560+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:01.552+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:48:01.681+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:48:02.048+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:02.048+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:48:02.403+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:02.403+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:48:02.550+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.194 seconds
+[2024-10-10T19:48:04.762+0700] {processor.py:186} INFO - Started process (PID=60988) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:48:04.774+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:48:04.796+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:04.793+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:48:04.870+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:48:05.107+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:05.106+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:48:05.494+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:05.493+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:48:05.741+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.044 seconds
+[2024-10-10T19:48:25.033+0700] {processor.py:186} INFO - Started process (PID=61211) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:48:25.039+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:48:25.046+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:25.043+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:48:25.153+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:48:25.597+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:25.588+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:48:26.153+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:26.153+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:48:26.441+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.458 seconds
+[2024-10-10T19:48:29.233+0700] {processor.py:186} INFO - Started process (PID=61240) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:48:29.234+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:48:29.300+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:29.299+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:48:29.557+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:48:30.040+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:30.039+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:48:30.371+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:30.369+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:48:30.879+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.721 seconds
+[2024-10-10T19:48:47.423+0700] {processor.py:186} INFO - Started process (PID=61411) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:48:47.434+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:48:47.475+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:47.474+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:48:47.605+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:48:48.092+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:48.076+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:48:48.490+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:48.490+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:48:48.698+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.403 seconds
+[2024-10-10T19:49:02.072+0700] {processor.py:186} INFO - Started process (PID=61581) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:02.136+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:49:02.186+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:02.185+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:02.322+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:02.859+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:02.852+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:03.530+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:03.530+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:49:03.937+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 2.077 seconds
+[2024-10-10T19:49:13.263+0700] {processor.py:186} INFO - Started process (PID=61716) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:13.265+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:49:13.287+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:13.286+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:13.506+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:14.000+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:14.000+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:14.475+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:14.465+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:49:14.671+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.437 seconds
+[2024-10-10T19:49:25.008+0700] {processor.py:186} INFO - Started process (PID=61869) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:25.009+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:49:25.022+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:25.017+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:25.167+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:25.480+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:25.478+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:25.986+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:25.986+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:49:26.341+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.414 seconds
+[2024-10-10T19:49:27.931+0700] {processor.py:186} INFO - Started process (PID=61907) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:27.932+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:49:27.991+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:27.990+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:28.122+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:28.457+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:28.452+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:28.572+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:28.572+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:49:28.649+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 0.862 seconds
+[2024-10-10T19:49:35.694+0700] {processor.py:186} INFO - Started process (PID=61989) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:35.699+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:49:35.721+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:35.718+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:35.799+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:36.163+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:36.163+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:36.370+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:36.369+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:49:36.637+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.009 seconds
+[2024-10-10T19:49:47.333+0700] {processor.py:186} INFO - Started process (PID=62181) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:47.341+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:49:47.356+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:47.355+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:47.455+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:49:48.322+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:48.322+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:49.283+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:49.283+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:49:49.859+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 2.585 seconds
+[2024-10-10T19:50:02.618+0700] {processor.py:186} INFO - Started process (PID=62382) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:50:02.620+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2024-10-10T19:50:02.643+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:50:02.642+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:50:02.714+0700] {processor.py:925} INFO - DAG(s) 'latest_only' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py
+[2024-10-10T19:50:02.968+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:50:02.968+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:50:03.320+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:50:03.320+0700] {dag.py:4180} INFO - Setting next_dagrun for latest_only to 2024-10-10 08:00:00+00:00, run_after=2024-10-10 12:00:00+00:00
+[2024-10-10T19:50:03.542+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_latest_only.py took 1.021 seconds

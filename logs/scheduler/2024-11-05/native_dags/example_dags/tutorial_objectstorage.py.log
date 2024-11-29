@@ -1,0 +1,7 @@
+[2024-11-05T19:05:58.449+0700] {processor.py:186} INFO - Started process (PID=66975) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-11-05T19:05:58.451+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py for tasks to queue
+[2024-11-05T19:05:58.463+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:05:58.463+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-11-05T19:05:58.512+0700] {processor.py:925} INFO - DAG(s) 'tutorial_objectstorage' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py
+[2024-11-05T19:05:58.658+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:05:58.658+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T19:05:58.714+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:05:58.714+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_objectstorage to None, run_after=None
+[2024-11-05T19:05:58.794+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_objectstorage.py took 0.368 seconds

@@ -1,0 +1,5 @@
+[2024-11-05T19:05:57.939+0700] {processor.py:186} INFO - Started process (PID=66970) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-11-05T19:05:57.945+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py for tasks to queue
+[2024-11-05T19:05:57.963+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:05:57.954+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-11-05T19:05:57.973+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py
+[2024-11-05T19:05:58.083+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/listener_plugin.py took 0.166 seconds

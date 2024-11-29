@@ -1,0 +1,7 @@
+[2024-11-29T15:44:42.235+0700] {processor.py:186} INFO - Started process (PID=11228) to work on /home/3323600030_Aulia/airflow/dags/DAG/config_with_yaml.py
+[2024-11-29T15:44:42.242+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/DAG/config_with_yaml.py for tasks to queue
+[2024-11-29T15:44:42.246+0700] {logging_mixin.py:190} INFO - [2024-11-29T15:44:42.245+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/DAG/config_with_yaml.py
+[2024-11-29T15:44:42.289+0700] {processor.py:925} INFO - DAG(s) 'config_with_yaml' retrieved from /home/3323600030_Aulia/airflow/dags/DAG/config_with_yaml.py
+[2024-11-29T15:44:42.951+0700] {logging_mixin.py:190} INFO - [2024-11-29T15:44:42.951+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T15:44:43.043+0700] {logging_mixin.py:190} INFO - [2024-11-29T15:44:43.043+0700] {dag.py:4180} INFO - Setting next_dagrun for config_with_yaml to None, run_after=None
+[2024-11-29T15:44:43.124+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/DAG/config_with_yaml.py took 0.908 seconds

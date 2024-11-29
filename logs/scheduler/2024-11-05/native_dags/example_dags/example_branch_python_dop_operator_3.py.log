@@ -1,0 +1,7 @@
+[2024-11-05T19:06:07.325+0700] {processor.py:186} INFO - Started process (PID=67066) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2024-11-05T19:06:07.327+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py for tasks to queue
+[2024-11-05T19:06:07.336+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:07.334+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2024-11-05T19:06:07.375+0700] {processor.py:925} INFO - DAG(s) 'example_branch_dop_operator_v3' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py
+[2024-11-05T19:06:07.431+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:07.430+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T19:06:07.486+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:07.486+0700] {dag.py:4180} INFO - Setting next_dagrun for example_branch_dop_operator_v3 to 2024-11-05 12:05:00+00:00, run_after=2024-11-05 12:06:00+00:00
+[2024-11-05T19:06:07.543+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py took 0.238 seconds

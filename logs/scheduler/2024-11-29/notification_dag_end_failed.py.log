@@ -1,0 +1,1183 @@
+[2024-11-29T14:02:11.937+0700] {processor.py:186} INFO - Started process (PID=29400) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:02:11.939+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:02:11.942+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:11.941+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:02:11.955+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:02:12.006+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:12.005+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:02:12.038+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:12.038+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:02:12.114+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.187 seconds
+[2024-11-29T14:02:42.620+0700] {processor.py:186} INFO - Started process (PID=29608) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:02:42.635+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:02:42.685+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:42.678+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:02:42.797+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:02:42.950+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:42.949+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:02:43.073+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:43.072+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:02:43.127+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.541 seconds
+[2024-11-29T14:03:13.668+0700] {processor.py:186} INFO - Started process (PID=29796) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:03:13.672+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:03:13.675+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:03:13.675+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:03:13.690+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:03:13.768+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:03:13.768+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:03:13.801+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:03:13.800+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:03:13.842+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.184 seconds
+[2024-11-29T14:03:44.439+0700] {processor.py:186} INFO - Started process (PID=29974) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:03:44.442+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:03:44.453+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:03:44.452+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:03:44.485+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:03:44.599+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:03:44.599+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:03:44.681+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:03:44.676+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:03:44.763+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.351 seconds
+[2024-11-29T14:04:14.872+0700] {processor.py:186} INFO - Started process (PID=30137) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:04:14.873+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:04:14.877+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:04:14.876+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:04:14.891+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:04:14.937+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:04:14.936+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:04:14.962+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:04:14.962+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:04:14.995+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.134 seconds
+[2024-11-29T14:04:45.316+0700] {processor.py:186} INFO - Started process (PID=30328) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:04:45.317+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:04:45.324+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:04:45.323+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:04:45.340+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:04:45.387+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:04:45.387+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:04:45.412+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:04:45.412+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:04:45.451+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.150 seconds
+[2024-11-29T14:05:15.802+0700] {processor.py:186} INFO - Started process (PID=30519) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:05:15.807+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:05:15.814+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:05:15.812+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:05:15.839+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:05:15.900+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:05:15.900+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:05:15.929+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:05:15.928+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:05:15.990+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.200 seconds
+[2024-11-29T14:05:46.973+0700] {processor.py:186} INFO - Started process (PID=30723) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:05:46.975+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:05:46.979+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:05:46.979+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:05:46.994+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:05:47.071+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:05:47.068+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:05:47.118+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:05:47.118+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:05:47.157+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.197 seconds
+[2024-11-29T14:06:17.761+0700] {processor.py:186} INFO - Started process (PID=30945) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:06:17.763+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:06:17.767+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:06:17.767+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:06:17.785+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:06:17.848+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:06:17.848+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:06:17.884+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:06:17.884+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:06:17.927+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.177 seconds
+[2024-11-29T14:06:48.234+0700] {processor.py:186} INFO - Started process (PID=31153) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:06:48.236+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:06:48.240+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:06:48.240+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:06:48.252+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:06:48.294+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:06:48.293+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:06:48.316+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:06:48.316+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:06:48.345+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.125 seconds
+[2024-11-29T14:07:18.821+0700] {processor.py:186} INFO - Started process (PID=31377) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:07:18.824+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:07:18.828+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:07:18.827+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:07:18.844+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:07:18.893+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:07:18.893+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:07:18.922+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:07:18.921+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:07:18.959+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.148 seconds
+[2024-11-29T14:07:49.621+0700] {processor.py:186} INFO - Started process (PID=31568) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:07:49.624+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:07:49.633+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:07:49.632+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:07:49.668+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:07:49.793+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:07:49.792+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:07:49.856+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:07:49.856+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:07:49.942+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.348 seconds
+[2024-11-29T14:08:19.731+0700] {processor.py:186} INFO - Started process (PID=31785) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:08:19.747+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:08:19.771+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:08:19.771+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:08:19.837+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:08:20.173+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:08:20.173+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:08:20.323+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:08:20.318+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:08:20.461+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.824 seconds
+[2024-11-29T14:08:23.492+0700] {processor.py:186} INFO - Started process (PID=31822) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:08:23.504+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:08:23.545+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:08:23.525+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:08:23.673+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:08:23.960+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:08:23.959+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:08:24.208+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:08:24.207+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:08:24.440+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.986 seconds
+[2024-11-29T14:09:04.354+0700] {processor.py:186} INFO - Started process (PID=32168) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:09:04.363+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:09:04.374+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:04.373+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:09:04.440+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:09:04.659+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:04.659+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:09:04.710+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:04.706+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:09:04.837+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.532 seconds
+[2024-11-29T14:09:08.843+0700] {processor.py:186} INFO - Started process (PID=32219) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:09:08.853+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:09:08.884+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:08.878+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:09:09.061+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:09:09.311+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:09.311+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:09:09.501+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:09.482+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:09:09.946+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.172 seconds
+[2024-11-29T14:09:41.960+0700] {processor.py:186} INFO - Started process (PID=32511) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:09:41.963+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:09:41.983+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:41.983+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:09:42.066+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:09:42.214+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:42.213+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:09:42.311+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:42.308+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:09:42.414+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.483 seconds
+[2024-11-29T14:09:47.609+0700] {processor.py:186} INFO - Started process (PID=32592) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:09:47.620+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:09:47.650+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:47.644+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:09:47.810+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:09:48.131+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:48.131+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:09:48.259+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:48.259+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:09:48.421+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.908 seconds
+[2024-11-29T14:10:19.660+0700] {processor.py:186} INFO - Started process (PID=32871) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:10:19.683+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:10:19.718+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:19.717+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:10:19.812+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:10:19.998+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:19.997+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:10:20.100+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:20.100+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:10:20.219+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.613 seconds
+[2024-11-29T14:10:25.957+0700] {processor.py:186} INFO - Started process (PID=32932) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:10:25.967+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:10:25.990+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:25.989+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:10:26.053+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:10:26.175+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:26.175+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:10:26.287+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:26.280+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:10:26.448+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.561 seconds
+[2024-11-29T14:11:02.663+0700] {processor.py:186} INFO - Started process (PID=33263) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:11:02.673+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:11:02.696+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:02.695+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:11:02.826+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:11:03.223+0700] {processor.py:186} INFO - Started process (PID=33268) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:11:03.238+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:11:03.272+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:03.271+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:11:03.314+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:03.313+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:11:03.398+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:11:03.565+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:03.563+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:11:03.749+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:03.748+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:11:03.741+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.153 seconds
+[2024-11-29T14:11:04.075+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:04.071+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:11:04.383+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.308 seconds
+[2024-11-29T14:11:16.664+0700] {processor.py:186} INFO - Started process (PID=33395) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:11:16.670+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:11:16.698+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:16.697+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:11:16.826+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:11:17.100+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:17.100+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:11:17.327+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:17.326+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:11:17.513+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.964 seconds
+[2024-11-29T14:11:45.265+0700] {processor.py:186} INFO - Started process (PID=33708) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:11:45.279+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:11:45.303+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:45.299+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:11:45.375+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:11:45.718+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:45.718+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:11:45.811+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:45.811+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:11:46.042+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.935 seconds
+[2024-11-29T14:11:50.339+0700] {processor.py:186} INFO - Started process (PID=33782) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:11:50.367+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:11:50.405+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:50.389+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:11:50.545+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:11:50.910+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:50.909+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:11:51.158+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:51.157+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:11:51.546+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.295 seconds
+[2024-11-29T14:12:01.681+0700] {processor.py:186} INFO - Started process (PID=33935) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:12:01.689+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:12:01.737+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:01.737+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:12:01.848+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:12:02.138+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:02.138+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:12:02.282+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:02.281+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:12:02.487+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.868 seconds
+[2024-11-29T14:12:35.617+0700] {processor.py:186} INFO - Started process (PID=34275) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:12:35.638+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:12:35.680+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:35.679+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:12:35.766+0700] {processor.py:186} INFO - Started process (PID=34278) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:12:35.775+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:12:35.835+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:12:35.826+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:35.825+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:12:36.084+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:12:36.494+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:36.487+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:12:36.586+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:36.585+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:12:36.765+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:36.764+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:12:36.960+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:36.960+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:12:37.051+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.608 seconds
+[2024-11-29T14:12:37.232+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.571 seconds
+[2024-11-29T14:12:57.441+0700] {processor.py:186} INFO - Started process (PID=34458) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:12:57.457+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:12:57.512+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:57.511+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:12:57.556+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:12:58.006+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:57.995+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:12:58.200+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:58.200+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:12:58.426+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.072 seconds
+[2024-11-29T14:13:22.398+0700] {processor.py:186} INFO - Started process (PID=34747) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:13:22.405+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:13:22.425+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:22.424+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:13:22.493+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:13:22.669+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:22.669+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:13:22.867+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:22.867+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:13:23.101+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.741 seconds
+[2024-11-29T14:13:28.830+0700] {processor.py:186} INFO - Started process (PID=34831) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:13:28.843+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:13:28.872+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:28.871+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:13:28.954+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:13:29.225+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:29.222+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:13:29.407+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:29.407+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:13:29.648+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.888 seconds
+[2024-11-29T14:13:52.500+0700] {processor.py:186} INFO - Started process (PID=35071) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:13:52.502+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:13:52.510+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:52.509+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:13:52.551+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:13:52.825+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:52.824+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:13:52.996+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:52.996+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:13:53.161+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.708 seconds
+[2024-11-29T14:14:03.869+0700] {processor.py:186} INFO - Started process (PID=35201) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:14:03.880+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:14:03.909+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:03.908+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:14:04.015+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:14:04.210+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:04.209+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:14:04.307+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:04.303+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:14:04.420+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.635 seconds
+[2024-11-29T14:14:08.570+0700] {processor.py:186} INFO - Started process (PID=35252) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:14:08.572+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:14:08.577+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:08.576+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:14:08.609+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:14:08.688+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:08.688+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:14:08.747+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:08.747+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:14:08.911+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.429 seconds
+[2024-11-29T14:14:44.435+0700] {processor.py:186} INFO - Started process (PID=35604) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:14:44.447+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:14:44.460+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:44.459+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:14:44.531+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:14:44.682+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:44.681+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:14:44.958+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:44.933+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:14:45.260+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.893 seconds
+[2024-11-29T14:14:51.958+0700] {processor.py:186} INFO - Started process (PID=35695) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:14:51.968+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:14:51.998+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:51.996+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:14:52.068+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:14:52.345+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:52.331+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:14:52.594+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:52.594+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:14:52.793+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.953 seconds
+[2024-11-29T14:15:01.299+0700] {processor.py:186} INFO - Started process (PID=35803) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:15:01.303+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:15:01.314+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:01.313+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:15:01.386+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:15:01.528+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:01.528+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:15:01.580+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:01.580+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:15:01.699+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.456 seconds
+[2024-11-29T14:15:27.544+0700] {processor.py:186} INFO - Started process (PID=36160) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:15:27.549+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:15:27.572+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:27.567+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:15:27.631+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:15:27.785+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:27.785+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:15:27.881+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:27.881+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:15:28.048+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.541 seconds
+[2024-11-29T14:15:30.091+0700] {processor.py:186} INFO - Started process (PID=36206) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:15:30.092+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:15:30.098+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:30.098+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:15:30.120+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:15:30.187+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:30.186+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:15:30.313+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:30.312+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:15:30.469+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.402 seconds
+[2024-11-29T14:15:38.072+0700] {processor.py:186} INFO - Started process (PID=36311) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:15:38.074+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:15:38.087+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:38.087+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:15:38.120+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:15:38.397+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:38.397+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:15:38.621+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:38.617+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:15:38.816+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.786 seconds
+[2024-11-29T14:16:07.755+0700] {processor.py:186} INFO - Started process (PID=36613) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:07.818+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:16:07.836+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:07.825+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:07.914+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:08.109+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:08.108+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:16:08.282+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:08.276+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:16:08.594+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.852 seconds
+[2024-11-29T14:16:16.820+0700] {processor.py:186} INFO - Started process (PID=36717) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:16.821+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:16:16.827+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:16.826+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:16.851+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:16.991+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:16.991+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:16:17.080+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:17.080+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:16:17.427+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.620 seconds
+[2024-11-29T14:16:19.118+0700] {processor.py:186} INFO - Started process (PID=36772) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:19.125+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:16:19.141+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:19.140+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:19.237+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:19.353+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:19.350+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:16:19.440+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:19.440+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:16:19.887+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.818 seconds
+[2024-11-29T14:16:47.252+0700] {processor.py:186} INFO - Started process (PID=37119) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:47.254+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:16:47.277+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:47.276+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:47.471+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:47.880+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:47.879+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:16:47.973+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:47.973+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:16:48.293+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.096 seconds
+[2024-11-29T14:16:55.155+0700] {processor.py:186} INFO - Started process (PID=37231) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:55.170+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:16:55.197+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:55.189+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:55.238+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:55.367+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:55.365+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:16:55.602+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:55.601+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:16:55.801+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.688 seconds
+[2024-11-29T14:16:58.714+0700] {processor.py:186} INFO - Started process (PID=37285) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:58.727+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:16:58.752+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:58.747+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:58.826+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:16:58.978+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:58.977+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:16:59.172+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:59.169+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:16:59.400+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.748 seconds
+[2024-11-29T14:17:23.428+0700] {processor.py:186} INFO - Started process (PID=37605) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:17:23.475+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:17:23.496+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:23.495+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:17:23.611+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:17:23.835+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:23.835+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:17:23.946+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:23.945+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:17:24.195+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.831 seconds
+[2024-11-29T14:17:32.968+0700] {processor.py:186} INFO - Started process (PID=37732) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:17:32.970+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:17:32.981+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:32.981+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:17:33.014+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:17:33.107+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:33.107+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:17:33.200+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:33.198+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:17:33.396+0700] {processor.py:186} INFO - Started process (PID=37741) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:17:33.401+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:17:33.418+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:33.412+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:17:33.431+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.494 seconds
+[2024-11-29T14:17:33.472+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:17:33.600+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:33.599+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:17:33.696+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:33.695+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:17:33.949+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.593 seconds
+[2024-11-29T14:17:56.821+0700] {processor.py:186} INFO - Started process (PID=38082) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:17:56.829+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:17:56.845+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:56.842+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:17:56.917+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:17:57.120+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:57.119+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:17:57.324+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:57.324+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:17:57.554+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.792 seconds
+[2024-11-29T14:18:10.302+0700] {processor.py:186} INFO - Started process (PID=38224) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:18:10.305+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:18:10.314+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:10.313+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:18:10.356+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:18:10.591+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:10.587+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:18:10.737+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:10.731+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:18:11.240+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.967 seconds
+[2024-11-29T14:18:21.864+0700] {processor.py:186} INFO - Started process (PID=38340) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:18:21.871+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:18:21.908+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:21.907+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:18:21.926+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:18:21.994+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:21.994+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:18:22.076+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:22.075+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:18:23.831+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 2.020 seconds
+[2024-11-29T14:18:32.783+0700] {processor.py:186} INFO - Started process (PID=38482) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:18:32.853+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:18:32.881+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:32.867+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:18:32.993+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:18:33.241+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:33.240+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:18:33.370+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:33.369+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:18:33.610+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.909 seconds
+[2024-11-29T14:18:46.575+0700] {processor.py:186} INFO - Started process (PID=38669) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:18:46.577+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:18:46.582+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:46.581+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:18:46.610+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:18:46.815+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:46.814+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:18:47.021+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:47.020+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:18:47.369+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.807 seconds
+[2024-11-29T14:18:59.607+0700] {processor.py:186} INFO - Started process (PID=38867) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:18:59.609+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:18:59.639+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:59.632+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:18:59.719+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:18:59.960+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:59.956+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:19:00.106+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:00.100+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:19:00.230+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.710 seconds
+[2024-11-29T14:19:07.768+0700] {processor.py:186} INFO - Started process (PID=38953) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:19:07.779+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:19:07.809+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:07.799+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:19:07.909+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:19:08.141+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:08.140+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:19:08.354+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:08.336+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:19:08.593+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.886 seconds
+[2024-11-29T14:19:20.051+0700] {processor.py:186} INFO - Started process (PID=39075) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:19:20.064+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:19:20.094+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:20.093+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:19:20.201+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:19:20.325+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:20.324+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:19:20.369+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:20.367+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:19:20.479+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.516 seconds
+[2024-11-29T14:19:43.751+0700] {processor.py:186} INFO - Started process (PID=39317) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:19:43.757+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:19:43.792+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:43.789+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:19:43.831+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:19:43.972+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:43.969+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:19:44.056+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:44.055+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:19:44.166+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.487 seconds
+[2024-11-29T14:19:48.470+0700] {processor.py:186} INFO - Started process (PID=39386) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:19:48.472+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:19:48.502+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:48.492+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:19:48.601+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:19:48.864+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:48.864+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:19:49.072+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:49.072+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:19:49.312+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.895 seconds
+[2024-11-29T14:19:55.698+0700] {processor.py:186} INFO - Started process (PID=39465) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:19:55.707+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:19:55.738+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:55.737+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:19:55.824+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:19:56.043+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:56.042+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:19:56.313+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:56.313+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:19:56.647+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.034 seconds
+[2024-11-29T14:20:28.624+0700] {processor.py:186} INFO - Started process (PID=39748) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:20:28.629+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:20:28.671+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:28.657+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:20:28.791+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:20:29.133+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:29.129+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:20:29.209+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:29.204+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:20:29.389+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.842 seconds
+[2024-11-29T14:20:37.809+0700] {processor.py:186} INFO - Started process (PID=39827) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:20:37.817+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:20:37.860+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:37.852+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:20:37.955+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:20:38.176+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:38.170+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:20:38.359+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:38.358+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:20:38.539+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.784 seconds
+[2024-11-29T14:20:58.843+0700] {processor.py:186} INFO - Started process (PID=40025) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:20:58.853+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:20:58.887+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:58.883+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:20:58.953+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:20:59.250+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:59.249+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:20:59.333+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:59.332+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:20:59.501+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.732 seconds
+[2024-11-29T14:21:08.400+0700] {processor.py:186} INFO - Started process (PID=40164) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:21:08.407+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:21:08.454+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:08.445+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:21:08.502+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:21:08.752+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:08.749+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:21:09.007+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:08.984+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:21:09.270+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.957 seconds
+[2024-11-29T14:21:23.056+0700] {processor.py:186} INFO - Started process (PID=40276) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:21:23.058+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:21:23.083+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:23.071+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:21:23.116+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:21:23.503+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:23.487+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:21:23.777+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:23.777+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:21:24.007+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.014 seconds
+[2024-11-29T14:21:51.524+0700] {processor.py:186} INFO - Started process (PID=40510) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:21:51.526+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:21:51.550+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:51.545+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:21:51.611+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:21:51.858+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:51.854+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:21:52.089+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:52.088+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:21:52.375+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.880 seconds
+[2024-11-29T14:22:00.391+0700] {processor.py:186} INFO - Started process (PID=40583) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:22:00.397+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:22:00.428+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:00.418+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:22:00.526+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:22:02.848+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:02.847+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:22:03.052+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:03.052+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:22:03.346+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 3.058 seconds
+[2024-11-29T14:22:06.532+0700] {processor.py:186} INFO - Started process (PID=40643) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:22:06.535+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:22:06.542+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:06.540+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:22:06.586+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:22:06.800+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:06.795+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:22:07.120+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:07.119+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:22:07.512+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.023 seconds
+[2024-11-29T14:22:29.709+0700] {processor.py:186} INFO - Started process (PID=40872) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:22:29.718+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:22:29.751+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:29.743+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:22:29.854+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:22:30.113+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:30.113+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:22:30.263+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:30.262+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:22:30.445+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.823 seconds
+[2024-11-29T14:22:45.794+0700] {processor.py:186} INFO - Started process (PID=41026) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:22:45.800+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:22:45.835+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:45.834+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:22:45.914+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:22:46.043+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:46.043+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:22:46.130+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:46.130+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:22:46.369+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.624 seconds
+[2024-11-29T14:23:20.597+0700] {processor.py:186} INFO - Started process (PID=41333) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:23:20.607+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:23:20.629+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:20.628+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:23:20.682+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:23:20.888+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:20.885+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:23:21.085+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:21.085+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:23:21.243+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.693 seconds
+[2024-11-29T14:23:29.205+0700] {processor.py:186} INFO - Started process (PID=41415) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:23:29.206+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:23:29.239+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:29.238+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:23:29.358+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:23:32.254+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:32.241+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:23:32.613+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:32.613+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:23:32.799+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 3.698 seconds
+[2024-11-29T14:23:35.744+0700] {processor.py:186} INFO - Started process (PID=41448) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:23:35.754+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:23:35.777+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:35.774+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:23:35.911+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:23:36.211+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:36.210+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:23:36.394+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:36.394+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:23:36.952+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.262 seconds
+[2024-11-29T14:24:10.716+0700] {processor.py:186} INFO - Started process (PID=41802) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:24:10.721+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:24:10.735+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:10.735+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:24:10.794+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:24:11.363+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:11.363+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:24:11.460+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:11.454+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:24:11.881+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.280 seconds
+[2024-11-29T14:24:15.570+0700] {processor.py:186} INFO - Started process (PID=41843) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:24:15.571+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:24:15.644+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:15.644+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:24:15.843+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:24:16.115+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:16.114+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:24:16.279+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:16.278+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:24:16.683+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.358 seconds
+[2024-11-29T14:24:27.074+0700] {processor.py:186} INFO - Started process (PID=41952) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:24:27.081+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:24:27.121+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:27.121+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:24:27.255+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:24:27.635+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:27.627+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:24:27.929+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:27.908+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:24:28.462+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.462 seconds
+[2024-11-29T14:24:51.360+0700] {processor.py:186} INFO - Started process (PID=42210) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:24:51.377+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:24:51.425+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:51.417+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:24:51.535+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:24:51.747+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:51.740+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:24:51.979+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:51.974+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:24:52.082+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.797 seconds
+[2024-11-29T14:25:00.690+0700] {processor.py:186} INFO - Started process (PID=42312) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:25:00.694+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:25:00.703+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:00.702+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:25:00.748+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:25:00.911+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:00.911+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:25:00.986+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:00.986+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:25:01.116+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.458 seconds
+[2024-11-29T14:25:12.730+0700] {processor.py:186} INFO - Started process (PID=42459) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:25:12.732+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:25:12.747+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:12.747+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:25:12.825+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:25:13.069+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:13.063+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:25:13.211+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:13.203+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:25:13.354+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.666 seconds
+[2024-11-29T14:25:37.350+0700] {processor.py:186} INFO - Started process (PID=42699) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:25:37.367+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:25:37.407+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:37.399+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:25:37.487+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:25:37.618+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:37.617+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:25:37.717+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:37.716+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:25:37.904+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.646 seconds
+[2024-11-29T14:25:39.074+0700] {processor.py:186} INFO - Started process (PID=42721) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:25:39.079+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:25:39.114+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:39.113+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:25:39.221+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:25:39.466+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:39.466+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:25:39.638+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:39.636+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:25:39.750+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.735 seconds
+[2024-11-29T14:25:51.011+0700] {processor.py:186} INFO - Started process (PID=42887) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:25:51.015+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:25:51.034+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:51.033+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:25:51.152+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:25:51.363+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:51.363+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:25:51.456+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:51.456+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:25:51.591+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.651 seconds
+[2024-11-29T14:26:22.918+0700] {processor.py:186} INFO - Started process (PID=43226) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:26:22.933+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:26:22.970+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:22.969+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:26:23.111+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:26:23.515+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:23.514+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:26:23.760+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:23.759+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:26:23.966+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.154 seconds
+[2024-11-29T14:26:24.344+0700] {processor.py:186} INFO - Started process (PID=43243) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:26:24.347+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:26:24.379+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:24.376+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:26:24.491+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:26:24.656+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:24.656+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:26:24.866+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:24.853+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:26:25.100+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.873 seconds
+[2024-11-29T14:26:28.435+0700] {processor.py:186} INFO - Started process (PID=43318) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:26:28.446+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:26:28.473+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:28.472+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:26:28.583+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:26:28.871+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:28.870+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:26:29.056+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:29.055+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:26:29.191+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.823 seconds
+[2024-11-29T14:27:12.601+0700] {processor.py:186} INFO - Started process (PID=43730) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:27:12.609+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:27:12.627+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:12.623+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:27:12.700+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:27:12.808+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:12.808+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:27:13.000+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:12.999+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:27:13.283+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.706 seconds
+[2024-11-29T14:27:22.163+0700] {processor.py:186} INFO - Started process (PID=43875) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:27:22.196+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:27:22.228+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:22.218+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:27:22.463+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:27:23.088+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:23.086+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:27:23.364+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:23.363+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:27:23.509+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.520 seconds
+[2024-11-29T14:27:38.844+0700] {processor.py:186} INFO - Started process (PID=44095) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:27:38.854+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:27:38.867+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:38.862+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:27:38.912+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:27:39.125+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:39.122+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:27:39.283+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:39.282+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:27:39.442+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.634 seconds
+[2024-11-29T14:27:54.123+0700] {processor.py:186} INFO - Started process (PID=44247) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:27:54.153+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:27:54.175+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:54.174+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:27:54.251+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:27:54.460+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:54.460+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:27:54.630+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:54.629+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:27:54.851+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.803 seconds
+[2024-11-29T14:28:07.486+0700] {processor.py:186} INFO - Started process (PID=44378) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:28:07.498+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:28:07.519+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:28:07.518+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:28:07.661+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:28:07.955+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:28:07.954+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:28:08.196+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:28:08.185+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:28:08.436+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.079 seconds
+[2024-11-29T14:29:02.284+0700] {processor.py:186} INFO - Started process (PID=44780) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:29:02.296+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:29:02.311+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:02.303+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:29:02.377+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:29:02.512+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:02.511+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:29:02.692+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:02.691+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:29:02.905+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.779 seconds
+[2024-11-29T14:29:13.762+0700] {processor.py:186} INFO - Started process (PID=44883) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:29:13.781+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:29:13.799+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:13.799+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:29:13.884+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:29:14.099+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:14.095+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:29:15.417+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:15.409+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:29:15.635+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.915 seconds
+[2024-11-29T14:29:26.230+0700] {processor.py:186} INFO - Started process (PID=44993) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:29:26.240+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:29:26.271+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:26.263+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:29:26.374+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:29:26.755+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:26.754+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:29:27.114+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:27.114+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:29:27.497+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.339 seconds
+[2024-11-29T14:29:51.685+0700] {processor.py:186} INFO - Started process (PID=45340) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:29:51.693+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:29:51.728+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:51.714+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:29:51.827+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:29:52.094+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:52.093+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:29:52.159+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:52.158+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:29:52.271+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.620 seconds
+[2024-11-29T14:30:06.888+0700] {processor.py:186} INFO - Started process (PID=45483) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:30:06.894+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:30:06.919+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:06.918+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:30:06.970+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:30:07.262+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:07.262+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:30:07.417+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:07.411+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:30:08.880+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 2.053 seconds
+[2024-11-29T14:30:19.718+0700] {processor.py:186} INFO - Started process (PID=45649) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:30:19.728+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:30:19.750+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:19.746+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:30:19.853+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:30:20.104+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:20.099+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:30:20.572+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:20.566+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:30:20.779+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.136 seconds
+[2024-11-29T14:30:32.028+0700] {processor.py:186} INFO - Started process (PID=45772) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:30:32.032+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:30:32.044+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:32.041+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:30:32.076+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:30:32.378+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:32.377+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:30:32.713+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:32.712+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:30:32.993+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.977 seconds
+[2024-11-29T14:31:00.808+0700] {processor.py:186} INFO - Started process (PID=46059) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:31:00.812+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:31:00.845+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:00.844+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:31:00.923+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:31:01.089+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:01.089+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:31:01.232+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:01.232+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:31:01.379+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.620 seconds
+[2024-11-29T14:31:12.573+0700] {processor.py:186} INFO - Started process (PID=46163) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:31:12.581+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:31:12.610+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:12.600+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:31:12.705+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:31:12.855+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:12.851+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:31:13.031+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:13.031+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:31:13.209+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.708 seconds
+[2024-11-29T14:31:28.186+0700] {processor.py:186} INFO - Started process (PID=46305) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:31:28.193+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:31:28.208+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:28.202+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:31:28.297+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:31:28.573+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:28.573+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:31:28.802+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:28.801+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:31:29.059+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.941 seconds
+[2024-11-29T14:32:22.213+0700] {processor.py:186} INFO - Started process (PID=46598) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:32:22.234+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:32:22.290+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:22.282+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:32:22.404+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:32:22.612+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:22.611+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:32:22.858+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:22.858+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:32:23.031+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.901 seconds
+[2024-11-29T14:32:41.071+0700] {processor.py:186} INFO - Started process (PID=46771) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:32:41.080+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:32:41.104+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:41.103+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:32:41.235+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:32:43.759+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:43.752+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:32:44.157+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:44.130+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:32:44.577+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 3.607 seconds
+[2024-11-29T14:32:51.741+0700] {processor.py:186} INFO - Started process (PID=46840) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:32:51.747+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:32:51.785+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:51.785+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:32:51.942+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:32:52.061+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:52.060+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:32:52.457+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:52.457+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:32:52.979+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.320 seconds
+[2024-11-29T14:33:32.233+0700] {processor.py:186} INFO - Started process (PID=47116) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:33:32.237+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:33:32.265+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:33:32.262+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:33:32.333+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:33:32.641+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:33:32.641+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:33:32.874+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:33:32.873+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:33:33.197+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.050 seconds
+[2024-11-29T14:33:41.359+0700] {processor.py:186} INFO - Started process (PID=47177) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:33:41.362+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:33:41.367+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:33:41.366+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:33:41.399+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:33:41.714+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:33:41.714+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:33:42.171+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:33:42.171+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:33:42.462+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.143 seconds
+[2024-11-29T14:34:17.869+0700] {processor.py:186} INFO - Started process (PID=47427) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:34:17.877+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:34:17.903+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:17.899+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:34:18.028+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:34:18.255+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:18.248+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:34:18.458+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:18.446+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:34:18.827+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.024 seconds
+[2024-11-29T14:34:36.395+0700] {processor.py:186} INFO - Started process (PID=47602) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:34:36.402+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:34:36.467+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:36.450+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:34:36.607+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:34:36.792+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:36.791+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:34:37.065+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:37.065+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:34:37.267+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.960 seconds
+[2024-11-29T14:34:40.308+0700] {processor.py:186} INFO - Started process (PID=47638) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:34:40.319+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:34:40.365+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:40.364+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:34:40.475+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:34:40.730+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:40.729+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:34:40.858+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:40.853+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:34:40.974+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.758 seconds
+[2024-11-29T14:35:09.077+0700] {processor.py:186} INFO - Started process (PID=47922) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:35:09.085+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:35:09.115+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:09.108+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:35:09.184+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:35:09.464+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:09.459+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:35:09.591+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:09.591+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:35:09.752+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.736 seconds
+[2024-11-29T14:35:22.858+0700] {processor.py:186} INFO - Started process (PID=48076) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:35:22.862+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:35:22.874+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:22.874+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:35:22.968+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:35:23.233+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:23.229+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:35:23.568+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:23.568+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:35:23.869+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.036 seconds
+[2024-11-29T14:35:23.897+0700] {processor.py:186} INFO - Started process (PID=48084) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:35:23.910+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:35:23.923+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:23.922+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:35:24.001+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:35:24.158+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:24.158+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:35:24.268+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:24.268+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:35:24.433+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.602 seconds
+[2024-11-29T14:36:04.878+0700] {processor.py:186} INFO - Started process (PID=48452) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:04.881+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:36:04.896+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:04.895+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:04.976+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:05.248+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:05.247+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:36:05.408+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:05.400+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:36:05.757+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.913 seconds
+[2024-11-29T14:36:07.823+0700] {processor.py:186} INFO - Started process (PID=48485) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:07.836+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:36:07.881+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:07.869+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:07.957+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:08.230+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:08.229+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:36:08.382+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:08.382+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:36:08.544+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.807 seconds
+[2024-11-29T14:36:17.638+0700] {processor.py:186} INFO - Started process (PID=48603) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:17.644+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:36:17.677+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:17.670+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:17.700+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:17.832+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:17.831+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:36:18.035+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:18.034+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:36:18.308+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.696 seconds
+[2024-11-29T14:36:41.470+0700] {processor.py:186} INFO - Started process (PID=48902) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:41.478+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:36:41.489+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:41.488+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:41.539+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:41.851+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:41.850+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:36:42.017+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:42.017+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:36:42.125+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.713 seconds
+[2024-11-29T14:36:46.801+0700] {processor.py:186} INFO - Started process (PID=48973) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:46.802+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:36:46.807+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:46.807+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:46.822+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:46.932+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:46.931+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:36:47.028+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:47.027+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:36:47.102+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.340 seconds
+[2024-11-29T14:36:54.013+0700] {processor.py:186} INFO - Started process (PID=49073) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:54.033+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:36:54.047+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:54.045+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:54.112+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:36:54.330+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:54.329+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:36:54.547+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:54.546+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:36:54.836+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.865 seconds
+[2024-11-29T14:37:19.267+0700] {processor.py:186} INFO - Started process (PID=49395) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:37:19.277+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:37:19.293+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:19.291+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:37:19.350+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:37:19.502+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:19.500+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:37:19.627+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:19.626+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:37:19.761+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.541 seconds
+[2024-11-29T14:37:22.783+0700] {processor.py:186} INFO - Started process (PID=49448) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:37:22.784+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:37:22.790+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:22.790+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:37:22.817+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:37:22.955+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:22.955+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:37:23.073+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:23.069+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:37:23.312+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.585 seconds
+[2024-11-29T14:37:29.912+0700] {processor.py:186} INFO - Started process (PID=49537) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:37:29.917+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:37:29.934+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:29.929+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:37:29.995+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:37:30.095+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:30.094+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:37:30.210+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:30.207+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:37:30.329+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.470 seconds
+[2024-11-29T14:37:57.406+0700] {processor.py:186} INFO - Started process (PID=49893) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:37:57.416+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:37:57.439+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:57.437+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:37:57.530+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:37:57.775+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:57.775+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:37:57.895+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:57.895+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:37:57.991+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.645 seconds
+[2024-11-29T14:37:58.329+0700] {processor.py:186} INFO - Started process (PID=49905) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:37:58.336+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:37:58.380+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:58.379+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:37:58.453+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:37:58.663+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:58.662+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:37:58.765+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:58.765+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:37:58.931+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.692 seconds
+[2024-11-29T14:38:05.749+0700] {processor.py:186} INFO - Started process (PID=50003) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:38:05.750+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:38:05.772+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:05.768+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:38:05.868+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:38:06.179+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:06.174+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:38:06.268+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:06.265+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:38:06.439+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.771 seconds
+[2024-11-29T14:38:29.969+0700] {processor.py:186} INFO - Started process (PID=50314) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:38:29.979+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:38:30.022+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:30.011+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:38:30.161+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:38:30.589+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:30.587+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:38:30.740+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:30.740+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:38:30.866+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.051 seconds
+[2024-11-29T14:38:40.929+0700] {processor.py:186} INFO - Started process (PID=50447) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:38:40.938+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:38:40.961+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:40.960+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:38:41.034+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:38:41.247+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:41.243+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:38:41.316+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:41.305+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:38:41.438+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.560 seconds
+[2024-11-29T14:38:43.922+0700] {processor.py:186} INFO - Started process (PID=50490) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:38:43.923+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:38:43.944+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:43.940+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:38:44.018+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:38:44.173+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:44.173+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:38:44.351+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:44.350+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:38:44.502+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.651 seconds
+[2024-11-29T14:39:09.735+0700] {processor.py:186} INFO - Started process (PID=50804) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:39:09.742+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:39:09.760+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:09.759+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:39:09.851+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:39:10.032+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:10.031+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:39:10.181+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:10.176+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:39:10.378+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.703 seconds
+[2024-11-29T14:39:21.304+0700] {processor.py:186} INFO - Started process (PID=50961) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:39:21.335+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:39:21.383+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:21.374+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:39:21.588+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:39:22.275+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:22.259+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:39:22.788+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:22.764+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:39:23.115+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.852 seconds
+[2024-11-29T14:39:24.992+0700] {processor.py:186} INFO - Started process (PID=51041) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:39:25.006+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:39:25.030+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:25.029+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:39:25.211+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:39:25.579+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:25.578+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:39:25.788+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:25.787+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:39:25.874+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.032 seconds
+[2024-11-29T14:39:53.437+0700] {processor.py:186} INFO - Started process (PID=51394) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:39:53.440+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:39:53.458+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:53.455+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:39:53.552+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:39:53.710+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:53.704+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:39:53.827+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:53.826+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:39:53.957+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.599 seconds
+[2024-11-29T14:40:02.845+0700] {processor.py:186} INFO - Started process (PID=51540) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:40:02.851+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:40:02.869+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:02.868+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:40:02.949+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:40:03.210+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:03.209+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:40:03.362+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:03.362+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:40:03.526+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.722 seconds
+[2024-11-29T14:40:09.277+0700] {processor.py:186} INFO - Started process (PID=51611) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:40:09.278+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:40:09.284+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:09.283+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:40:09.318+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:40:09.490+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:09.489+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:40:09.642+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:09.641+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:40:09.762+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.538 seconds
+[2024-11-29T14:40:36.474+0700] {processor.py:186} INFO - Started process (PID=51913) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:40:36.477+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:40:36.512+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:36.506+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:40:36.615+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:40:36.861+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:36.861+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:40:36.910+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:36.909+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:40:37.001+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.545 seconds
+[2024-11-29T14:40:40.982+0700] {processor.py:186} INFO - Started process (PID=51977) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:40:40.991+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:40:41.000+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:40.998+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:40:41.057+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:40:41.284+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:41.284+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:40:41.419+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:41.418+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:40:41.494+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.583 seconds
+[2024-11-29T14:40:55.826+0700] {processor.py:186} INFO - Started process (PID=52154) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:40:55.827+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:40:55.856+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:55.851+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:40:55.919+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:40:56.059+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:56.058+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:40:56.212+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:56.211+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:40:56.381+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.621 seconds
+[2024-11-29T14:41:13.721+0700] {processor.py:186} INFO - Started process (PID=52353) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:41:13.740+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:41:13.779+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:13.776+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:41:13.877+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:41:14.151+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:14.151+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:41:14.373+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:14.362+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:41:14.542+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.894 seconds
+[2024-11-29T14:41:26.445+0700] {processor.py:186} INFO - Started process (PID=52486) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:41:26.450+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:41:26.473+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:26.469+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:41:26.524+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:41:26.785+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:26.782+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:41:26.984+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:26.978+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:41:27.127+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.751 seconds
+[2024-11-29T14:41:32.798+0700] {processor.py:186} INFO - Started process (PID=52562) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:41:32.800+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:41:32.805+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:32.804+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:41:32.835+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:41:33.028+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:33.027+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:41:33.205+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:33.202+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:41:33.383+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.617 seconds
+[2024-11-29T14:41:51.409+0700] {processor.py:186} INFO - Started process (PID=52805) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:41:51.413+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:41:51.430+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:51.429+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:41:51.512+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:41:51.755+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:51.754+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:41:51.894+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:51.893+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:41:52.129+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.781 seconds
+[2024-11-29T14:41:59.427+0700] {processor.py:186} INFO - Started process (PID=52929) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:41:59.429+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:41:59.435+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:59.434+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:41:59.470+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:41:59.573+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:59.572+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:41:59.652+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:59.651+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:41:59.800+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.385 seconds
+[2024-11-29T14:42:10.158+0700] {processor.py:186} INFO - Started process (PID=53094) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:42:10.162+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:42:10.172+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:10.171+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:42:10.229+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:42:10.438+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:10.432+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:42:10.596+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:10.596+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:42:10.777+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.660 seconds
+[2024-11-29T14:42:25.219+0700] {processor.py:186} INFO - Started process (PID=53298) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:42:25.231+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:42:25.252+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:25.249+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:42:25.342+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:42:25.504+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:25.501+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:42:25.609+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:25.609+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:42:25.798+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.645 seconds
+[2024-11-29T14:42:36.978+0700] {processor.py:186} INFO - Started process (PID=53446) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:42:36.984+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:42:37.008+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:37.003+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:42:37.100+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:42:37.355+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:37.354+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:42:37.416+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:37.416+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:42:37.562+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.659 seconds
+[2024-11-29T14:42:50.579+0700] {processor.py:186} INFO - Started process (PID=53618) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:42:50.595+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:42:50.630+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:50.629+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:42:50.732+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:42:50.999+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:50.994+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:42:51.118+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:51.118+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:42:51.240+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.743 seconds
+[2024-11-29T14:43:03.533+0700] {processor.py:186} INFO - Started process (PID=53766) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:43:03.544+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:43:03.561+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:03.559+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:43:03.652+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:43:03.877+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:03.876+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:43:04.027+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:04.027+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:43:04.160+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.744 seconds
+[2024-11-29T14:43:15.181+0700] {processor.py:186} INFO - Started process (PID=53929) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:43:15.187+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:43:15.202+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:15.201+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:43:15.245+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:43:15.443+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:15.443+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:43:15.547+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:15.547+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:43:15.697+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.549 seconds
+[2024-11-29T14:43:24.904+0700] {processor.py:186} INFO - Started process (PID=54052) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:43:24.907+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:43:24.918+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:24.916+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:43:24.953+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:43:25.165+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:25.165+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:43:25.353+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:25.347+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:43:25.489+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.622 seconds
+[2024-11-29T14:43:40.523+0700] {processor.py:186} INFO - Started process (PID=54246) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:43:40.531+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:43:40.564+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:40.563+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:43:40.636+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:43:40.826+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:40.826+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:43:40.980+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:40.979+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:43:41.129+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.671 seconds
+[2024-11-29T14:43:54.463+0700] {processor.py:186} INFO - Started process (PID=54426) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:43:54.471+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:43:54.498+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:54.498+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:43:54.592+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:43:54.858+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:54.857+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:43:54.920+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:54.914+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:43:55.073+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.676 seconds
+[2024-11-29T14:44:00.843+0700] {processor.py:186} INFO - Started process (PID=54507) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:44:00.847+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:44:00.865+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:00.861+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:44:00.965+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:44:01.168+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:01.168+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:44:01.270+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:01.269+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:44:01.385+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.584 seconds
+[2024-11-29T14:44:27.827+0700] {processor.py:186} INFO - Started process (PID=54781) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:44:27.836+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:44:27.865+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:27.861+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:44:27.969+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:44:28.194+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:28.193+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:44:28.380+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:28.380+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:44:28.586+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.819 seconds
+[2024-11-29T14:44:32.468+0700] {processor.py:186} INFO - Started process (PID=54834) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:44:32.472+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:44:32.491+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:32.490+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:44:32.591+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:44:32.856+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:32.855+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:44:33.037+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:33.037+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:44:33.318+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.965 seconds
+[2024-11-29T14:44:49.535+0700] {processor.py:186} INFO - Started process (PID=55043) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:44:49.537+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:44:49.556+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:49.555+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:44:49.638+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:44:49.932+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:49.932+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:44:50.027+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:50.014+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:44:50.173+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.673 seconds
+[2024-11-29T14:45:05.617+0700] {processor.py:186} INFO - Started process (PID=55214) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:45:05.626+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:45:05.652+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:05.643+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:45:05.772+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:45:06.109+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:06.106+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:45:06.292+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:06.285+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:45:06.484+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.949 seconds
+[2024-11-29T14:45:13.917+0700] {processor.py:186} INFO - Started process (PID=55336) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:45:13.929+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:45:14.019+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:14.007+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:45:14.222+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:45:14.504+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:14.503+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:45:14.681+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:14.681+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:45:14.811+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.952 seconds
+[2024-11-29T14:45:31.154+0700] {processor.py:186} INFO - Started process (PID=55525) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:45:31.165+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:45:31.208+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:31.196+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:45:31.311+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:45:31.565+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:31.565+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:45:31.633+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:31.633+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:45:31.828+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.732 seconds
+[2024-11-29T14:45:44.137+0700] {processor.py:186} INFO - Started process (PID=55653) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:45:44.146+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:45:44.177+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:44.177+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:45:44.285+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:45:44.569+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:44.567+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:45:44.810+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:44.807+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:45:45.028+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.976 seconds
+[2024-11-29T14:45:54.621+0700] {processor.py:186} INFO - Started process (PID=55755) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:45:54.627+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:45:54.653+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:54.650+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:45:54.760+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:45:55.091+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:55.091+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:45:55.277+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:55.275+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:45:55.483+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.902 seconds
+[2024-11-29T14:46:10.639+0700] {processor.py:186} INFO - Started process (PID=55900) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:46:10.653+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:46:10.695+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:10.687+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:46:10.823+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:46:11.151+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:11.150+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:46:11.322+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:11.322+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:46:11.573+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.998 seconds
+[2024-11-29T14:46:28.232+0700] {processor.py:186} INFO - Started process (PID=56051) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:46:28.249+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:46:28.325+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:28.324+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:46:28.567+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:46:28.912+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:28.912+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:46:29.275+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:29.275+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:46:29.589+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.487 seconds
+[2024-11-29T14:46:42.727+0700] {processor.py:186} INFO - Started process (PID=56167) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:46:42.730+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:46:42.822+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:42.794+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:46:43.044+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:46:43.601+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:43.585+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:46:44.001+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:44.001+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:46:44.417+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.868 seconds
+[2024-11-29T14:47:05.166+0700] {processor.py:186} INFO - Started process (PID=56341) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:47:05.167+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:47:05.228+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:05.224+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:47:05.358+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:47:05.573+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:05.572+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:47:05.823+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:05.822+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:47:06.061+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.017 seconds
+[2024-11-29T14:47:28.902+0700] {processor.py:186} INFO - Started process (PID=56510) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:47:28.904+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:47:28.919+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:28.915+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:47:29.002+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:47:29.213+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:29.213+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:47:29.480+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:29.452+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:47:29.823+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.941 seconds
+[2024-11-29T14:47:46.519+0700] {processor.py:186} INFO - Started process (PID=56644) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:47:46.556+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:47:46.606+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:46.599+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:47:46.812+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:47:47.061+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:47.057+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:47:47.150+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:47.149+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:47:47.263+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.911 seconds
+[2024-11-29T14:48:12.105+0700] {processor.py:186} INFO - Started process (PID=56862) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:48:12.128+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:48:12.158+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:12.157+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:48:12.401+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:48:12.587+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:12.587+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:48:12.649+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:12.649+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:48:12.893+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 0.861 seconds
+[2024-11-29T14:48:19.931+0700] {processor.py:186} INFO - Started process (PID=56935) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:48:19.954+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:48:20.022+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:20.011+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:48:20.143+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:48:20.568+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:20.557+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:48:20.793+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:20.792+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:48:21.106+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.286 seconds
+[2024-11-29T14:48:51.313+0700] {processor.py:186} INFO - Started process (PID=57199) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:48:51.317+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:48:51.337+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:51.332+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:48:51.399+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:48:51.606+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:51.606+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:48:51.982+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:51.981+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:48:52.430+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.138 seconds
+[2024-11-29T14:49:10.134+0700] {processor.py:186} INFO - Started process (PID=57345) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:49:10.173+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:49:10.230+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:49:10.230+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:49:10.265+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:49:10.587+0700] {processor.py:186} INFO - Started process (PID=57350) to work on /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:49:10.588+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py for tasks to queue
+[2024-11-29T14:49:10.678+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:49:10.674+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:49:10.827+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:49:10.826+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:49:10.983+0700] {processor.py:925} INFO - DAG(s) 'notification_dag_end_failed' retrieved from /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py
+[2024-11-29T14:49:11.263+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:49:11.262+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:49:11.318+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:49:11.318+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:49:11.400+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:49:11.399+0700] {dag.py:4180} INFO - Setting next_dagrun for notification_dag_end_failed to None, run_after=None
+[2024-11-29T14:49:11.400+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.333 seconds
+[2024-11-29T14:49:11.629+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/notification_dag_end_failed.py took 1.112 seconds

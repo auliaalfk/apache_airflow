@@ -1,0 +1,891 @@
+[2024-10-10T15:23:34.445+0700] {processor.py:186} INFO - Started process (PID=28542) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:23:34.446+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T15:23:34.450+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:34.450+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:23:34.471+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:23:34.658+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:34.657+0700] {override.py:1900} INFO - Created Permission View: can read on DAG:example_complex
+[2024-10-10T15:23:34.673+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:34.673+0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_complex
+[2024-10-10T15:23:34.684+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:34.684+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_complex
+[2024-10-10T15:23:34.700+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:34.700+0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_complex
+[2024-10-10T15:23:34.712+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:34.711+0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_complex
+[2024-10-10T15:23:34.723+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:34.722+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_complex
+[2024-10-10T15:23:34.738+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:34.737+0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_complex
+[2024-10-10T15:23:34.738+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:34.738+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:23:34.759+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:34.758+0700] {dag.py:3262} INFO - Creating ORM DAG for example_complex
+[2024-10-10T15:23:34.760+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:34.759+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T15:23:34.788+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.354 seconds
+[2024-10-10T15:24:49.583+0700] {processor.py:186} INFO - Started process (PID=28820) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:24:49.585+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T15:24:49.588+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:24:49.588+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:24:49.625+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:24:49.712+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:24:49.711+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:24:49.854+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:24:49.839+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T15:24:49.973+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.401 seconds
+[2024-10-10T15:26:00.171+0700] {processor.py:186} INFO - Started process (PID=28897) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:26:00.173+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T15:26:00.176+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:26:00.175+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:26:00.192+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:26:00.231+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:26:00.230+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:26:00.249+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:26:00.249+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T15:26:00.278+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.116 seconds
+[2024-10-10T15:27:10.616+0700] {processor.py:186} INFO - Started process (PID=28978) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:27:10.625+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T15:27:10.636+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:27:10.633+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:27:10.704+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:27:10.764+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:27:10.763+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:27:10.787+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:27:10.786+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T15:27:10.822+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.222 seconds
+[2024-10-10T15:28:16.212+0700] {processor.py:186} INFO - Started process (PID=29043) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:28:16.214+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T15:28:16.217+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:28:16.216+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:28:16.234+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:28:16.272+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:28:16.271+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:28:16.291+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:28:16.291+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T15:28:16.333+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.130 seconds
+[2024-10-10T15:29:23.886+0700] {processor.py:186} INFO - Started process (PID=29120) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:29:23.888+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T15:29:23.892+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:29:23.891+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:29:23.909+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:29:23.947+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:29:23.947+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:29:23.973+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:29:23.972+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T15:29:24.011+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.137 seconds
+[2024-10-10T15:30:38.844+0700] {processor.py:186} INFO - Started process (PID=29213) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:30:38.845+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T15:30:38.849+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:30:38.849+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:30:38.871+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T15:30:38.916+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:30:38.915+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:30:38.935+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:30:38.935+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T15:30:38.965+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.135 seconds
+[2024-10-10T18:50:45.377+0700] {processor.py:186} INFO - Started process (PID=44638) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:50:45.392+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T18:50:45.401+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:45.398+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:50:45.444+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:50:45.897+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:45.896+0700] {override.py:1900} INFO - Created Permission View: can read on DAG:example_complex
+[2024-10-10T18:50:45.928+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:45.928+0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:example_complex
+[2024-10-10T18:50:45.953+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:45.953+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:example_complex
+[2024-10-10T18:50:45.982+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:45.982+0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:example_complex
+[2024-10-10T18:50:46.009+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:46.008+0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:example_complex
+[2024-10-10T18:50:46.032+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:46.032+0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:example_complex
+[2024-10-10T18:50:46.058+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:46.057+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:example_complex
+[2024-10-10T18:50:46.059+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:46.058+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:50:46.114+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:46.114+0700] {dag.py:3262} INFO - Creating ORM DAG for example_complex
+[2024-10-10T18:50:46.118+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:46.117+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T18:50:46.178+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.849 seconds
+[2024-10-10T18:51:16.686+0700] {processor.py:186} INFO - Started process (PID=44769) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:51:16.688+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T18:51:16.692+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:16.691+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:51:16.719+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:51:16.814+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:16.813+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:51:16.854+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:16.854+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T18:51:16.899+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.226 seconds
+[2024-10-10T18:51:47.265+0700] {processor.py:186} INFO - Started process (PID=44889) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:51:47.267+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T18:51:47.270+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:47.270+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:51:47.296+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:51:47.369+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:47.369+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:51:47.395+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:47.394+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T18:51:47.428+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.172 seconds
+[2024-10-10T18:52:17.536+0700] {processor.py:186} INFO - Started process (PID=45010) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:52:17.538+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T18:52:17.542+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:52:17.541+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:52:17.559+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:52:17.613+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:52:17.612+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:52:17.638+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:52:17.637+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T18:52:17.667+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.143 seconds
+[2024-10-10T18:53:48.913+0700] {processor.py:186} INFO - Started process (PID=45341) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:53:48.917+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T18:53:48.923+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:53:48.922+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:53:49.017+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:53:49.147+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:53:49.146+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:53:49.181+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:53:49.180+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T18:53:49.233+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.333 seconds
+[2024-10-10T18:54:19.384+0700] {processor.py:186} INFO - Started process (PID=45508) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:54:19.386+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T18:54:19.389+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:19.388+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:54:19.410+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:54:19.477+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:19.476+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:54:19.508+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:19.508+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T18:54:19.563+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.190 seconds
+[2024-10-10T18:54:57.818+0700] {processor.py:186} INFO - Started process (PID=45641) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:54:57.830+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T18:54:57.844+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:57.842+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:54:57.918+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:54:58.290+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:58.285+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:54:58.576+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:58.576+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T18:54:58.894+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.127 seconds
+[2024-10-10T18:55:29.105+0700] {processor.py:186} INFO - Started process (PID=45761) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:55:29.106+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T18:55:29.110+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:29.109+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:55:29.142+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:55:29.214+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:29.214+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:55:29.241+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:29.241+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T18:55:29.284+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.192 seconds
+[2024-10-10T18:55:59.410+0700] {processor.py:186} INFO - Started process (PID=45895) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:55:59.411+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T18:55:59.415+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:59.414+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:55:59.435+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:55:59.491+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:59.491+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:55:59.513+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:59.513+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T18:55:59.544+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.142 seconds
+[2024-10-10T18:56:30.382+0700] {processor.py:186} INFO - Started process (PID=46029) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:56:30.394+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T18:56:30.406+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:56:30.404+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:56:30.557+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:56:30.956+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:56:30.955+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:56:31.134+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:56:31.131+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T18:56:31.472+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.150 seconds
+[2024-10-10T18:58:43.124+0700] {processor.py:186} INFO - Started process (PID=46255) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:58:43.128+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T18:58:43.145+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:58:43.139+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:58:43.218+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:58:43.374+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:58:43.374+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:58:43.414+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:58:43.413+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T18:58:43.468+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.355 seconds
+[2024-10-10T18:59:13.591+0700] {processor.py:186} INFO - Started process (PID=46378) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:59:13.593+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T18:59:13.596+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:59:13.596+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:59:13.616+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T18:59:13.673+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:59:13.672+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:59:13.693+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:59:13.693+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T18:59:13.721+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.142 seconds
+[2024-10-10T19:01:53.056+0700] {processor.py:186} INFO - Started process (PID=46797) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:01:53.058+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:01:53.062+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:01:53.061+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:01:53.099+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:01:53.199+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:01:53.199+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:01:53.240+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:01:53.239+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:01:53.282+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.237 seconds
+[2024-10-10T19:02:23.966+0700] {processor.py:186} INFO - Started process (PID=46994) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:02:23.968+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:02:23.971+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:02:23.971+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:02:23.998+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:02:24.084+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:02:24.083+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:02:24.117+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:02:24.117+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:02:24.156+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.204 seconds
+[2024-10-10T19:16:43.351+0700] {processor.py:186} INFO - Started process (PID=47526) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:16:43.352+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:16:43.356+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:16:43.356+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:16:43.382+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:16:43.473+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:16:43.473+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:16:43.505+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:16:43.505+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:16:43.550+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.210 seconds
+[2024-10-10T19:17:14.055+0700] {processor.py:186} INFO - Started process (PID=47657) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:17:14.056+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:17:14.060+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:14.060+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:17:14.087+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:17:14.178+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:14.178+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:17:14.212+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:14.212+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:17:14.252+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.208 seconds
+[2024-10-10T19:17:45.210+0700] {processor.py:186} INFO - Started process (PID=47784) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:17:45.211+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:17:45.214+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:45.213+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:17:45.241+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:17:45.341+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:45.341+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:17:45.400+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:45.399+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:17:45.442+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.243 seconds
+[2024-10-10T19:18:16.351+0700] {processor.py:186} INFO - Started process (PID=47923) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:18:16.352+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:18:16.355+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:16.354+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:18:16.378+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:18:16.469+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:16.468+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:18:16.502+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:16.501+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:18:16.537+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.200 seconds
+[2024-10-10T19:18:47.059+0700] {processor.py:186} INFO - Started process (PID=48039) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:18:47.061+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:18:47.063+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:47.062+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:18:47.089+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:18:47.178+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:47.177+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:18:47.211+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:47.211+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:18:47.250+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.200 seconds
+[2024-10-10T19:19:21.305+0700] {processor.py:186} INFO - Started process (PID=48182) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:19:21.307+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:19:21.309+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:21.308+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:19:21.362+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:19:21.512+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:21.511+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:19:21.550+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:21.549+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:19:21.604+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.310 seconds
+[2024-10-10T19:19:52.587+0700] {processor.py:186} INFO - Started process (PID=48320) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:19:52.588+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:19:52.593+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:52.592+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:19:52.626+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:19:52.699+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:52.698+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:19:52.728+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:52.727+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:19:52.794+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.217 seconds
+[2024-10-10T19:20:23.371+0700] {processor.py:186} INFO - Started process (PID=48446) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:20:23.372+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:20:23.375+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:23.374+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:20:23.407+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:20:23.489+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:23.489+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:20:23.512+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:23.512+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:20:23.540+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.184 seconds
+[2024-10-10T19:20:53.925+0700] {processor.py:186} INFO - Started process (PID=48571) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:20:53.929+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:20:53.931+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:53.930+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:20:53.966+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:20:54.048+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:54.048+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:20:54.071+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:54.070+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:20:54.100+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.188 seconds
+[2024-10-10T19:21:33.857+0700] {processor.py:186} INFO - Started process (PID=48727) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:21:33.859+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:21:33.861+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:21:33.860+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:21:33.916+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:21:34.044+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:21:34.043+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:21:34.111+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:21:34.111+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:21:34.155+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.311 seconds
+[2024-10-10T19:22:05.349+0700] {processor.py:186} INFO - Started process (PID=48852) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:22:05.350+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:22:05.352+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:05.352+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:22:05.400+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:22:05.753+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:05.752+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:22:05.858+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:05.857+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:22:06.000+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.662 seconds
+[2024-10-10T19:22:36.260+0700] {processor.py:186} INFO - Started process (PID=48967) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:22:36.262+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:22:36.264+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:36.264+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:22:36.291+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:22:36.376+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:36.375+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:22:36.409+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:36.409+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:22:36.450+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.203 seconds
+[2024-10-10T19:28:25.407+0700] {processor.py:186} INFO - Started process (PID=49254) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:28:25.414+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:28:25.420+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:25.419+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:28:25.466+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:28:25.547+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:25.547+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:28:25.580+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:25.579+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:28:25.623+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.254 seconds
+[2024-10-10T19:28:57.509+0700] {processor.py:186} INFO - Started process (PID=49432) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:28:57.513+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:28:57.526+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:57.524+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:28:57.590+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:28:57.741+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:57.740+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:28:57.781+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:57.780+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:28:57.832+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.334 seconds
+[2024-10-10T19:29:28.072+0700] {processor.py:186} INFO - Started process (PID=49548) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:29:28.076+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:29:28.080+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:28.079+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:29:28.109+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:29:28.217+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:28.216+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:29:28.248+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:28.248+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:29:28.285+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.225 seconds
+[2024-10-10T19:29:58.616+0700] {processor.py:186} INFO - Started process (PID=49670) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:29:58.618+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:29:58.622+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:58.621+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:29:58.661+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:29:58.774+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:58.774+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:29:58.810+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:58.810+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:29:58.863+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.258 seconds
+[2024-10-10T19:30:29.312+0700] {processor.py:186} INFO - Started process (PID=49794) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:30:29.314+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:30:29.322+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:30:29.321+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:30:29.366+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:30:29.488+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:30:29.488+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:30:29.528+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:30:29.527+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:30:29.606+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.306 seconds
+[2024-10-10T19:31:09.415+0700] {processor.py:186} INFO - Started process (PID=50089) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:31:09.417+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:31:09.422+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:09.421+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:31:09.517+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:31:09.804+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:09.803+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:31:09.936+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:09.933+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:31:09.940+0700] {processor.py:186} INFO - Started process (PID=50093) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:31:09.943+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:31:09.958+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:09.957+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:31:10.051+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:31:10.189+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.795 seconds
+[2024-10-10T19:31:10.462+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:10.455+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:31:10.656+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:10.651+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:31:10.890+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.002 seconds
+[2024-10-10T19:31:40.599+0700] {processor.py:186} INFO - Started process (PID=50325) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:31:40.600+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:31:40.603+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:40.602+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:31:40.622+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:31:40.706+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:40.706+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:31:40.736+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:40.735+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:31:40.773+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.184 seconds
+[2024-10-10T19:31:41.403+0700] {processor.py:186} INFO - Started process (PID=50332) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:31:41.407+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:31:41.426+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:41.425+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:31:41.523+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:31:41.856+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:41.855+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:31:42.062+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:42.061+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:31:42.249+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.890 seconds
+[2024-10-10T19:32:26.264+0700] {processor.py:186} INFO - Started process (PID=51193) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:32:26.281+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:32:26.381+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:26.351+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:32:27.334+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:32:27.934+0700] {processor.py:186} INFO - Started process (PID=51194) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:32:27.939+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:32:28.025+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:28.021+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:32:28.482+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:28.480+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:32:28.524+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:32:28.807+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:28.805+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:32:29.004+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 2.952 seconds
+[2024-10-10T19:32:29.049+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:29.049+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:32:29.245+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:29.232+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:32:29.656+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 2.049 seconds
+[2024-10-10T19:32:59.531+0700] {processor.py:186} INFO - Started process (PID=51467) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:32:59.533+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:32:59.537+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:59.536+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:32:59.562+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:32:59.653+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:59.653+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:32:59.701+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:59.699+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:32:59.753+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.232 seconds
+[2024-10-10T19:32:59.870+0700] {processor.py:186} INFO - Started process (PID=51470) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:32:59.873+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:32:59.880+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:59.879+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:32:59.947+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:33:00.080+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:00.079+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:33:00.125+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:00.125+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:33:00.177+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.337 seconds
+[2024-10-10T19:33:30.207+0700] {processor.py:186} INFO - Started process (PID=51763) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:33:30.212+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:33:30.225+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:30.224+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:33:30.328+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:33:30.671+0700] {processor.py:186} INFO - Started process (PID=51768) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:33:30.673+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:33:30.678+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:30.677+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:33:30.766+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:33:30.786+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:30.786+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:33:31.029+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:31.028+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:33:31.203+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:31.198+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:33:31.354+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.186 seconds
+[2024-10-10T19:33:31.464+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:31.461+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:33:31.639+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.015 seconds
+[2024-10-10T19:33:48.729+0700] {processor.py:186} INFO - Started process (PID=51956) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:33:48.733+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:33:48.743+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:48.742+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:33:48.826+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:33:49.005+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:49.004+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:33:49.139+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:49.138+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:33:49.349+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.654 seconds
+[2024-10-10T19:34:03.563+0700] {processor.py:186} INFO - Started process (PID=52109) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:03.568+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:34:03.579+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:03.577+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:03.630+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:04.057+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:04.057+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:04.280+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:04.280+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:34:04.600+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.129 seconds
+[2024-10-10T19:34:08.893+0700] {processor.py:186} INFO - Started process (PID=52161) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:08.901+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:34:08.917+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:08.913+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:09.042+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:09.529+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:09.528+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:09.779+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:09.778+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:34:10.009+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.205 seconds
+[2024-10-10T19:34:20.487+0700] {processor.py:186} INFO - Started process (PID=52310) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:20.488+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:34:20.510+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:20.509+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:20.653+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:21.096+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:21.096+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:21.160+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:21.156+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:34:21.246+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.813 seconds
+[2024-10-10T19:34:34.793+0700] {processor.py:186} INFO - Started process (PID=52460) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:34.797+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:34:34.807+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:34.805+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:34.868+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:35.004+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:35.004+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:35.035+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:35.034+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:34:35.076+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.311 seconds
+[2024-10-10T19:34:40.667+0700] {processor.py:186} INFO - Started process (PID=52508) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:40.671+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:34:40.687+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:40.684+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:40.748+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:41.062+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:41.062+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:41.162+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:41.161+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:34:41.286+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.653 seconds
+[2024-10-10T19:34:51.946+0700] {processor.py:186} INFO - Started process (PID=52656) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:51.957+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:34:51.983+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:51.982+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:52.156+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:34:52.579+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:52.575+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:52.787+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:52.775+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:34:53.182+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.310 seconds
+[2024-10-10T19:35:12.347+0700] {processor.py:186} INFO - Started process (PID=52858) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:35:12.391+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:35:12.465+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:12.443+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:35:12.699+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:35:13.488+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:13.487+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:35:14.077+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:14.077+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:35:14.212+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 2.018 seconds
+[2024-10-10T19:35:16.983+0700] {processor.py:186} INFO - Started process (PID=52903) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:35:16.993+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:35:17.013+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:17.012+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:35:17.162+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:35:17.622+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:17.622+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:35:17.824+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:17.820+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:35:18.079+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.170 seconds
+[2024-10-10T19:35:30.885+0700] {processor.py:186} INFO - Started process (PID=53040) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:35:30.915+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:35:30.958+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:30.957+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:35:31.151+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:35:31.864+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:31.864+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:35:32.287+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:32.286+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:35:32.541+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.787 seconds
+[2024-10-10T19:35:51.228+0700] {processor.py:186} INFO - Started process (PID=53228) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:35:51.248+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:35:51.287+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:51.284+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:35:51.432+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:35:51.847+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:51.847+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:35:52.091+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:52.090+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:35:52.284+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.113 seconds
+[2024-10-10T19:35:57.709+0700] {processor.py:186} INFO - Started process (PID=53297) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:35:57.726+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:35:57.747+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:57.746+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:35:57.896+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:35:58.088+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:58.084+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:35:58.277+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:58.277+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:35:58.535+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.926 seconds
+[2024-10-10T19:36:06.063+0700] {processor.py:186} INFO - Started process (PID=53384) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:36:06.068+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:36:06.081+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:06.078+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:36:06.186+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:36:06.541+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:06.537+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:36:06.661+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:06.661+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:36:06.818+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.769 seconds
+[2024-10-10T19:36:22.860+0700] {processor.py:186} INFO - Started process (PID=53593) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:36:22.867+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:36:22.882+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:22.876+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:36:22.951+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:36:23.049+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:23.048+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:36:23.077+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:23.076+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:36:23.113+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.285 seconds
+[2024-10-10T19:36:28.789+0700] {processor.py:186} INFO - Started process (PID=53651) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:36:28.795+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:36:28.809+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:28.808+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:36:28.972+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:36:29.242+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:29.241+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:36:29.352+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:29.352+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:36:29.444+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.694 seconds
+[2024-10-10T19:36:38.067+0700] {processor.py:186} INFO - Started process (PID=53730) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:36:38.068+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:36:38.073+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:38.072+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:36:38.181+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:36:38.549+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:38.548+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:36:38.812+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:38.810+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:36:38.993+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.044 seconds
+[2024-10-10T19:37:00.360+0700] {processor.py:186} INFO - Started process (PID=54017) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:37:00.366+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:37:00.393+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:00.389+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:37:00.506+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:37:01.012+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:01.004+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:37:01.317+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:01.317+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:37:01.557+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.270 seconds
+[2024-10-10T19:37:05.985+0700] {processor.py:186} INFO - Started process (PID=54084) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:37:05.988+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:37:05.998+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:05.997+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:37:06.118+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:37:06.673+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:06.672+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:37:06.947+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:06.947+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:37:07.233+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.291 seconds
+[2024-10-10T19:37:17.880+0700] {processor.py:186} INFO - Started process (PID=54172) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:37:17.897+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:37:17.956+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:17.949+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:37:18.778+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:37:20.209+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:20.209+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:37:20.818+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:20.811+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:37:21.541+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 3.903 seconds
+[2024-10-10T19:37:51.645+0700] {processor.py:186} INFO - Started process (PID=54474) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:37:51.657+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:37:51.712+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:51.710+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:37:51.886+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:37:52.690+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:52.682+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:37:53.777+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:53.777+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:37:54.266+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 2.644 seconds
+[2024-10-10T19:38:00.702+0700] {processor.py:186} INFO - Started process (PID=54552) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:38:00.726+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:38:00.784+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:00.784+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:38:01.081+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:38:01.608+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:01.607+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:38:01.827+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:01.824+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:38:02.075+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.603 seconds
+[2024-10-10T19:38:10.059+0700] {processor.py:186} INFO - Started process (PID=54657) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:38:10.064+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:38:10.107+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:10.106+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:38:10.293+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:38:10.863+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:10.840+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:38:11.402+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:11.388+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:38:11.783+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.878 seconds
+[2024-10-10T19:38:26.255+0700] {processor.py:186} INFO - Started process (PID=54814) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:38:26.269+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:38:26.281+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:26.276+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:38:26.448+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:38:26.827+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:26.826+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:38:27.059+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:27.045+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:38:27.150+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.958 seconds
+[2024-10-10T19:38:48.028+0700] {processor.py:186} INFO - Started process (PID=55022) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:38:48.032+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:38:48.123+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:48.109+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:38:48.255+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:38:48.784+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:48.781+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:38:49.203+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:49.203+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:38:49.324+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.545 seconds
+[2024-10-10T19:38:50.716+0700] {processor.py:186} INFO - Started process (PID=55046) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:38:50.718+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:38:50.735+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:50.734+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:38:50.767+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:38:50.912+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:50.911+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:38:51.034+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:51.015+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:38:51.411+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.885 seconds
+[2024-10-10T19:39:03.193+0700] {processor.py:186} INFO - Started process (PID=55135) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:39:03.239+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:39:03.329+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:03.304+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:39:03.822+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:39:04.737+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:04.732+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:39:05.353+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:05.353+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:39:05.819+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 2.898 seconds
+[2024-10-10T19:39:21.271+0700] {processor.py:186} INFO - Started process (PID=55337) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:39:21.273+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:39:21.311+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:21.310+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:39:21.564+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:39:22.222+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:22.221+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:39:22.413+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:22.412+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:39:22.736+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.556 seconds
+[2024-10-10T19:39:43.440+0700] {processor.py:186} INFO - Started process (PID=55600) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:39:43.454+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:39:43.519+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:43.504+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:39:43.857+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:39:44.618+0700] {processor.py:186} INFO - Started process (PID=55613) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:39:44.622+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:44.622+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:39:44.619+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:39:44.666+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:44.655+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:39:44.889+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:44.889+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:39:44.950+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.649 seconds
+[2024-10-10T19:39:44.992+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:39:45.625+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:45.625+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:39:45.862+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:45.861+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:39:45.950+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.412 seconds
+[2024-10-10T19:39:55.598+0700] {processor.py:186} INFO - Started process (PID=55757) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:39:55.600+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:39:55.608+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:55.607+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:39:55.705+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:39:56.318+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:56.318+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:39:56.560+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:56.560+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:39:56.871+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.329 seconds
+[2024-10-10T19:40:04.959+0700] {processor.py:186} INFO - Started process (PID=55856) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:40:04.960+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:40:04.985+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:04.985+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:40:05.153+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:40:05.705+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:05.702+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:40:05.903+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:05.898+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:40:06.139+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.279 seconds
+[2024-10-10T19:40:34.336+0700] {processor.py:186} INFO - Started process (PID=56155) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:40:34.355+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:40:34.397+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:34.388+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:40:34.654+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:40:35.444+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:35.443+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:40:35.950+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:35.950+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:40:36.578+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 2.318 seconds
+[2024-10-10T19:40:38.178+0700] {processor.py:186} INFO - Started process (PID=56176) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:40:38.202+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:40:38.292+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:38.278+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:40:38.692+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:40:39.811+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:39.810+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:40:40.074+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:40.073+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:40:40.415+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 2.471 seconds
+[2024-10-10T19:40:56.239+0700] {processor.py:186} INFO - Started process (PID=56336) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:40:56.249+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:40:56.284+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:56.274+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:40:56.564+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:40:57.434+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:57.433+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:40:57.890+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:57.874+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:40:58.152+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 2.032 seconds
+[2024-10-10T19:41:01.592+0700] {processor.py:186} INFO - Started process (PID=56390) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:41:01.607+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:41:01.663+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:01.658+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:41:01.977+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:41:02.608+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:02.607+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:41:02.919+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:02.919+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:41:03.223+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.781 seconds
+[2024-10-10T19:41:45.073+0700] {processor.py:186} INFO - Started process (PID=56873) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:41:45.104+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:41:45.203+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:45.173+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:41:45.480+0700] {processor.py:186} INFO - Started process (PID=56874) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:41:45.482+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:41:45.505+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:45.504+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:41:45.571+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:41:45.794+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:41:46.070+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:46.069+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:41:46.122+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:46.121+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:41:46.141+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:46.140+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:41:46.224+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.851 seconds
+[2024-10-10T19:41:46.708+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:46.704+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:41:47.318+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 2.471 seconds
+[2024-10-10T19:41:55.692+0700] {processor.py:186} INFO - Started process (PID=56969) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:41:55.704+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:41:55.734+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:55.733+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:41:55.947+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:41:56.574+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:56.574+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:41:56.725+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:56.715+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:41:57.110+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.444 seconds
+[2024-10-10T19:42:02.071+0700] {processor.py:186} INFO - Started process (PID=57047) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:02.088+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:42:02.133+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:02.133+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:02.147+0700] {processor.py:186} INFO - Started process (PID=57051) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:02.153+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:42:02.169+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:02.165+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:02.317+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:02.458+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:02.970+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:02.970+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:03.013+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:03.006+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:03.115+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:03.114+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:42:03.176+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:03.175+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:42:03.268+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.170 seconds
+[2024-10-10T19:42:03.501+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.619 seconds
+[2024-10-10T19:42:51.607+0700] {processor.py:186} INFO - Started process (PID=57598) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:51.666+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:42:51.697+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:51.694+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:52.145+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:52.682+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:52.681+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:52.936+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:52.926+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:42:53.331+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.949 seconds
+[2024-10-10T19:42:54.762+0700] {processor.py:186} INFO - Started process (PID=57637) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:54.774+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:42:54.805+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:54.804+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:55.056+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:55.501+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:55.480+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:55.785+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:55.761+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:42:56.093+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.441 seconds
+[2024-10-10T19:42:57.208+0700] {processor.py:186} INFO - Started process (PID=57660) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:57.209+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:42:57.224+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:57.223+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:57.286+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:57.697+0700] {processor.py:186} INFO - Started process (PID=57668) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:57.701+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:42:57.740+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:57.716+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:58.095+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:58.094+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:58.112+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:58.448+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:58.430+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:42:58.706+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:58.706+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:59.065+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:59.064+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:42:59.437+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.792 seconds
+[2024-10-10T19:42:59.561+0700] {processor.py:186} INFO - Started process (PID=57676) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:59.577+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:42:59.641+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:59.640+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:42:59.938+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:43:00.415+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:00.414+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:43:00.576+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:00.576+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:43:01.271+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.891 seconds
+[2024-10-10T19:43:01.362+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 4.176 seconds
+[2024-10-10T19:43:50.326+0700] {processor.py:186} INFO - Started process (PID=58281) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:43:50.330+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:43:50.338+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:50.336+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:43:50.676+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:43:50.731+0700] {processor.py:186} INFO - Started process (PID=58287) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:43:50.742+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:43:50.770+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:50.769+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:43:51.075+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:43:51.614+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:51.605+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:43:51.799+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:51.796+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:43:51.912+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:51.911+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:43:52.075+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.833 seconds
+[2024-10-10T19:43:52.093+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:52.088+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:43:52.412+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.735 seconds
+[2024-10-10T19:43:52.924+0700] {processor.py:186} INFO - Started process (PID=58302) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:43:53.021+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:43:53.308+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:53.273+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:43:54.066+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:43:54.140+0700] {processor.py:186} INFO - Started process (PID=58309) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:43:54.145+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:43:54.148+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:54.148+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:43:54.302+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:43:54.633+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:54.630+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:43:54.892+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:54.892+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:43:55.114+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 2.276 seconds
+[2024-10-10T19:43:55.384+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:55.383+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:43:55.935+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:55.934+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:43:56.331+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 2.389 seconds
+[2024-10-10T19:44:06.314+0700] {processor.py:186} INFO - Started process (PID=58389) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:44:06.335+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:44:06.359+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:06.358+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:44:06.814+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:44:07.505+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:07.504+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:44:07.762+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:07.750+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:44:08.033+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.848 seconds
+[2024-10-10T19:44:51.964+0700] {processor.py:186} INFO - Started process (PID=58906) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:44:51.983+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:44:52.036+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:52.035+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:44:52.271+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:44:52.567+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:52.566+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:44:53.406+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:53.360+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:44:54.109+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 2.289 seconds
+[2024-10-10T19:45:12.219+0700] {processor.py:186} INFO - Started process (PID=58993) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:45:12.226+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:45:12.294+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:12.287+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:45:12.665+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:45:13.263+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:13.262+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:45:13.472+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:13.472+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:45:13.725+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.629 seconds
+[2024-10-10T19:45:16.267+0700] {processor.py:186} INFO - Started process (PID=59024) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:45:16.278+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:45:16.320+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:16.319+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:45:16.645+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:45:17.008+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:17.008+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:45:17.086+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:17.086+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:45:17.221+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.058 seconds
+[2024-10-10T19:45:18.865+0700] {processor.py:186} INFO - Started process (PID=59054) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:45:18.866+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:45:18.921+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:18.921+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:45:19.182+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:45:19.401+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:19.401+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:45:19.696+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:19.694+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:45:20.053+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.337 seconds
+[2024-10-10T19:45:28.374+0700] {processor.py:186} INFO - Started process (PID=59156) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:45:28.575+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:45:28.600+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:28.593+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:45:28.655+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:45:28.828+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:28.828+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:45:29.122+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:29.122+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:45:29.305+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.969 seconds
+[2024-10-10T19:46:12.171+0700] {processor.py:186} INFO - Started process (PID=59644) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:46:12.204+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:46:12.295+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:12.257+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:46:12.528+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:46:13.585+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:13.582+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:46:14.065+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:14.062+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:46:14.634+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 2.672 seconds
+[2024-10-10T19:46:27.164+0700] {processor.py:186} INFO - Started process (PID=59727) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:46:27.171+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:46:27.193+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:27.187+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:46:27.352+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:46:27.883+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:27.871+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:46:28.184+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:28.184+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:46:28.400+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.304 seconds
+[2024-10-10T19:46:34.821+0700] {processor.py:186} INFO - Started process (PID=59804) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:46:34.833+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:46:34.842+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:34.839+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:46:35.050+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:46:35.995+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:35.995+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:46:36.117+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:36.117+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:46:36.615+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.948 seconds
+[2024-10-10T19:46:50.529+0700] {processor.py:186} INFO - Started process (PID=59954) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:46:50.542+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:46:50.578+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:50.570+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:46:50.787+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:46:51.643+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:51.633+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:46:51.900+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:51.900+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:46:52.138+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.685 seconds
+[2024-10-10T19:47:16.637+0700] {processor.py:186} INFO - Started process (PID=60285) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:47:16.648+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:47:16.705+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:16.696+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:47:16.881+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:47:17.258+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:17.257+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:17.493+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:17.491+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:47:17.692+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.169 seconds
+[2024-10-10T19:47:17.778+0700] {processor.py:186} INFO - Started process (PID=60295) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:47:17.790+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:47:17.828+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:17.808+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:47:18.049+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:47:18.785+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:18.784+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:18.998+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:18.995+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:47:19.225+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.555 seconds
+[2024-10-10T19:47:19.569+0700] {processor.py:186} INFO - Started process (PID=60328) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:47:19.578+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:47:19.586+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:19.585+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:47:19.804+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:47:20.323+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:20.322+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:20.553+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:20.552+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:47:20.769+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.250 seconds
+[2024-10-10T19:47:25.039+0700] {processor.py:186} INFO - Started process (PID=60434) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:47:25.067+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:47:25.085+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:25.085+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:47:25.246+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:47:25.713+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:25.712+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:25.822+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:25.818+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:47:26.238+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.214 seconds
+[2024-10-10T19:47:32.540+0700] {processor.py:186} INFO - Started process (PID=60553) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:47:32.544+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:47:32.549+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:32.547+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:47:32.634+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:47:32.905+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:32.904+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:32.964+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:32.963+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:47:33.299+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.779 seconds
+[2024-10-10T19:47:59.797+0700] {processor.py:186} INFO - Started process (PID=60929) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:47:59.809+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:47:59.827+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:59.821+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:00.149+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:00.485+0700] {processor.py:186} INFO - Started process (PID=60935) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:00.492+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:48:00.530+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:00.524+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:00.761+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:00.760+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:48:00.805+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:01.150+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:01.150+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:48:01.276+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:01.275+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:48:01.391+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:01.388+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:48:01.520+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.886 seconds
+[2024-10-10T19:48:01.549+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.109 seconds
+[2024-10-10T19:48:03.115+0700] {processor.py:186} INFO - Started process (PID=60966) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:03.116+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:48:03.148+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:03.147+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:03.336+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:04.028+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:04.027+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:48:04.241+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:04.240+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:48:04.462+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.419 seconds
+[2024-10-10T19:48:13.434+0700] {processor.py:186} INFO - Started process (PID=61090) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:13.436+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:48:13.485+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:13.472+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:13.701+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:14.598+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:14.597+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:48:15.069+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:15.069+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:48:15.268+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.976 seconds
+[2024-10-10T19:48:54.734+0700] {processor.py:186} INFO - Started process (PID=61494) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:54.769+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:48:54.839+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:54.815+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:55.144+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:55.659+0700] {processor.py:186} INFO - Started process (PID=61506) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:55.679+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:48:55.715+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:55.698+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:55.729+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:55.728+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:48:55.961+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:55.938+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:48:56.024+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:48:56.289+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.710 seconds
+[2024-10-10T19:48:56.703+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:56.702+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:48:57.143+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:57.142+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:48:57.507+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.970 seconds
+[2024-10-10T19:49:00.607+0700] {processor.py:186} INFO - Started process (PID=61567) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:00.627+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:49:00.686+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:00.676+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:01.157+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:02.078+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:02.078+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:02.348+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:02.342+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:49:02.621+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 2.255 seconds
+[2024-10-10T19:49:13.629+0700] {processor.py:186} INFO - Started process (PID=61715) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:13.663+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:49:13.714+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:13.713+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:13.785+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:14.103+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:14.102+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:14.435+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:14.418+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:49:14.755+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.492 seconds
+[2024-10-10T19:49:21.712+0700] {processor.py:186} INFO - Started process (PID=61816) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:21.724+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:49:21.752+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:21.751+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:22.093+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:22.741+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:22.739+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:22.999+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:22.984+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:49:23.187+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.545 seconds
+[2024-10-10T19:49:47.338+0700] {processor.py:186} INFO - Started process (PID=62182) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:47.345+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:49:47.355+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:47.346+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:47.453+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:48.297+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:48.296+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:48.924+0700] {processor.py:186} INFO - Started process (PID=62201) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:48.927+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:49:48.938+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:48.937+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:49.049+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:49.049+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:49:49.375+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:49.563+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 2.282 seconds
+[2024-10-10T19:49:50.433+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:50.421+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:50.845+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:50.844+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:49:51.365+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 2.469 seconds
+[2024-10-10T19:49:58.726+0700] {processor.py:186} INFO - Started process (PID=62315) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:58.744+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:49:58.782+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:58.771+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:58.944+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:59.120+0700] {processor.py:186} INFO - Started process (PID=62322) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:59.131+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2024-10-10T19:49:59.151+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:59.151+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:59.305+0700] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2024-10-10T19:49:59.399+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:59.398+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:59.625+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:59.622+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:49:59.849+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:59.848+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:59.931+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.291 seconds
+[2024-10-10T19:50:00.079+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:50:00.079+0700] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2024-10-10T19:50:00.228+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 1.186 seconds

@@ -1,0 +1,830 @@
+[2024-11-29T14:02:12.395+0700] {processor.py:186} INFO - Started process (PID=29408) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:02:12.396+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:02:12.400+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:12.399+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:02:12.403+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:02:12.440+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.054 seconds
+[2024-11-29T14:02:43.681+0700] {processor.py:186} INFO - Started process (PID=29617) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:02:43.694+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:02:43.726+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:43.719+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:02:43.746+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:02:43.833+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.231 seconds
+[2024-11-29T14:03:14.372+0700] {processor.py:186} INFO - Started process (PID=29813) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:03:14.375+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:03:14.387+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:03:14.386+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:03:14.390+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:03:14.436+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.077 seconds
+[2024-11-29T14:03:45.274+0700] {processor.py:186} INFO - Started process (PID=29983) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:03:45.276+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:03:45.280+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:03:45.280+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:03:45.288+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:03:45.402+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.155 seconds
+[2024-11-29T14:04:16.188+0700] {processor.py:186} INFO - Started process (PID=30157) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:04:16.192+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:04:16.196+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:04:16.195+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:04:16.206+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:04:16.258+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.085 seconds
+[2024-11-29T14:04:46.586+0700] {processor.py:186} INFO - Started process (PID=30336) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:04:46.588+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:04:46.591+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:04:46.591+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:04:46.597+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:04:46.639+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.063 seconds
+[2024-11-29T14:05:17.091+0700] {processor.py:186} INFO - Started process (PID=30533) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:05:17.093+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:05:17.097+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:05:17.096+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:05:17.100+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:05:17.181+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.102 seconds
+[2024-11-29T14:05:47.511+0700] {processor.py:186} INFO - Started process (PID=30736) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:05:47.514+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:05:47.524+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:05:47.523+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:05:47.531+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:05:47.577+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.078 seconds
+[2024-11-29T14:06:18.190+0700] {processor.py:186} INFO - Started process (PID=30953) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:06:18.193+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:06:18.198+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:06:18.197+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:06:18.201+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:06:18.253+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.075 seconds
+[2024-11-29T14:06:48.630+0700] {processor.py:186} INFO - Started process (PID=31161) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:06:48.632+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:06:48.636+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:06:48.635+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:06:48.642+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:06:48.684+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.065 seconds
+[2024-11-29T14:07:19.282+0700] {processor.py:186} INFO - Started process (PID=31385) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:07:19.284+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:07:19.291+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:07:19.290+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:07:19.296+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:07:19.340+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.072 seconds
+[2024-11-29T14:07:50.242+0700] {processor.py:186} INFO - Started process (PID=31578) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:07:50.243+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:07:50.249+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:07:50.248+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:07:50.253+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:07:50.302+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.071 seconds
+[2024-11-29T14:08:21.771+0700] {processor.py:186} INFO - Started process (PID=31802) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:08:21.787+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:08:21.827+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:08:21.816+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:08:21.855+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:08:22.067+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.370 seconds
+[2024-11-29T14:08:26.211+0700] {processor.py:186} INFO - Started process (PID=31837) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:08:26.222+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:08:26.242+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:08:26.241+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:08:26.257+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:08:26.346+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.257 seconds
+[2024-11-29T14:09:05.459+0700] {processor.py:186} INFO - Started process (PID=32180) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:09:05.465+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:09:05.478+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:05.477+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:09:05.497+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:09:05.604+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.209 seconds
+[2024-11-29T14:09:10.975+0700] {processor.py:186} INFO - Started process (PID=32233) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:09:10.986+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:09:11.014+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:11.007+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:09:11.036+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:09:11.123+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.221 seconds
+[2024-11-29T14:09:43.104+0700] {processor.py:186} INFO - Started process (PID=32526) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:09:43.107+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:09:43.117+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:43.112+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:09:43.132+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:09:43.175+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.095 seconds
+[2024-11-29T14:09:49.153+0700] {processor.py:186} INFO - Started process (PID=32609) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:09:49.163+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:09:49.198+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:49.198+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:09:49.236+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:09:49.410+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.284 seconds
+[2024-11-29T14:10:21.459+0700] {processor.py:186} INFO - Started process (PID=32888) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:10:21.469+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:10:21.480+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:21.477+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:10:21.489+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:10:21.690+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.266 seconds
+[2024-11-29T14:10:27.325+0700] {processor.py:186} INFO - Started process (PID=32946) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:10:27.332+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:10:27.360+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:27.357+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:10:27.373+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:10:27.438+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.190 seconds
+[2024-11-29T14:11:05.070+0700] {processor.py:186} INFO - Started process (PID=33287) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:11:05.074+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:11:05.087+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:05.086+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:11:05.095+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:11:05.392+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.354 seconds
+[2024-11-29T14:11:05.858+0700] {processor.py:186} INFO - Started process (PID=33293) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:11:05.860+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:11:05.932+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:05.931+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:11:05.973+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:11:06.255+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.489 seconds
+[2024-11-29T14:11:18.538+0700] {processor.py:186} INFO - Started process (PID=33415) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:11:18.547+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:11:18.573+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:18.572+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:11:18.601+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:11:18.775+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.327 seconds
+[2024-11-29T14:11:52.426+0700] {processor.py:186} INFO - Started process (PID=33830) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:11:52.432+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:11:52.444+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:52.443+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:11:52.454+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:11:52.582+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.191 seconds
+[2024-11-29T14:11:54.364+0700] {processor.py:186} INFO - Started process (PID=33861) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:11:54.365+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:11:54.385+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:54.379+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:11:54.402+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:11:54.528+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.193 seconds
+[2024-11-29T14:12:03.860+0700] {processor.py:186} INFO - Started process (PID=33956) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:12:03.874+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:12:03.903+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:03.902+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:12:03.940+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:12:04.091+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.304 seconds
+[2024-11-29T14:12:40.831+0700] {processor.py:186} INFO - Started process (PID=34318) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:12:40.841+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:12:40.859+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:40.858+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:12:40.889+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:12:41.160+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.385 seconds
+[2024-11-29T14:12:50.127+0700] {processor.py:186} INFO - Started process (PID=34399) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:12:50.138+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:12:50.167+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:50.166+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:12:50.203+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:12:50.362+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.347 seconds
+[2024-11-29T14:12:59.276+0700] {processor.py:186} INFO - Started process (PID=34480) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:12:59.283+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:12:59.307+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:59.306+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:12:59.338+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:12:59.553+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.365 seconds
+[2024-11-29T14:13:30.434+0700] {processor.py:186} INFO - Started process (PID=34848) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:13:30.440+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:13:30.461+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:30.453+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:13:30.476+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:13:30.686+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.304 seconds
+[2024-11-29T14:13:34.428+0700] {processor.py:186} INFO - Started process (PID=34895) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:13:34.438+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:13:34.497+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:34.480+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:13:34.536+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:13:34.770+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.439 seconds
+[2024-11-29T14:13:54.102+0700] {processor.py:186} INFO - Started process (PID=35092) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:13:54.109+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:13:54.130+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:54.125+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:13:54.139+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:13:54.285+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.272 seconds
+[2024-11-29T14:14:10.116+0700] {processor.py:186} INFO - Started process (PID=35274) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:14:10.128+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:14:10.162+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:10.158+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:14:10.180+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:14:10.353+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.298 seconds
+[2024-11-29T14:14:15.628+0700] {processor.py:186} INFO - Started process (PID=35333) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:14:15.641+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:14:15.658+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:15.655+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:14:15.669+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:14:15.839+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.291 seconds
+[2024-11-29T14:14:46.105+0700] {processor.py:186} INFO - Started process (PID=35627) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:14:46.117+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:14:46.140+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:46.135+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:14:46.153+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:14:46.444+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.378 seconds
+[2024-11-29T14:14:54.455+0700] {processor.py:186} INFO - Started process (PID=35714) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:14:54.486+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:14:54.511+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:54.510+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:14:54.534+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:14:54.677+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.408 seconds
+[2024-11-29T14:15:03.049+0700] {processor.py:186} INFO - Started process (PID=35829) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:15:03.059+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:15:03.093+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:03.085+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:15:03.110+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:15:03.233+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.234 seconds
+[2024-11-29T14:15:29.120+0700] {processor.py:186} INFO - Started process (PID=36186) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:15:29.123+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:15:29.133+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:29.132+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:15:29.144+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:15:29.255+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.154 seconds
+[2024-11-29T14:15:31.248+0700] {processor.py:186} INFO - Started process (PID=36225) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:15:31.252+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:15:31.265+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:31.264+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:15:31.280+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:15:31.415+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.199 seconds
+[2024-11-29T14:15:39.949+0700] {processor.py:186} INFO - Started process (PID=36332) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:15:39.957+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:15:39.988+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:39.987+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:15:40.015+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:15:40.171+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.306 seconds
+[2024-11-29T14:16:09.766+0700] {processor.py:186} INFO - Started process (PID=36636) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:16:09.881+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:16:09.910+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:09.907+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:16:09.933+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:16:10.179+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.454 seconds
+[2024-11-29T14:16:18.057+0700] {processor.py:186} INFO - Started process (PID=36751) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:16:18.061+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:16:18.078+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:18.074+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:16:18.087+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:16:18.138+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.139 seconds
+[2024-11-29T14:16:20.703+0700] {processor.py:186} INFO - Started process (PID=36793) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:16:20.704+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:16:20.710+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:20.709+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:16:20.715+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:16:20.886+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.216 seconds
+[2024-11-29T14:16:49.335+0700] {processor.py:186} INFO - Started process (PID=37135) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:16:49.354+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:16:49.376+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:49.375+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:16:49.392+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:16:49.482+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.311 seconds
+[2024-11-29T14:16:56.627+0700] {processor.py:186} INFO - Started process (PID=37252) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:16:56.635+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:16:56.664+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:56.653+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:16:56.682+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:16:56.836+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.277 seconds
+[2024-11-29T14:17:00.807+0700] {processor.py:186} INFO - Started process (PID=37311) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:17:00.824+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:17:00.870+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:00.865+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:17:00.904+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:17:01.081+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.347 seconds
+[2024-11-29T14:17:25.216+0700] {processor.py:186} INFO - Started process (PID=37626) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:17:25.356+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:17:25.380+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:25.377+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:17:25.404+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:17:25.483+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.277 seconds
+[2024-11-29T14:17:34.097+0700] {processor.py:186} INFO - Started process (PID=37751) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:17:34.104+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:17:34.121+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:34.120+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:17:34.149+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:17:34.268+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.225 seconds
+[2024-11-29T14:17:38.566+0700] {processor.py:186} INFO - Started process (PID=37832) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:17:38.572+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:17:38.592+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:38.591+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:17:38.601+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:17:38.686+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.163 seconds
+[2024-11-29T14:17:58.864+0700] {processor.py:186} INFO - Started process (PID=38109) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:17:58.865+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:17:58.898+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:58.889+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:17:58.913+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:17:59.119+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.328 seconds
+[2024-11-29T14:18:18.819+0700] {processor.py:186} INFO - Started process (PID=38305) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:18:18.972+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:18:18.990+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:18.989+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:18:18.994+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:18:19.047+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.268 seconds
+[2024-11-29T14:18:24.639+0700] {processor.py:186} INFO - Started process (PID=38369) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:18:24.641+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:18:24.645+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:24.644+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:18:24.649+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:18:24.688+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.062 seconds
+[2024-11-29T14:18:39.992+0700] {processor.py:186} INFO - Started process (PID=38577) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:18:39.993+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:18:39.998+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:39.997+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:18:40.007+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:18:40.133+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.150 seconds
+[2024-11-29T14:18:53.475+0700] {processor.py:186} INFO - Started process (PID=38780) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:18:53.476+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:18:53.492+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:53.491+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:18:53.513+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:18:53.632+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.223 seconds
+[2024-11-29T14:19:01.109+0700] {processor.py:186} INFO - Started process (PID=38886) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:19:01.116+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:19:01.135+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:01.134+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:19:01.158+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:19:01.324+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.276 seconds
+[2024-11-29T14:19:16.754+0700] {processor.py:186} INFO - Started process (PID=39037) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:19:16.755+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:19:16.773+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:16.772+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:19:16.795+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:19:16.956+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.237 seconds
+[2024-11-29T14:19:30.509+0700] {processor.py:186} INFO - Started process (PID=39160) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:19:30.513+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:19:30.539+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:30.532+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:19:30.574+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:19:30.790+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.310 seconds
+[2024-11-29T14:19:45.050+0700] {processor.py:186} INFO - Started process (PID=39334) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:19:45.065+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:19:45.083+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:45.082+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:19:45.111+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:19:45.310+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.332 seconds
+[2024-11-29T14:20:04.619+0700] {processor.py:186} INFO - Started process (PID=39540) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:20:04.628+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:20:04.649+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:04.648+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:20:04.681+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:20:04.832+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.272 seconds
+[2024-11-29T14:20:09.805+0700] {processor.py:186} INFO - Started process (PID=39588) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:20:09.809+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:20:09.819+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:09.816+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:20:09.830+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:20:10.075+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.324 seconds
+[2024-11-29T14:20:52.194+0700] {processor.py:186} INFO - Started process (PID=39940) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:20:52.198+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:20:52.216+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:52.215+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:20:52.259+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:20:52.478+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.366 seconds
+[2024-11-29T14:20:52.958+0700] {processor.py:186} INFO - Started process (PID=39955) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:20:52.960+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:20:52.983+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:52.982+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:20:53.006+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:20:53.145+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.277 seconds
+[2024-11-29T14:21:01.239+0700] {processor.py:186} INFO - Started process (PID=40070) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:21:01.247+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:21:01.289+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:01.272+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:21:01.318+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:21:01.438+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.301 seconds
+[2024-11-29T14:21:32.564+0700] {processor.py:186} INFO - Started process (PID=40352) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:21:32.573+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:21:32.583+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:32.582+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:21:32.592+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:21:32.669+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.199 seconds
+[2024-11-29T14:21:47.311+0700] {processor.py:186} INFO - Started process (PID=40466) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:21:47.316+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:21:47.334+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:47.333+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:21:47.363+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:21:47.532+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.284 seconds
+[2024-11-29T14:22:05.229+0700] {processor.py:186} INFO - Started process (PID=40628) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:22:05.235+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:22:05.251+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:05.248+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:22:05.304+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:22:05.544+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.345 seconds
+[2024-11-29T14:22:13.828+0700] {processor.py:186} INFO - Started process (PID=40716) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:22:13.844+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:22:13.885+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:13.869+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:22:13.927+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:22:14.187+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.405 seconds
+[2024-11-29T14:22:31.102+0700] {processor.py:186} INFO - Started process (PID=40892) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:22:31.106+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:22:31.113+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:31.110+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:22:31.120+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:22:31.195+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.117 seconds
+[2024-11-29T14:23:04.961+0700] {processor.py:186} INFO - Started process (PID=41184) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:23:04.975+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:23:04.998+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:04.997+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:23:05.004+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:23:05.063+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.180 seconds
+[2024-11-29T14:23:20.190+0700] {processor.py:186} INFO - Started process (PID=41325) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:23:20.205+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:23:20.228+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:20.222+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:23:20.242+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:23:20.451+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.334 seconds
+[2024-11-29T14:23:35.671+0700] {processor.py:186} INFO - Started process (PID=41446) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:23:35.681+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:23:35.703+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:35.703+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:23:35.721+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:23:35.920+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.300 seconds
+[2024-11-29T14:23:54.174+0700] {processor.py:186} INFO - Started process (PID=41641) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:23:54.196+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:23:54.246+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:54.243+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:23:54.255+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:23:54.331+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.182 seconds
+[2024-11-29T14:24:18.475+0700] {processor.py:186} INFO - Started process (PID=41866) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:24:18.487+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:24:18.512+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:18.512+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:24:18.549+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:24:18.762+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.337 seconds
+[2024-11-29T14:24:30.481+0700] {processor.py:186} INFO - Started process (PID=41981) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:24:30.494+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:24:30.520+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:30.516+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:24:30.538+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:24:30.676+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.237 seconds
+[2024-11-29T14:24:53.154+0700] {processor.py:186} INFO - Started process (PID=42226) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:24:53.162+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:24:53.180+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:53.172+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:24:53.202+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:24:53.398+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.317 seconds
+[2024-11-29T14:25:02.418+0700] {processor.py:186} INFO - Started process (PID=42339) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:25:02.426+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:25:02.438+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:02.438+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:25:02.453+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:25:02.662+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.281 seconds
+[2024-11-29T14:25:14.009+0700] {processor.py:186} INFO - Started process (PID=42475) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:25:14.010+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:25:14.037+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:14.037+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:25:14.062+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:25:14.238+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.276 seconds
+[2024-11-29T14:25:39.019+0700] {processor.py:186} INFO - Started process (PID=42720) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:25:39.023+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:25:39.037+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:39.036+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:25:39.052+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:25:39.125+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.141 seconds
+[2024-11-29T14:25:40.418+0700] {processor.py:186} INFO - Started process (PID=42751) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:25:40.423+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:25:40.434+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:40.433+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:25:40.441+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:25:40.521+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.114 seconds
+[2024-11-29T14:25:52.988+0700] {processor.py:186} INFO - Started process (PID=42909) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:25:52.989+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:25:53.013+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:53.012+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:25:53.030+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:25:53.173+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.234 seconds
+[2024-11-29T14:26:25.635+0700] {processor.py:186} INFO - Started process (PID=43259) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:26:25.645+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:26:25.678+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:25.677+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:26:25.726+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:26:25.953+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.387 seconds
+[2024-11-29T14:26:26.680+0700] {processor.py:186} INFO - Started process (PID=43274) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:26:26.689+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:26:26.713+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:26.708+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:26:26.726+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:26:26.993+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.384 seconds
+[2024-11-29T14:26:30.711+0700] {processor.py:186} INFO - Started process (PID=43340) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:26:30.716+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:26:30.742+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:30.736+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:26:30.756+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:26:30.853+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.192 seconds
+[2024-11-29T14:27:14.116+0700] {processor.py:186} INFO - Started process (PID=43746) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:27:14.122+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:27:14.139+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:14.137+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:27:14.149+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:27:14.222+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.153 seconds
+[2024-11-29T14:27:24.771+0700] {processor.py:186} INFO - Started process (PID=43894) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:27:24.778+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:27:24.794+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:24.791+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:27:24.825+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:27:24.922+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.219 seconds
+[2024-11-29T14:27:40.048+0700] {processor.py:186} INFO - Started process (PID=44113) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:27:40.061+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:27:40.084+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:40.077+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:27:40.097+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:27:40.256+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.258 seconds
+[2024-11-29T14:27:56.267+0700] {processor.py:186} INFO - Started process (PID=44263) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:27:56.281+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:27:56.310+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:56.309+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:27:56.354+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:27:56.557+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.379 seconds
+[2024-11-29T14:28:09.562+0700] {processor.py:186} INFO - Started process (PID=44400) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:28:09.566+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:28:09.582+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:28:09.578+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:28:09.604+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:28:09.870+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.392 seconds
+[2024-11-29T14:29:04.040+0700] {processor.py:186} INFO - Started process (PID=44796) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:29:04.048+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:29:04.060+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:04.059+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:29:04.081+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:29:04.254+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.300 seconds
+[2024-11-29T14:29:17.181+0700] {processor.py:186} INFO - Started process (PID=44915) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:29:17.186+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:29:17.199+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:17.198+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:29:17.215+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:29:17.276+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.187 seconds
+[2024-11-29T14:29:29.349+0700] {processor.py:186} INFO - Started process (PID=45012) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:29:29.353+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:29:29.401+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:29.401+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:29:29.459+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:29:29.871+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.625 seconds
+[2024-11-29T14:29:53.071+0700] {processor.py:186} INFO - Started process (PID=45358) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:29:53.074+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:29:53.084+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:53.081+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:29:53.094+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:29:53.153+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.113 seconds
+[2024-11-29T14:30:10.054+0700] {processor.py:186} INFO - Started process (PID=45530) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:30:10.059+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:30:10.087+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:10.079+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:30:10.100+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:30:10.248+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.235 seconds
+[2024-11-29T14:30:22.008+0700] {processor.py:186} INFO - Started process (PID=45668) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:30:22.013+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:30:22.035+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:22.028+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:30:22.071+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:30:22.279+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.338 seconds
+[2024-11-29T14:30:33.949+0700] {processor.py:186} INFO - Started process (PID=45794) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:30:33.957+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:30:33.980+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:33.979+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:30:34.003+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:30:34.146+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.263 seconds
+[2024-11-29T14:31:02.444+0700] {processor.py:186} INFO - Started process (PID=46074) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:31:02.447+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:31:02.458+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:02.456+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:31:02.469+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:31:02.648+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.254 seconds
+[2024-11-29T14:31:14.372+0700] {processor.py:186} INFO - Started process (PID=46181) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:31:14.381+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:31:14.416+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:14.415+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:31:14.467+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:31:14.658+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.389 seconds
+[2024-11-29T14:31:30.621+0700] {processor.py:186} INFO - Started process (PID=46322) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:31:30.639+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:31:30.688+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:30.664+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:31:30.724+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:31:30.928+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.385 seconds
+[2024-11-29T14:32:24.229+0700] {processor.py:186} INFO - Started process (PID=46611) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:32:24.245+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:32:24.287+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:24.272+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:32:24.309+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:32:24.516+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.370 seconds
+[2024-11-29T14:32:55.232+0700] {processor.py:186} INFO - Started process (PID=46860) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:32:55.238+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:32:55.260+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:55.259+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:32:55.291+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:32:55.619+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.415 seconds
+[2024-11-29T14:33:22.221+0700] {processor.py:186} INFO - Started process (PID=47050) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:33:22.225+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:33:22.237+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:33:22.234+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:33:22.246+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:33:22.378+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.197 seconds
+[2024-11-29T14:33:35.493+0700] {processor.py:186} INFO - Started process (PID=47134) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:33:35.494+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:33:35.554+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:33:35.553+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:33:35.611+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:33:35.980+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.666 seconds
+[2024-11-29T14:34:16.991+0700] {processor.py:186} INFO - Started process (PID=47415) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:34:16.997+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:34:17.017+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:17.016+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:34:17.032+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:34:17.179+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.247 seconds
+[2024-11-29T14:34:33.737+0700] {processor.py:186} INFO - Started process (PID=47567) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:34:33.738+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:34:33.770+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:33.770+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:34:33.800+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:34:33.930+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.280 seconds
+[2024-11-29T14:34:38.114+0700] {processor.py:186} INFO - Started process (PID=47619) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:34:38.124+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:34:38.137+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:38.136+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:34:38.153+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:34:38.386+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.351 seconds
+[2024-11-29T14:35:07.886+0700] {processor.py:186} INFO - Started process (PID=47905) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:35:07.900+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:35:07.926+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:07.917+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:35:07.958+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:35:08.201+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.411 seconds
+[2024-11-29T14:35:16.782+0700] {processor.py:186} INFO - Started process (PID=48009) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:35:16.786+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:35:16.811+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:16.803+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:35:16.822+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:35:17.005+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.272 seconds
+[2024-11-29T14:35:25.295+0700] {processor.py:186} INFO - Started process (PID=48102) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:35:25.301+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:35:25.316+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:25.315+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:35:25.361+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:35:25.556+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.304 seconds
+[2024-11-29T14:35:50.265+0700] {processor.py:186} INFO - Started process (PID=48313) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:35:50.268+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:35:50.273+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:50.272+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:35:50.278+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:35:50.333+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.176 seconds
+[2024-11-29T14:36:07.003+0700] {processor.py:186} INFO - Started process (PID=48471) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:36:07.014+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:36:07.082+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:07.081+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:36:07.129+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:36:07.285+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.332 seconds
+[2024-11-29T14:36:20.037+0700] {processor.py:186} INFO - Started process (PID=48629) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:36:20.046+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:36:20.080+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:20.067+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:36:20.102+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:36:20.349+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.377 seconds
+[2024-11-29T14:36:28.311+0700] {processor.py:186} INFO - Started process (PID=48747) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:36:28.316+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:36:28.338+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:28.331+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:36:28.365+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:36:28.523+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.268 seconds
+[2024-11-29T14:36:43.081+0700] {processor.py:186} INFO - Started process (PID=48918) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:36:43.099+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:36:43.131+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:43.116+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:36:43.144+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:36:43.267+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.281 seconds
+[2024-11-29T14:36:56.242+0700] {processor.py:186} INFO - Started process (PID=49096) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:36:56.243+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:36:56.262+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:56.259+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:36:56.274+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:36:56.357+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.161 seconds
+[2024-11-29T14:37:06.733+0700] {processor.py:186} INFO - Started process (PID=49240) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:37:06.742+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:37:06.764+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:06.758+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:37:06.783+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:37:06.860+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.188 seconds
+[2024-11-29T14:37:20.647+0700] {processor.py:186} INFO - Started process (PID=49417) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:37:20.652+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:37:20.664+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:20.663+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:37:20.678+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:37:20.746+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.158 seconds
+[2024-11-29T14:37:35.073+0700] {processor.py:186} INFO - Started process (PID=49607) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:37:35.079+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:37:35.089+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:35.088+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:37:35.104+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:37:35.199+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.160 seconds
+[2024-11-29T14:37:42.654+0700] {processor.py:186} INFO - Started process (PID=49711) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:37:42.672+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:37:42.692+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:42.691+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:37:42.707+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:37:42.818+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.225 seconds
+[2024-11-29T14:37:58.715+0700] {processor.py:186} INFO - Started process (PID=49912) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:37:58.721+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:37:58.736+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:58.736+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:37:58.751+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:37:58.853+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.175 seconds
+[2024-11-29T14:38:11.638+0700] {processor.py:186} INFO - Started process (PID=50065) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:38:11.646+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:38:11.664+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:11.663+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:38:11.704+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:38:12.020+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.468 seconds
+[2024-11-29T14:38:20.919+0700] {processor.py:186} INFO - Started process (PID=50197) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:38:20.931+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:38:20.950+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:20.944+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:38:20.972+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:38:21.125+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.263 seconds
+[2024-11-29T14:38:39.457+0700] {processor.py:186} INFO - Started process (PID=50414) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:38:39.467+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:38:39.493+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:39.492+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:38:39.516+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:38:39.704+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.298 seconds
+[2024-11-29T14:38:53.063+0700] {processor.py:186} INFO - Started process (PID=50589) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:38:53.071+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:38:53.083+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:53.082+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:38:53.097+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:38:53.157+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.115 seconds
+[2024-11-29T14:38:57.818+0700] {processor.py:186} INFO - Started process (PID=50657) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:38:57.825+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:38:57.848+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:57.847+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:38:57.877+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:38:58.027+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.278 seconds
+[2024-11-29T14:39:16.621+0700] {processor.py:186} INFO - Started process (PID=50899) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:39:16.630+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:39:16.653+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:16.645+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:39:16.673+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:39:16.804+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.241 seconds
+[2024-11-29T14:39:36.286+0700] {processor.py:186} INFO - Started process (PID=51176) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:39:36.301+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:39:36.322+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:36.316+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:39:36.338+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:39:36.492+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.267 seconds
+[2024-11-29T14:39:36.681+0700] {processor.py:186} INFO - Started process (PID=51184) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:39:36.682+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:39:36.711+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:36.700+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:39:36.734+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:39:36.899+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.281 seconds
+[2024-11-29T14:39:54.712+0700] {processor.py:186} INFO - Started process (PID=51411) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:39:54.721+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:39:54.755+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:54.744+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:39:54.787+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:39:55.068+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.406 seconds
+[2024-11-29T14:40:15.949+0700] {processor.py:186} INFO - Started process (PID=51692) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:40:15.955+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:40:15.977+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:15.970+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:40:15.985+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:40:16.053+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.131 seconds
+[2024-11-29T14:40:17.728+0700] {processor.py:186} INFO - Started process (PID=51716) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:40:17.731+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:40:17.753+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:17.753+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:40:17.780+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:40:17.904+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.236 seconds
+[2024-11-29T14:40:38.308+0700] {processor.py:186} INFO - Started process (PID=51939) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:40:38.312+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:40:38.325+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:38.322+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:40:38.341+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:40:38.496+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.236 seconds
+[2024-11-29T14:40:53.286+0700] {processor.py:186} INFO - Started process (PID=52117) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:40:53.297+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:40:53.356+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:53.347+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:40:53.385+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:40:53.471+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.283 seconds
+[2024-11-29T14:40:57.381+0700] {processor.py:186} INFO - Started process (PID=52175) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:40:57.394+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:40:57.414+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:57.413+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:40:57.427+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:40:57.587+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.301 seconds
+[2024-11-29T14:41:15.338+0700] {processor.py:186} INFO - Started process (PID=52368) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:41:15.358+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:41:15.408+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:15.407+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:41:15.421+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:41:15.613+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.375 seconds
+[2024-11-29T14:41:34.586+0700] {processor.py:186} INFO - Started process (PID=52581) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:41:34.587+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:41:34.624+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:34.617+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:41:34.644+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:41:34.835+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.298 seconds
+[2024-11-29T14:41:39.111+0700] {processor.py:186} INFO - Started process (PID=52637) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:41:39.121+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:41:39.150+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:39.147+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:41:39.170+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:41:39.284+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.279 seconds
+[2024-11-29T14:41:52.780+0700] {processor.py:186} INFO - Started process (PID=52831) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:41:52.782+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:41:52.798+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:52.792+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:41:52.809+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:41:52.962+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.222 seconds
+[2024-11-29T14:42:11.812+0700] {processor.py:186} INFO - Started process (PID=53116) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:42:11.822+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:42:11.853+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:11.853+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:42:11.878+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:42:11.978+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.213 seconds
+[2024-11-29T14:42:15.613+0700] {processor.py:186} INFO - Started process (PID=53169) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:42:15.617+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:42:15.623+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:15.621+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:42:15.629+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:42:15.733+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.161 seconds
+[2024-11-29T14:42:26.463+0700] {processor.py:186} INFO - Started process (PID=53313) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:42:26.464+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:42:26.495+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:26.484+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:42:26.510+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:42:26.677+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.300 seconds
+[2024-11-29T14:42:52.320+0700] {processor.py:186} INFO - Started process (PID=53638) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:42:52.323+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:42:52.354+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:52.351+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:42:52.380+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:42:52.602+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.366 seconds
+[2024-11-29T14:42:52.722+0700] {processor.py:186} INFO - Started process (PID=53641) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:42:52.737+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:42:52.763+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:52.762+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:42:52.781+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:42:53.083+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.476 seconds
+[2024-11-29T14:43:04.843+0700] {processor.py:186} INFO - Started process (PID=53782) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:43:04.847+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:43:04.867+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:04.862+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:43:04.877+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:43:04.996+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.187 seconds
+[2024-11-29T14:43:27.214+0700] {processor.py:186} INFO - Started process (PID=54086) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:43:27.222+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:43:27.234+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:27.233+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:43:27.254+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:43:27.359+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.185 seconds
+[2024-11-29T14:43:31.997+0700] {processor.py:186} INFO - Started process (PID=54145) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:43:32.016+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:43:32.066+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:32.055+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:43:32.084+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:43:32.427+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.481 seconds
+[2024-11-29T14:43:42.747+0700] {processor.py:186} INFO - Started process (PID=54284) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:43:42.748+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:43:42.757+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:42.756+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:43:42.764+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:43:42.917+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.186 seconds
+[2024-11-29T14:44:06.674+0700] {processor.py:186} INFO - Started process (PID=54579) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:44:06.678+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:44:06.690+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:06.689+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:44:06.715+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:44:06.892+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.246 seconds
+[2024-11-29T14:44:09.865+0700] {processor.py:186} INFO - Started process (PID=54612) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:44:09.871+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:44:09.876+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:09.876+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:44:09.888+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:44:09.980+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.132 seconds
+[2024-11-29T14:44:30.185+0700] {processor.py:186} INFO - Started process (PID=54804) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:44:30.191+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:44:30.204+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:30.203+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:44:30.241+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:44:30.499+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.358 seconds
+[2024-11-29T14:44:48.587+0700] {processor.py:186} INFO - Started process (PID=55029) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:44:48.591+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:44:48.600+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:48.599+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:44:48.621+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:44:48.704+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.144 seconds
+[2024-11-29T14:44:51.230+0700] {processor.py:186} INFO - Started process (PID=55063) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:44:51.231+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:44:51.247+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:51.246+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:44:51.257+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:44:51.357+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.148 seconds
+[2024-11-29T14:45:07.422+0700] {processor.py:186} INFO - Started process (PID=55233) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:45:07.436+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:45:07.461+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:07.459+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:45:07.496+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:45:07.718+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.339 seconds
+[2024-11-29T14:45:30.373+0700] {processor.py:186} INFO - Started process (PID=55516) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:45:30.391+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:45:30.457+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:30.452+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:45:30.486+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:45:30.683+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.396 seconds
+[2024-11-29T14:45:32.921+0700] {processor.py:186} INFO - Started process (PID=55545) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:45:32.927+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:45:32.950+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:32.945+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:45:32.969+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:45:33.203+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.357 seconds
+[2024-11-29T14:46:04.899+0700] {processor.py:186} INFO - Started process (PID=55838) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:46:04.929+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:46:04.969+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:04.968+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:46:04.996+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:46:05.188+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.418 seconds
+[2024-11-29T14:46:12.726+0700] {processor.py:186} INFO - Started process (PID=55919) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:46:12.742+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:46:12.776+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:12.769+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:46:12.796+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:46:12.843+0700] {processor.py:186} INFO - Started process (PID=55920) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:46:12.845+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:46:12.871+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:12.861+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:46:12.886+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:46:13.076+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.427 seconds
+[2024-11-29T14:46:13.113+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.321 seconds
+[2024-11-29T14:46:54.251+0700] {processor.py:186} INFO - Started process (PID=56255) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:46:54.268+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:46:54.296+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:54.285+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:46:54.319+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:46:54.627+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.466 seconds
+[2024-11-29T14:47:05.554+0700] {processor.py:186} INFO - Started process (PID=56345) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:47:05.555+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:47:05.588+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:05.587+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:47:05.616+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:47:05.841+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.367 seconds
+[2024-11-29T14:47:06.970+0700] {processor.py:186} INFO - Started process (PID=56358) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:47:06.983+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:47:07.036+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:07.036+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:47:07.065+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:47:07.346+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.498 seconds
+[2024-11-29T14:48:07.199+0700] {processor.py:186} INFO - Started process (PID=56809) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:48:07.213+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:48:07.261+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:07.258+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:48:07.302+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:48:07.472+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.415 seconds
+[2024-11-29T14:48:15.037+0700] {processor.py:186} INFO - Started process (PID=56886) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:48:15.058+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:48:15.106+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:15.091+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:48:15.139+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:48:15.339+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.417 seconds
+[2024-11-29T14:48:20.943+0700] {processor.py:186} INFO - Started process (PID=56946) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:48:20.951+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:48:20.973+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:20.967+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:48:20.990+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:48:21.275+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.444 seconds
+[2024-11-29T14:48:22.502+0700] {processor.py:186} INFO - Started process (PID=56962) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:48:22.539+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:48:22.629+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:22.628+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:48:22.673+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:48:23.066+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.765 seconds
+[2024-11-29T14:49:13.070+0700] {processor.py:186} INFO - Started process (PID=57367) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:49:13.076+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:49:13.082+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:49:13.082+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:49:13.118+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:49:13.250+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.296 seconds
+[2024-11-29T14:49:28.320+0700] {processor.py:186} INFO - Started process (PID=57532) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:49:28.343+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py for tasks to queue
+[2024-11-29T14:49:28.379+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:49:28.372+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:49:28.390+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py
+[2024-11-29T14:49:28.598+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/subdags/subdag.py took 0.359 seconds

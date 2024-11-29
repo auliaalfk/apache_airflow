@@ -1,0 +1,8 @@
+[2024-11-05T19:06:05.162+0700] {processor.py:186} INFO - Started process (PID=67042) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py
+[2024-11-05T19:06:05.165+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py for tasks to queue
+[2024-11-05T19:06:05.173+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:05.173+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py
+[2024-11-05T19:06:05.215+0700] {processor.py:925} INFO - DAG(s) 'read_dataset_event_from_classic', 'read_dataset_event' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py
+[2024-11-05T19:06:05.310+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:05.310+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-11-05T19:06:05.401+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:05.401+0700] {dag.py:4180} INFO - Setting next_dagrun for read_dataset_event to 2024-11-04 00:00:00+00:00, run_after=2024-11-05 00:00:00+00:00
+[2024-11-05T19:06:05.417+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:05.416+0700] {dag.py:4180} INFO - Setting next_dagrun for read_dataset_event_from_classic to 2024-11-04 00:00:00+00:00, run_after=2024-11-05 00:00:00+00:00
+[2024-11-05T19:06:05.465+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_inlet_event_extra.py took 0.322 seconds

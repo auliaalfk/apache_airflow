@@ -1,0 +1,7 @@
+[2024-11-05T19:06:01.153+0700] {processor.py:186} INFO - Started process (PID=67001) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-11-05T19:06:01.154+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2024-11-05T19:06:01.157+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:01.157+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-11-05T19:06:01.170+0700] {processor.py:925} INFO - DAG(s) 'example_task_group' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py
+[2024-11-05T19:06:01.218+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:01.218+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T19:06:01.241+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:01.241+0700] {dag.py:4180} INFO - Setting next_dagrun for example_task_group to None, run_after=None
+[2024-11-05T19:06:01.274+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_task_group.py took 0.135 seconds

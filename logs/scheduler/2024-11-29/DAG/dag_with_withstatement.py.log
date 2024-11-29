@@ -1,0 +1,7 @@
+[2024-11-29T15:44:48.618+0700] {processor.py:186} INFO - Started process (PID=11263) to work on /home/3323600030_Aulia/airflow/dags/DAG/dag_with_withstatement.py
+[2024-11-29T15:44:48.622+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/DAG/dag_with_withstatement.py for tasks to queue
+[2024-11-29T15:44:48.643+0700] {logging_mixin.py:190} INFO - [2024-11-29T15:44:48.642+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/DAG/dag_with_withstatement.py
+[2024-11-29T15:44:48.695+0700] {processor.py:925} INFO - DAG(s) 'dag_with_withstatement' retrieved from /home/3323600030_Aulia/airflow/dags/DAG/dag_with_withstatement.py
+[2024-11-29T15:44:49.088+0700] {logging_mixin.py:190} INFO - [2024-11-29T15:44:49.087+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T15:44:49.140+0700] {logging_mixin.py:190} INFO - [2024-11-29T15:44:49.140+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_withstatement to None, run_after=None
+[2024-11-29T15:44:49.203+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/DAG/dag_with_withstatement.py took 0.614 seconds

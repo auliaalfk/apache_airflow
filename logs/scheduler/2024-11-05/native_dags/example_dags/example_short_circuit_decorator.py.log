@@ -1,0 +1,7 @@
+[2024-11-05T19:06:01.750+0700] {processor.py:186} INFO - Started process (PID=67009) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-11-05T19:06:01.756+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_decorator.py for tasks to queue
+[2024-11-05T19:06:01.761+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:01.760+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-11-05T19:06:01.797+0700] {processor.py:925} INFO - DAG(s) 'example_short_circuit_decorator' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_decorator.py
+[2024-11-05T19:06:01.875+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:01.875+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-05T19:06:01.923+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:01.922+0700] {dag.py:4180} INFO - Setting next_dagrun for example_short_circuit_decorator to None, run_after=None
+[2024-11-05T19:06:01.985+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_short_circuit_decorator.py took 0.251 seconds

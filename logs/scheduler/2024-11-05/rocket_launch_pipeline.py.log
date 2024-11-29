@@ -1,0 +1,17 @@
+[2024-11-05T19:05:57.179+0700] {processor.py:186} INFO - Started process (PID=66961) to work on /home/3323600030_Aulia/airflow/dags/rocket_launch_pipeline.py
+[2024-11-05T19:05:57.188+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/rocket_launch_pipeline.py for tasks to queue
+[2024-11-05T19:05:57.201+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:05:57.201+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/rocket_launch_pipeline.py
+[2024-11-05T19:05:57.255+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:05:57.238+0700] {dagbag.py:387} ERROR - Failed to import: /home/3323600030_Aulia/airflow/dags/rocket_launch_pipeline.py
+Traceback (most recent call last):
+  File "/home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/models/dagbag.py", line 383, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 991, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1129, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1059, in source_to_code
+  File "<frozen importlib._bootstrap>", line 488, in _call_with_frames_removed
+  File "/home/3323600030_Aulia/airflow/dags/rocket_launch_pipeline.py", line 10
+        'start_date': datetime(2024, 1, 1),
+    ^
+SyntaxError: invalid non-printable character U+00A0
+[2024-11-05T19:05:57.256+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/airflow/dags/rocket_launch_pipeline.py
+[2024-11-05T19:05:57.425+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/rocket_launch_pipeline.py took 0.288 seconds

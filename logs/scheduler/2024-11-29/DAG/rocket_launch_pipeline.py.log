@@ -1,0 +1,7 @@
+[2024-11-29T15:44:42.089+0700] {processor.py:186} INFO - Started process (PID=11224) to work on /home/3323600030_Aulia/airflow/dags/DAG/rocket_launch_pipeline.py
+[2024-11-29T15:44:42.092+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/DAG/rocket_launch_pipeline.py for tasks to queue
+[2024-11-29T15:44:42.099+0700] {logging_mixin.py:190} INFO - [2024-11-29T15:44:42.098+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/DAG/rocket_launch_pipeline.py
+[2024-11-29T15:44:42.156+0700] {processor.py:925} INFO - DAG(s) 'rocket_launch_pipeline' retrieved from /home/3323600030_Aulia/airflow/dags/DAG/rocket_launch_pipeline.py
+[2024-11-29T15:44:42.967+0700] {logging_mixin.py:190} INFO - [2024-11-29T15:44:42.966+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T15:44:43.043+0700] {logging_mixin.py:190} INFO - [2024-11-29T15:44:43.042+0700] {dag.py:4180} INFO - Setting next_dagrun for rocket_launch_pipeline to 2024-01-01 00:00:00+00:00, run_after=2024-01-02 00:00:00+00:00
+[2024-11-29T15:44:43.137+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/DAG/rocket_launch_pipeline.py took 1.067 seconds

@@ -1,0 +1,5 @@
+[2024-11-05T19:05:57.749+0700] {processor.py:186} INFO - Started process (PID=66966) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2024-11-05T19:05:57.754+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2024-11-05T19:05:57.760+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:05:57.757+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2024-11-05T19:05:57.765+0700] {processor.py:927} WARNING - No viable dags retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py
+[2024-11-05T19:05:57.851+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/plugins/workday.py took 0.119 seconds

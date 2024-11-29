@@ -1,0 +1,4 @@
+2024-11-14 22:30:33,397 ERROR - [0 / 0] Some workers seem to have died and gunicorn did not restart them as expected
+2024-11-14 22:30:43,670 INFO - [0 / 0] Spawning 1 workers
+2024-11-14 22:32:43,792 ERROR - No response from gunicorn master within 120 seconds
+2024-11-14 22:32:43,894 ERROR - Shutting down webserver

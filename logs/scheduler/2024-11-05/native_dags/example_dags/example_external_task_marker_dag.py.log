@@ -1,0 +1,8 @@
+[2024-11-05T19:06:05.242+0700] {processor.py:186} INFO - Started process (PID=67044) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2024-11-05T19:06:05.244+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_external_task_marker_dag.py for tasks to queue
+[2024-11-05T19:06:05.249+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:05.248+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2024-11-05T19:06:05.265+0700] {processor.py:925} INFO - DAG(s) 'example_external_task_marker_child', 'example_external_task_marker_parent' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_external_task_marker_dag.py
+[2024-11-05T19:06:05.322+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:05.321+0700] {dag.py:3239} INFO - Sync 2 DAGs
+[2024-11-05T19:06:05.347+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:05.347+0700] {dag.py:4180} INFO - Setting next_dagrun for example_external_task_marker_child to None, run_after=None
+[2024-11-05T19:06:05.359+0700] {logging_mixin.py:190} INFO - [2024-11-05T19:06:05.358+0700] {dag.py:4180} INFO - Setting next_dagrun for example_external_task_marker_parent to None, run_after=None
+[2024-11-05T19:06:05.394+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/example_external_task_marker_dag.py took 0.160 seconds

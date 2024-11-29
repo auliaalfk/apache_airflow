@@ -1,0 +1,1219 @@
+[2024-11-29T14:02:08.847+0700] {processor.py:186} INFO - Started process (PID=29355) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:02:08.848+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:02:08.853+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:08.852+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:02:08.881+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:02:10.106+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:10.105+0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:dag_with_decorator
+[2024-11-29T14:02:10.320+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:10.319+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:dag_with_decorator
+[2024-11-29T14:02:10.444+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:10.444+0700] {override.py:1900} INFO - Created Permission View: can read on DAG:dag_with_decorator
+[2024-11-29T14:02:10.508+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:10.508+0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:dag_with_decorator
+[2024-11-29T14:02:10.528+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:10.528+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:dag_with_decorator
+[2024-11-29T14:02:10.586+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:10.585+0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:dag_with_decorator
+[2024-11-29T14:02:10.625+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:10.625+0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:dag_with_decorator
+[2024-11-29T14:02:10.629+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:10.626+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:02:10.719+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:10.718+0700] {dag.py:3262} INFO - Creating ORM DAG for dag_with_decorator
+[2024-11-29T14:02:10.785+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:10.784+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:02:10.897+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 2.067 seconds
+[2024-11-29T14:02:41.184+0700] {processor.py:186} INFO - Started process (PID=29598) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:02:41.195+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:02:41.219+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:41.218+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:02:41.253+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:02:41.466+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:41.466+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:02:41.591+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:02:41.590+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:02:41.674+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.541 seconds
+[2024-11-29T14:03:11.839+0700] {processor.py:186} INFO - Started process (PID=29787) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:03:11.841+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:03:11.845+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:03:11.845+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:03:11.858+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:03:11.932+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:03:11.929+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:03:12.015+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:03:12.013+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:03:12.065+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.239 seconds
+[2024-11-29T14:03:42.439+0700] {processor.py:186} INFO - Started process (PID=29963) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:03:42.444+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:03:42.453+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:03:42.452+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:03:42.487+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:03:42.608+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:03:42.607+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:03:42.724+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:03:42.724+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:03:42.833+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.425 seconds
+[2024-11-29T14:04:12.904+0700] {processor.py:186} INFO - Started process (PID=30125) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:04:12.906+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:04:12.912+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:04:12.912+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:04:12.925+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:04:12.974+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:04:12.974+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:04:13.020+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:04:13.019+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:04:13.057+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.164 seconds
+[2024-11-29T14:04:43.466+0700] {processor.py:186} INFO - Started process (PID=30316) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:04:43.467+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:04:43.472+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:04:43.471+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:04:43.482+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:04:43.533+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:04:43.533+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:04:43.656+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:04:43.655+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:04:43.763+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.310 seconds
+[2024-11-29T14:05:13.901+0700] {processor.py:186} INFO - Started process (PID=30491) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:05:13.903+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:05:13.908+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:05:13.908+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:05:13.922+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:05:14.027+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:05:14.027+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:05:14.085+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:05:14.084+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:05:14.122+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.232 seconds
+[2024-11-29T14:05:45.804+0700] {processor.py:186} INFO - Started process (PID=30706) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:05:45.806+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:05:45.822+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:05:45.813+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:05:45.849+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:05:45.936+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:05:45.936+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:05:46.082+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:05:46.076+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:05:46.232+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.456 seconds
+[2024-11-29T14:06:17.079+0700] {processor.py:186} INFO - Started process (PID=30935) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:06:17.080+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:06:17.084+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:06:17.084+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:06:17.097+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:06:17.147+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:06:17.146+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:06:17.247+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:06:17.247+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:06:17.317+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.258 seconds
+[2024-11-29T14:06:47.654+0700] {processor.py:186} INFO - Started process (PID=31143) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:06:47.656+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:06:47.661+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:06:47.660+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:06:47.673+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:06:47.722+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:06:47.722+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:06:47.783+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:06:47.783+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:06:47.822+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.183 seconds
+[2024-11-29T14:07:17.979+0700] {processor.py:186} INFO - Started process (PID=31366) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:07:17.980+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:07:17.985+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:07:17.984+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:07:17.998+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:07:18.062+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:07:18.061+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:07:18.146+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:07:18.146+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:07:18.303+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.338 seconds
+[2024-11-29T14:07:48.871+0700] {processor.py:186} INFO - Started process (PID=31555) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:07:48.872+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:07:48.879+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:07:48.878+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:07:48.911+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:07:48.990+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:07:48.989+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:07:49.042+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:07:49.041+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:07:49.103+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.244 seconds
+[2024-11-29T14:08:17.198+0700] {processor.py:186} INFO - Started process (PID=31764) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:08:17.212+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:08:17.248+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:08:17.247+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:08:17.369+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:08:17.571+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:08:17.570+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:08:17.796+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:08:17.795+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:08:18.021+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.870 seconds
+[2024-11-29T14:08:21.412+0700] {processor.py:186} INFO - Started process (PID=31798) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:08:21.419+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:08:21.447+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:08:21.447+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:08:21.528+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:08:21.756+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:08:21.756+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:08:22.060+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:08:22.060+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:08:22.192+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.868 seconds
+[2024-11-29T14:09:02.266+0700] {processor.py:186} INFO - Started process (PID=32148) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:09:02.273+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:09:02.282+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:02.281+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:09:02.316+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:09:02.514+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:02.513+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:09:02.711+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:02.708+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:09:02.865+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.637 seconds
+[2024-11-29T14:09:06.817+0700] {processor.py:186} INFO - Started process (PID=32199) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:09:06.827+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:09:06.855+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:06.851+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:09:06.940+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:09:07.162+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:07.159+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:09:07.309+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:07.307+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:09:07.442+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.674 seconds
+[2024-11-29T14:09:40.215+0700] {processor.py:186} INFO - Started process (PID=32491) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:09:40.219+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:09:40.230+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:40.227+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:09:40.264+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:09:40.426+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:40.426+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:09:40.551+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:40.550+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:09:40.674+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.474 seconds
+[2024-11-29T14:09:45.183+0700] {processor.py:186} INFO - Started process (PID=32570) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:09:45.195+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:09:45.217+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:45.216+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:09:45.231+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:09:45.367+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:45.367+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:09:45.604+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:09:45.604+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:09:45.793+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.647 seconds
+[2024-11-29T14:10:17.437+0700] {processor.py:186} INFO - Started process (PID=32840) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:10:17.447+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:10:17.461+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:17.457+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:10:17.522+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:10:17.757+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:17.756+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:10:18.019+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:18.018+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:10:18.200+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.807 seconds
+[2024-11-29T14:10:23.001+0700] {processor.py:186} INFO - Started process (PID=32906) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:10:23.011+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:10:23.037+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:23.033+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:10:23.091+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:10:23.323+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:23.323+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:10:23.520+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:23.520+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:10:23.715+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.788 seconds
+[2024-11-29T14:10:58.414+0700] {processor.py:186} INFO - Started process (PID=33231) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:10:58.424+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:10:58.457+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:58.456+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:10:58.540+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:10:58.825+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:58.811+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:10:59.166+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:59.166+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:10:59.364+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.036 seconds
+[2024-11-29T14:10:59.967+0700] {processor.py:186} INFO - Started process (PID=33239) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:10:59.975+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:10:59.992+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:10:59.992+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:11:00.097+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:11:00.331+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:00.331+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:11:00.690+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:00.690+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:11:01.002+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.132 seconds
+[2024-11-29T14:11:13.176+0700] {processor.py:186} INFO - Started process (PID=33363) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:11:13.178+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:11:13.233+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:13.231+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:11:13.347+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:11:13.716+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:13.716+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:11:14.014+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:14.013+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:11:14.280+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.216 seconds
+[2024-11-29T14:11:41.927+0700] {processor.py:186} INFO - Started process (PID=33677) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:11:41.934+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:11:41.957+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:41.955+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:11:42.030+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:11:42.154+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:42.153+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:11:42.298+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:42.297+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:11:42.444+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.570 seconds
+[2024-11-29T14:11:47.330+0700] {processor.py:186} INFO - Started process (PID=33751) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:11:47.345+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:11:47.372+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:47.371+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:11:47.441+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:11:47.590+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:47.590+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:11:47.714+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:47.710+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:11:47.863+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.580 seconds
+[2024-11-29T14:11:57.558+0700] {processor.py:186} INFO - Started process (PID=33900) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:11:57.566+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:11:57.596+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:57.583+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:11:57.657+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:11:57.937+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:57.934+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:11:58.217+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:11:58.217+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:11:58.458+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.960 seconds
+[2024-11-29T14:12:32.993+0700] {processor.py:186} INFO - Started process (PID=34251) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:12:33.008+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:12:33.032+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:33.020+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:12:33.114+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:12:33.215+0700] {processor.py:186} INFO - Started process (PID=34254) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:12:33.219+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:12:33.231+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:33.231+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:12:33.256+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:33.256+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:12:33.258+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:12:33.374+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:33.373+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:12:33.438+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:33.435+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:12:33.541+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.630 seconds
+[2024-11-29T14:12:33.638+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:33.637+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:12:33.802+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.631 seconds
+[2024-11-29T14:12:35.855+0700] {processor.py:186} INFO - Started process (PID=34279) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:12:35.868+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:12:35.922+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:35.903+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:12:36.142+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:12:36.665+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:36.652+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:12:37.089+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:12:37.087+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:12:37.297+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.554 seconds
+[2024-11-29T14:13:14.849+0700] {processor.py:186} INFO - Started process (PID=34643) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:13:14.860+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:13:14.893+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:14.892+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:13:14.972+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:13:15.187+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:15.187+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:13:15.528+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:15.527+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:13:15.819+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.015 seconds
+[2024-11-29T14:13:18.979+0700] {processor.py:186} INFO - Started process (PID=34703) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:13:18.993+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:13:19.023+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:19.022+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:13:19.170+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:13:19.427+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:19.427+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:13:19.640+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:19.639+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:13:19.867+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.960 seconds
+[2024-11-29T14:13:26.711+0700] {processor.py:186} INFO - Started process (PID=34803) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:13:26.720+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:13:26.741+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:26.738+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:13:26.780+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:13:26.873+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:26.872+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:13:27.053+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:27.053+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:13:27.190+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.542 seconds
+[2024-11-29T14:13:51.722+0700] {processor.py:186} INFO - Started process (PID=35063) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:13:51.746+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:13:51.776+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:51.775+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:13:51.884+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:13:52.147+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:52.146+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:13:52.372+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:13:52.371+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:13:52.511+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.842 seconds
+[2024-11-29T14:14:01.482+0700] {processor.py:186} INFO - Started process (PID=35175) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:14:01.491+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:14:01.517+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:01.506+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:14:01.620+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:14:01.882+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:01.877+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:14:02.188+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:02.187+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:14:02.322+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.907 seconds
+[2024-11-29T14:14:05.599+0700] {processor.py:186} INFO - Started process (PID=35221) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:14:05.605+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:14:05.621+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:05.620+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:14:05.717+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:14:05.844+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:05.840+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:14:06.057+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:06.057+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:14:06.240+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.665 seconds
+[2024-11-29T14:14:42.791+0700] {processor.py:186} INFO - Started process (PID=35586) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:14:42.795+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:14:42.818+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:42.815+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:14:42.877+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:14:43.028+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:43.027+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:14:43.252+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:43.246+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:14:43.452+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.723 seconds
+[2024-11-29T14:14:43.478+0700] {processor.py:186} INFO - Started process (PID=35593) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:14:43.490+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:14:43.525+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:43.524+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:14:43.651+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:14:43.915+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:43.915+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:14:44.161+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:44.159+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:14:44.269+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.866 seconds
+[2024-11-29T14:14:49.139+0700] {processor.py:186} INFO - Started process (PID=35666) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:14:49.153+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:14:49.200+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:49.190+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:14:49.345+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:14:49.598+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:49.598+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:14:49.935+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:14:49.923+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:14:50.189+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.143 seconds
+[2024-11-29T14:15:25.463+0700] {processor.py:186} INFO - Started process (PID=36125) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:15:25.467+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:15:25.475+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:25.474+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:15:25.591+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:15:25.763+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:25.760+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:15:25.946+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:25.942+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:15:26.119+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.757 seconds
+[2024-11-29T14:15:26.471+0700] {processor.py:186} INFO - Started process (PID=36144) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:15:26.475+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:15:26.485+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:26.483+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:15:26.531+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:15:26.773+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:26.767+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:15:27.000+0700] {processor.py:186} INFO - Started process (PID=36153) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:15:27.005+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:15:27.016+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:27.015+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:15:27.047+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:15:27.115+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:27.115+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:15:27.178+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:27.175+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:15:27.264+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.859 seconds
+[2024-11-29T14:15:27.318+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:15:27.316+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:15:27.441+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.469 seconds
+[2024-11-29T14:16:01.729+0700] {processor.py:186} INFO - Started process (PID=36545) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:01.827+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:16:01.848+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:01.847+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:01.915+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:02.035+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:02.033+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:16:02.243+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:02.242+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:16:02.516+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.805 seconds
+[2024-11-29T14:16:03.401+0700] {processor.py:186} INFO - Started process (PID=36560) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:03.414+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:16:03.430+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:03.425+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:03.481+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:03.570+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:03.570+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:16:03.635+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:03.634+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:16:04.314+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.947 seconds
+[2024-11-29T14:16:05.666+0700] {processor.py:186} INFO - Started process (PID=36588) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:05.676+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:16:05.698+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:05.693+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:05.748+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:05.858+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:05.857+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:16:05.972+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:05.969+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:16:06.429+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.812 seconds
+[2024-11-29T14:16:37.003+0700] {processor.py:186} INFO - Started process (PID=36995) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:37.053+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:16:37.066+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:37.066+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:37.109+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:37.322+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:37.319+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:16:37.553+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:37.550+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:16:38.016+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.026 seconds
+[2024-11-29T14:16:40.246+0700] {processor.py:186} INFO - Started process (PID=37033) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:40.249+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:16:40.260+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:40.258+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:40.300+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:40.434+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:40.434+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:16:40.504+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:40.504+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:16:40.544+0700] {processor.py:186} INFO - Started process (PID=37040) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:40.547+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:16:40.556+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:40.555+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:40.583+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:16:40.676+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:40.675+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:16:40.840+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.626 seconds
+[2024-11-29T14:16:40.892+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:16:40.891+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:16:41.140+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.617 seconds
+[2024-11-29T14:17:11.723+0700] {processor.py:186} INFO - Started process (PID=37458) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:11.753+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:17:11.761+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:11.760+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:11.800+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:11.914+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:11.914+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:17:11.982+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:11.981+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:17:12.186+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.475 seconds
+[2024-11-29T14:17:15.295+0700] {processor.py:186} INFO - Started process (PID=37514) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:15.297+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:17:15.304+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:15.303+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:15.319+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:15.417+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:15.416+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:17:15.505+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:15.504+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:17:15.716+0700] {processor.py:186} INFO - Started process (PID=37517) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:15.718+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:17:15.730+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:15.729+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:15.760+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:15.835+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.556 seconds
+[2024-11-29T14:17:15.922+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:15.920+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:17:16.047+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:16.047+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:17:16.581+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.900 seconds
+[2024-11-29T14:17:47.206+0700] {processor.py:186} INFO - Started process (PID=37962) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:47.272+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:17:47.289+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:47.285+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:47.357+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:47.576+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:47.573+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:17:47.700+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:47.696+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:17:48.109+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.941 seconds
+[2024-11-29T14:17:50.209+0700] {processor.py:186} INFO - Started process (PID=38002) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:50.207+0700] {processor.py:186} INFO - Started process (PID=38000) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:50.231+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:17:50.225+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:17:50.255+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:50.255+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:50.263+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:50.250+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:50.391+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:50.382+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:17:50.636+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:50.636+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:17:50.674+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:50.667+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:17:50.967+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:50.966+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:17:51.097+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.961 seconds
+[2024-11-29T14:17:51.150+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:17:51.150+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:17:51.286+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.222 seconds
+[2024-11-29T14:18:27.870+0700] {processor.py:186} INFO - Started process (PID=38422) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:18:27.892+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:18:27.907+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:27.906+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:18:27.926+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:18:27.982+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:27.981+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:18:28.066+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:28.066+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:18:28.974+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.127 seconds
+[2024-11-29T14:18:29.993+0700] {processor.py:186} INFO - Started process (PID=38444) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:18:30.003+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:18:30.044+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:30.043+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:18:30.353+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:18:30.834+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:30.834+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:18:31.114+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:31.113+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:18:31.404+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.510 seconds
+[2024-11-29T14:18:32.888+0700] {processor.py:186} INFO - Started process (PID=38483) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:18:32.890+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:18:32.928+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:32.925+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:18:33.011+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:18:33.245+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:33.244+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:18:33.440+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:18:33.439+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:18:33.737+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.927 seconds
+[2024-11-29T14:19:01.533+0700] {processor.py:186} INFO - Started process (PID=38893) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:19:01.539+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:19:01.566+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:01.556+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:19:01.619+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:19:01.891+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:01.891+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:19:02.126+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:02.125+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:19:02.308+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.838 seconds
+[2024-11-29T14:19:04.510+0700] {processor.py:186} INFO - Started process (PID=38930) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:19:04.518+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:19:04.542+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:04.542+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:19:04.631+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:19:04.998+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:04.998+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:19:05.350+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:05.349+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:19:05.597+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.202 seconds
+[2024-11-29T14:19:12.807+0700] {processor.py:186} INFO - Started process (PID=38997) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:19:12.816+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:19:12.838+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:12.837+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:19:12.922+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:19:13.156+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:13.155+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:19:14.654+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:14.649+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:19:14.823+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 2.100 seconds
+[2024-11-29T14:19:40.207+0700] {processor.py:186} INFO - Started process (PID=39268) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:19:40.229+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:19:40.247+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:40.238+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:19:40.277+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:19:40.409+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:40.400+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:19:40.628+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:40.628+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:19:40.771+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.606 seconds
+[2024-11-29T14:19:46.147+0700] {processor.py:186} INFO - Started process (PID=39353) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:19:46.153+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:19:46.165+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:46.165+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:19:46.242+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:19:46.383+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:46.382+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:19:46.624+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:19:46.624+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:19:46.904+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.802 seconds
+[2024-11-29T14:20:20.121+0700] {processor.py:186} INFO - Started process (PID=39672) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:20:20.124+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:20:20.173+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:20.164+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:20:20.297+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:20:20.533+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:20.532+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:20:21.099+0700] {processor.py:186} INFO - Started process (PID=39679) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:20:21.106+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:20:21.132+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:21.126+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:20:21.206+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:20:21.462+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:21.456+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:20:22.006+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:22.005+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:20:22.153+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 2.064 seconds
+[2024-11-29T14:20:22.252+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:22.251+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:20:22.388+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.366 seconds
+[2024-11-29T14:20:26.259+0700] {processor.py:186} INFO - Started process (PID=39725) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:20:26.270+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:20:26.291+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:26.284+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:20:26.356+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:20:26.559+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:26.558+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:20:26.841+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:20:26.841+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:20:26.943+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.735 seconds
+[2024-11-29T14:21:04.097+0700] {processor.py:186} INFO - Started process (PID=40106) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:21:04.101+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:21:04.116+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:04.115+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:21:04.208+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:21:04.551+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:04.542+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:21:04.786+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:04.772+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:21:04.953+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.877 seconds
+[2024-11-29T14:21:05.426+0700] {processor.py:186} INFO - Started process (PID=40136) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:21:05.427+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:21:05.459+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:05.457+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:21:05.563+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:21:05.766+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:05.763+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:21:05.943+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:05.942+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:21:06.245+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.921 seconds
+[2024-11-29T14:21:44.389+0700] {processor.py:186} INFO - Started process (PID=40436) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:21:44.400+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:21:44.436+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:44.432+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:21:44.464+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:21:44.566+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:44.563+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:21:44.767+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:44.762+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:21:45.010+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.712 seconds
+[2024-11-29T14:21:48.941+0700] {processor.py:186} INFO - Started process (PID=40486) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:21:48.951+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:21:48.965+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:48.962+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:21:49.011+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:21:49.121+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:49.121+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:21:49.252+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:49.252+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:21:49.356+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.461 seconds
+[2024-11-29T14:21:53.305+0700] {processor.py:186} INFO - Started process (PID=40525) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:21:53.307+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:21:53.323+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:53.320+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:21:53.367+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:21:54.847+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:54.846+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:21:54.987+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:21:54.981+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:21:55.164+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.900 seconds
+[2024-11-29T14:22:27.265+0700] {processor.py:186} INFO - Started process (PID=40846) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:22:27.271+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:22:27.296+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:27.295+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:22:27.358+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:22:27.506+0700] {processor.py:186} INFO - Started process (PID=40851) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:22:27.533+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:22:27.556+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:27.555+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:22:27.593+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:27.592+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:22:27.649+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:22:27.784+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:27.779+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:22:27.877+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:27.876+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:22:28.034+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.851 seconds
+[2024-11-29T14:22:28.061+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:22:28.060+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:22:28.242+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.837 seconds
+[2024-11-29T14:23:17.203+0700] {processor.py:186} INFO - Started process (PID=41295) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:23:17.213+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:23:17.242+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:17.241+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:23:17.313+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:23:17.543+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:17.543+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:23:17.856+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:17.848+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:23:18.061+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.950 seconds
+[2024-11-29T14:23:18.076+0700] {processor.py:186} INFO - Started process (PID=41305) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:23:18.080+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:23:18.097+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:18.095+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:23:18.148+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:23:18.347+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:18.347+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:23:18.664+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:18.663+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:23:18.821+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.790 seconds
+[2024-11-29T14:23:22.112+0700] {processor.py:186} INFO - Started process (PID=41357) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:23:22.115+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:23:22.150+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:22.139+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:23:22.228+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:23:24.001+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:24.001+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:23:24.216+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:23:24.216+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:23:24.395+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 2.339 seconds
+[2024-11-29T14:24:06.870+0700] {processor.py:186} INFO - Started process (PID=41770) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:24:06.879+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:24:06.896+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:06.892+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:24:06.969+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:24:07.355+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:07.347+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:24:07.842+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:07.838+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:24:08.101+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.292 seconds
+[2024-11-29T14:24:11.881+0700] {processor.py:186} INFO - Started process (PID=41811) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:24:11.923+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:24:12.028+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:11.993+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:24:12.244+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:24:12.628+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:12.627+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:24:12.822+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:12.819+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:24:12.929+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.111 seconds
+[2024-11-29T14:24:23.216+0700] {processor.py:186} INFO - Started process (PID=41917) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:24:23.225+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:24:23.246+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:23.245+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:24:23.298+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:24:23.446+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:23.446+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:24:23.642+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:23.641+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:24:23.777+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.662 seconds
+[2024-11-29T14:24:48.860+0700] {processor.py:186} INFO - Started process (PID=42144) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:24:48.874+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:24:48.897+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:48.896+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:24:48.996+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:24:49.184+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:49.184+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:24:49.365+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:49.361+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:24:49.491+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.706 seconds
+[2024-11-29T14:24:57.859+0700] {processor.py:186} INFO - Started process (PID=42280) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:24:57.864+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:24:57.878+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:57.874+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:24:57.932+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:24:58.190+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:58.189+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:24:58.456+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:24:58.456+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:24:58.669+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.861 seconds
+[2024-11-29T14:25:09.996+0700] {processor.py:186} INFO - Started process (PID=42436) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:25:09.997+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:25:10.008+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:10.008+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:25:10.022+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:25:10.232+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:10.231+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:25:10.439+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:10.438+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:25:10.652+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.669 seconds
+[2024-11-29T14:25:34.022+0700] {processor.py:186} INFO - Started process (PID=42647) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:25:34.048+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:25:34.141+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:34.137+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:25:34.247+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:25:34.533+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:34.532+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:25:34.772+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:34.771+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:25:34.916+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.983 seconds
+[2024-11-29T14:25:36.646+0700] {processor.py:186} INFO - Started process (PID=42694) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:25:36.654+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:25:36.685+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:36.676+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:25:36.744+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:25:36.847+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:36.847+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:25:37.122+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:37.122+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:25:37.289+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.700 seconds
+[2024-11-29T14:25:48.606+0700] {processor.py:186} INFO - Started process (PID=42852) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:25:48.618+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:25:48.633+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:48.632+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:25:48.737+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:25:48.981+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:48.978+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:25:49.203+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:25:49.202+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:25:49.382+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.855 seconds
+[2024-11-29T14:26:18.739+0700] {processor.py:186} INFO - Started process (PID=43169) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:26:18.743+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:26:18.759+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:18.759+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:26:18.812+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:26:19.188+0700] {processor.py:186} INFO - Started process (PID=43173) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:26:19.193+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:26:19.213+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:19.209+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:26:19.280+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:19.280+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:26:19.320+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:26:19.623+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:19.622+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:26:19.730+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:19.729+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:26:19.794+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.107 seconds
+[2024-11-29T14:26:20.217+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:20.208+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:26:20.574+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.446 seconds
+[2024-11-29T14:26:25.849+0700] {processor.py:186} INFO - Started process (PID=43264) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:26:25.859+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:26:25.888+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:25.888+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:26:25.970+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:26:26.095+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:26.094+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:26:26.372+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:26:26.372+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:26:26.546+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.748 seconds
+[2024-11-29T14:27:04.186+0700] {processor.py:186} INFO - Started process (PID=43636) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:27:04.216+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:27:04.254+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:04.235+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:27:04.336+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:27:04.885+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:04.885+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:27:05.282+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:05.281+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:27:05.511+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.408 seconds
+[2024-11-29T14:27:09.626+0700] {processor.py:186} INFO - Started process (PID=43705) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:27:09.632+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:27:09.639+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:09.638+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:27:09.653+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:27:09.798+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:09.797+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:27:10.027+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:10.026+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:27:10.244+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.665 seconds
+[2024-11-29T14:27:36.994+0700] {processor.py:186} INFO - Started process (PID=44065) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:27:37.000+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:27:37.009+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:37.008+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:27:37.042+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:27:37.129+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:37.125+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:27:37.302+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:37.299+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:27:37.408+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.453 seconds
+[2024-11-29T14:27:51.685+0700] {processor.py:186} INFO - Started process (PID=44225) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:27:51.691+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:27:51.714+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:51.714+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:27:51.776+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:27:51.955+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:51.954+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:27:52.134+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:52.133+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:27:52.275+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.654 seconds
+[2024-11-29T14:27:53.669+0700] {processor.py:186} INFO - Started process (PID=44243) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:27:53.671+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:27:53.687+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:53.686+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:27:53.764+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:27:54.021+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:54.020+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:27:54.324+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:27:54.323+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:27:54.441+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.808 seconds
+[2024-11-29T14:28:31.647+0700] {processor.py:186} INFO - Started process (PID=44564) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:28:31.666+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:28:31.710+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:28:31.701+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:28:31.855+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:28:32.203+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:28:32.193+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:28:32.663+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:28:32.659+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:28:32.861+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.366 seconds
+[2024-11-29T14:28:58.491+0700] {processor.py:186} INFO - Started process (PID=44758) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:28:58.506+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:28:58.540+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:28:58.540+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:28:58.690+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:28:59.082+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:28:59.067+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:28:59.390+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:28:59.390+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:28:59.832+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.409 seconds
+[2024-11-29T14:29:06.901+0700] {processor.py:186} INFO - Started process (PID=44832) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:29:06.927+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:29:06.962+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:06.949+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:29:07.033+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:29:07.256+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:07.251+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:29:09.613+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:09.613+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:29:09.842+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 2.984 seconds
+[2024-11-29T14:29:32.438+0700] {processor.py:186} INFO - Started process (PID=45040) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:29:32.452+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:29:32.489+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:32.487+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:29:32.530+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:29:32.602+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:32.598+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:29:33.020+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:33.019+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:29:33.582+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.237 seconds
+[2024-11-29T14:29:56.547+0700] {processor.py:186} INFO - Started process (PID=45395) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:29:56.556+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:29:56.583+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:56.575+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:29:56.657+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:29:56.798+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:56.795+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:29:58.217+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:29:58.217+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:29:58.345+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.846 seconds
+[2024-11-29T14:30:02.021+0700] {processor.py:186} INFO - Started process (PID=45445) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:30:02.036+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:30:02.055+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:02.054+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:30:02.118+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:30:02.372+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:02.371+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:30:02.631+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:02.623+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:30:04.172+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 2.196 seconds
+[2024-11-29T14:30:08.367+0700] {processor.py:186} INFO - Started process (PID=45512) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:30:08.370+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:30:08.391+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:08.382+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:30:08.433+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:30:08.527+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:08.524+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:30:08.747+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:08.747+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:30:08.918+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.583 seconds
+[2024-11-29T14:30:47.300+0700] {processor.py:186} INFO - Started process (PID=45920) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:30:47.316+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:30:47.337+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:47.337+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:30:47.413+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:30:47.637+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:47.637+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:30:47.821+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:47.814+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:30:48.005+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.761 seconds
+[2024-11-29T14:30:56.216+0700] {processor.py:186} INFO - Started process (PID=46014) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:30:56.233+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:30:56.258+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:56.256+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:30:56.330+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:30:56.581+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:56.580+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:30:56.859+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:56.857+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:30:57.144+0700] {processor.py:186} INFO - Started process (PID=46023) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:30:57.159+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:30:57.188+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:57.178+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:30:57.255+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:30:57.453+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:57.450+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:30:58.185+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 2.040 seconds
+[2024-11-29T14:30:58.211+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:30:58.204+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:30:58.396+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.332 seconds
+[2024-11-29T14:31:28.404+0700] {processor.py:186} INFO - Started process (PID=46306) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:31:28.415+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:31:28.436+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:28.433+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:31:28.571+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:31:28.863+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:28.862+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:31:29.227+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:29.227+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:31:29.376+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.010 seconds
+[2024-11-29T14:31:54.268+0700] {processor.py:186} INFO - Started process (PID=46492) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:31:54.289+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:31:54.370+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:54.362+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:31:54.597+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:31:58.893+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:58.893+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:31:59.403+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:31:59.403+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:31:59.746+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 5.652 seconds
+[2024-11-29T14:32:18.546+0700] {processor.py:186} INFO - Started process (PID=46581) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:32:18.557+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:32:18.580+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:18.579+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:32:18.676+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:32:19.001+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:19.001+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:32:19.387+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:19.386+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:32:19.683+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.246 seconds
+[2024-11-29T14:32:33.282+0700] {processor.py:186} INFO - Started process (PID=46685) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:32:33.287+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:32:33.308+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:33.300+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:32:33.356+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:32:33.425+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:33.425+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:32:35.302+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:35.302+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:32:35.471+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 2.214 seconds
+[2024-11-29T14:32:47.711+0700] {processor.py:186} INFO - Started process (PID=46817) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:32:47.713+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:32:47.729+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:47.729+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:32:47.762+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:32:48.042+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:48.041+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:32:48.502+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:32:48.493+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:32:49.070+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.382 seconds
+[2024-11-29T14:33:29.362+0700] {processor.py:186} INFO - Started process (PID=47096) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:33:29.391+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:33:29.485+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:33:29.482+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:33:29.651+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:33:29.829+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:33:29.828+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:33:30.173+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:33:30.172+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:33:30.276+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.031 seconds
+[2024-11-29T14:33:37.975+0700] {processor.py:186} INFO - Started process (PID=47154) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:33:37.988+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:33:38.013+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:33:38.012+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:33:38.103+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:33:38.333+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:33:38.333+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:33:38.483+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:33:38.482+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:33:38.787+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.916 seconds
+[2024-11-29T14:34:15.829+0700] {processor.py:186} INFO - Started process (PID=47402) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:34:15.836+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:34:15.865+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:15.856+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:34:15.913+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:34:16.091+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:16.091+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:34:16.371+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:16.370+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:34:16.589+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.816 seconds
+[2024-11-29T14:34:33.541+0700] {processor.py:186} INFO - Started process (PID=47566) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:34:33.544+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:34:33.569+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:33.557+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:34:33.649+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:34:33.760+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:33.760+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:34:34.006+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:34.005+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:34:34.179+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.655 seconds
+[2024-11-29T14:34:35.990+0700] {processor.py:186} INFO - Started process (PID=47598) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:34:36.000+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:34:36.030+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:36.022+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:34:36.132+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:34:36.349+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:36.347+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:34:36.642+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:34:36.633+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:34:36.967+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.071 seconds
+[2024-11-29T14:35:06.147+0700] {processor.py:186} INFO - Started process (PID=47886) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:35:06.158+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:35:06.183+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:06.174+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:35:06.239+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:35:06.353+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:06.352+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:35:06.504+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:06.502+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:35:06.673+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.611 seconds
+[2024-11-29T14:35:18.830+0700] {processor.py:186} INFO - Started process (PID=48043) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:35:18.831+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:35:18.843+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:18.842+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:35:18.870+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:35:19.023+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:19.023+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:35:19.506+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:19.478+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:35:19.849+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.066 seconds
+[2024-11-29T14:35:20.381+0700] {processor.py:186} INFO - Started process (PID=48054) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:35:20.384+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:35:20.406+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:20.401+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:35:20.478+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:35:20.604+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:20.603+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:35:20.975+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:20.974+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:35:21.154+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.842 seconds
+[2024-11-29T14:35:48.929+0700] {processor.py:186} INFO - Started process (PID=48300) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:35:48.942+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:35:48.967+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:48.966+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:35:49.069+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:35:49.412+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:49.411+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:35:49.876+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:35:49.866+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:35:50.173+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.346 seconds
+[2024-11-29T14:36:05.034+0700] {processor.py:186} INFO - Started process (PID=48453) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:36:05.038+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:36:05.066+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:05.065+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:36:05.183+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:36:05.412+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:05.411+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:36:05.888+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:05.878+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:36:06.147+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.193 seconds
+[2024-11-29T14:36:15.271+0700] {processor.py:186} INFO - Started process (PID=48573) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:36:15.273+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:36:15.284+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:15.279+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:36:15.383+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:36:15.647+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:15.643+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:36:15.900+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:15.899+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:36:16.046+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.856 seconds
+[2024-11-29T14:36:31.448+0700] {processor.py:186} INFO - Started process (PID=48795) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:36:31.458+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:36:31.477+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:31.476+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:36:31.522+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:36:31.776+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:31.767+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:36:32.076+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:32.075+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:36:32.232+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.833 seconds
+[2024-11-29T14:36:44.460+0700] {processor.py:186} INFO - Started process (PID=48944) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:36:44.464+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:36:44.485+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:44.481+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:36:44.536+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:36:44.622+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:44.621+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:36:44.705+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:44.705+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:36:44.810+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.418 seconds
+[2024-11-29T14:36:52.368+0700] {processor.py:186} INFO - Started process (PID=49048) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:36:52.377+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:36:52.398+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:52.398+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:36:52.447+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:36:52.578+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:52.573+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:36:52.701+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:36:52.696+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:36:52.771+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.446 seconds
+[2024-11-29T14:37:09.164+0700] {processor.py:186} INFO - Started process (PID=49280) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:37:09.171+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:37:09.188+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:09.188+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:37:09.233+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:37:09.457+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:09.456+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:37:09.670+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:09.670+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:37:09.828+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.716 seconds
+[2024-11-29T14:37:20.223+0700] {processor.py:186} INFO - Started process (PID=49410) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:37:20.231+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:37:20.248+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:20.247+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:37:20.303+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:37:20.418+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:20.418+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:37:20.502+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:20.502+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:37:20.591+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.419 seconds
+[2024-11-29T14:37:27.304+0700] {processor.py:186} INFO - Started process (PID=49502) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:37:27.308+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:37:27.347+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:27.346+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:37:27.421+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:37:27.546+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:27.545+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:37:27.642+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:27.637+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:37:27.732+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.512 seconds
+[2024-11-29T14:37:48.771+0700] {processor.py:186} INFO - Started process (PID=49787) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:37:48.776+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:37:48.794+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:48.793+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:37:48.853+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:37:49.149+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:49.140+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:37:49.385+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:49.385+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:37:49.635+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.930 seconds
+[2024-11-29T14:37:56.701+0700] {processor.py:186} INFO - Started process (PID=49883) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:37:56.710+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:37:56.720+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:56.719+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:37:56.754+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:37:56.860+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:56.859+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:37:57.011+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:37:57.008+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:37:57.072+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.406 seconds
+[2024-11-29T14:38:03.294+0700] {processor.py:186} INFO - Started process (PID=49972) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:38:03.303+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:38:03.321+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:03.316+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:38:03.361+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:38:03.518+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:03.517+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:38:03.710+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:03.710+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:38:03.830+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.581 seconds
+[2024-11-29T14:38:26.429+0700] {processor.py:186} INFO - Started process (PID=50278) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:38:26.444+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:38:26.482+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:26.481+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:38:26.582+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:38:26.826+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:26.825+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:38:26.978+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:26.978+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:38:27.097+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.783 seconds
+[2024-11-29T14:38:30.107+0700] {processor.py:186} INFO - Started process (PID=50315) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:38:30.108+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:38:30.152+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:30.152+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:38:30.187+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:38:30.357+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:30.357+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:38:30.689+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:30.688+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:38:30.930+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.956 seconds
+[2024-11-29T14:38:41.450+0700] {processor.py:186} INFO - Started process (PID=50454) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:38:41.458+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:38:41.469+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:41.465+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:38:41.526+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:38:41.783+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:41.782+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:38:42.100+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:38:42.100+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:38:42.276+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.884 seconds
+[2024-11-29T14:39:03.740+0700] {processor.py:186} INFO - Started process (PID=50739) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:39:03.747+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:39:03.768+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:03.764+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:39:03.872+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:39:04.249+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:04.235+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:39:04.756+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:04.756+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:39:04.887+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.277 seconds
+[2024-11-29T14:39:10.445+0700] {processor.py:186} INFO - Started process (PID=50813) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:39:10.452+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:39:10.485+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:10.481+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:39:10.511+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:39:10.763+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:10.762+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:39:10.981+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:10.980+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:39:11.095+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.708 seconds
+[2024-11-29T14:39:17.973+0700] {processor.py:186} INFO - Started process (PID=50921) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:39:17.979+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:39:17.993+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:17.987+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:39:18.036+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:39:18.260+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:18.259+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:39:18.519+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:18.517+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:39:18.711+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.777 seconds
+[2024-11-29T14:39:45.674+0700] {processor.py:186} INFO - Started process (PID=51295) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:39:45.679+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:39:45.691+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:45.688+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:39:45.727+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:39:45.893+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:45.892+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:39:46.068+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:46.067+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:39:46.243+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.604 seconds
+[2024-11-29T14:39:49.019+0700] {processor.py:186} INFO - Started process (PID=51336) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:39:49.022+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:39:49.031+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:49.028+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:39:49.065+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:39:49.227+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:49.226+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:39:49.428+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:39:49.427+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:39:49.540+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.552 seconds
+[2024-11-29T14:40:06.101+0700] {processor.py:186} INFO - Started process (PID=51582) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:40:06.111+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:40:06.133+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:06.126+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:40:06.212+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:40:06.528+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:06.527+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:40:06.870+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:06.869+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:40:07.174+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.111 seconds
+[2024-11-29T14:40:26.045+0700] {processor.py:186} INFO - Started process (PID=51805) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:40:26.058+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:40:26.096+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:26.095+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:40:26.186+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:40:26.438+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:26.435+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:40:26.665+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:26.664+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:40:26.848+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.900 seconds
+[2024-11-29T14:40:27.394+0700] {processor.py:186} INFO - Started process (PID=51821) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:40:27.412+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:40:27.437+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:27.436+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:40:27.549+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:40:27.807+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:27.806+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:40:28.097+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:28.097+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:40:28.231+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.921 seconds
+[2024-11-29T14:40:39.046+0700] {processor.py:186} INFO - Started process (PID=51952) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:40:39.051+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:40:39.074+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:39.069+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:40:39.136+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:40:39.405+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:39.404+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:40:39.629+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:40:39.626+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:40:39.761+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.745 seconds
+[2024-11-29T14:41:02.775+0700] {processor.py:186} INFO - Started process (PID=52241) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:02.796+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:41:02.847+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:02.835+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:02.880+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:03.031+0700] {processor.py:186} INFO - Started process (PID=52245) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:03.035+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:41:03.049+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:03.044+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:03.133+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:03.141+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:03.140+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:41:03.404+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:03.395+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:41:03.445+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:03.445+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:41:03.654+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.989 seconds
+[2024-11-29T14:41:03.670+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:03.669+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:41:03.779+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.788 seconds
+[2024-11-29T14:41:17.559+0700] {processor.py:186} INFO - Started process (PID=52401) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:17.565+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:41:17.587+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:17.584+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:17.668+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:17.903+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:17.903+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:41:18.135+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:18.134+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:41:18.235+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.737 seconds
+[2024-11-29T14:41:38.154+0700] {processor.py:186} INFO - Started process (PID=52625) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:38.158+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:41:38.177+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:38.169+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:38.251+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:38.436+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:38.435+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:41:38.661+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:38.660+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:41:38.820+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.702 seconds
+[2024-11-29T14:41:39.905+0700] {processor.py:186} INFO - Started process (PID=52651) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:39.912+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:41:39.934+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:39.927+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:39.990+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:40.167+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:40.166+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:41:40.264+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:40.262+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:41:40.389+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.535 seconds
+[2024-11-29T14:41:54.430+0700] {processor.py:186} INFO - Started process (PID=52859) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:54.437+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:41:54.467+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:54.463+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:54.536+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:41:54.648+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:54.648+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:41:54.839+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:41:54.838+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:41:54.972+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.616 seconds
+[2024-11-29T14:42:14.963+0700] {processor.py:186} INFO - Started process (PID=53160) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:42:14.967+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:42:14.976+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:14.975+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:42:15.019+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:42:15.136+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:15.136+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:42:15.285+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:15.285+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:42:15.411+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.476 seconds
+[2024-11-29T14:42:16.454+0700] {processor.py:186} INFO - Started process (PID=53183) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:42:16.455+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:42:16.462+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:16.459+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:42:16.497+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:42:16.678+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:16.671+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:42:16.815+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:16.815+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:42:16.911+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.471 seconds
+[2024-11-29T14:42:28.883+0700] {processor.py:186} INFO - Started process (PID=53354) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:42:28.886+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:42:28.918+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:28.915+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:42:28.963+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:42:29.073+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:29.070+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:42:29.240+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:29.239+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:42:29.417+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.592 seconds
+[2024-11-29T14:42:48.733+0700] {processor.py:186} INFO - Started process (PID=53596) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:42:48.741+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:42:48.759+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:48.758+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:42:48.832+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:42:49.080+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:49.079+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:42:49.363+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:49.363+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:42:49.581+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.909 seconds
+[2024-11-29T14:42:51.321+0700] {processor.py:186} INFO - Started process (PID=53627) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:42:51.324+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:42:51.339+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:51.336+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:42:51.381+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:42:51.625+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:51.625+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:42:51.824+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:42:51.824+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:42:51.995+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.723 seconds
+[2024-11-29T14:43:07.841+0700] {processor.py:186} INFO - Started process (PID=53832) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:43:07.846+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:43:07.862+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:07.861+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:43:07.915+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:43:08.125+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:08.125+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:43:08.444+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:08.444+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:43:08.578+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.791 seconds
+[2024-11-29T14:43:23.949+0700] {processor.py:186} INFO - Started process (PID=54038) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:43:23.957+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:43:23.974+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:23.974+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:43:24.048+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:43:24.202+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:24.201+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:43:24.322+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:24.321+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:43:24.397+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.519 seconds
+[2024-11-29T14:43:26.288+0700] {processor.py:186} INFO - Started process (PID=54072) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:43:26.298+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:43:26.316+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:26.311+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:43:26.374+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:43:26.591+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:26.590+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:43:26.848+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:26.841+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:43:26.991+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.724 seconds
+[2024-11-29T14:43:44.845+0700] {processor.py:186} INFO - Started process (PID=54315) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:43:44.852+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:43:44.872+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:44.870+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:43:44.910+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:43:45.203+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:45.202+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:43:45.468+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:43:45.467+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:43:45.721+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.947 seconds
+[2024-11-29T14:44:02.390+0700] {processor.py:186} INFO - Started process (PID=54527) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:44:02.395+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:44:02.401+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:02.400+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:44:02.416+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:44:02.625+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:02.605+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:44:02.769+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:02.765+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:44:02.894+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.536 seconds
+[2024-11-29T14:44:05.620+0700] {processor.py:186} INFO - Started process (PID=54564) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:44:05.627+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:44:05.646+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:05.643+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:44:05.713+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:44:05.927+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:05.926+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:44:06.086+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:06.085+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:44:06.237+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.673 seconds
+[2024-11-29T14:44:19.418+0700] {processor.py:186} INFO - Started process (PID=54708) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:44:19.427+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:44:19.444+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:19.435+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:44:19.530+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:44:19.868+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:19.862+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:44:20.198+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:20.197+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:44:20.389+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.038 seconds
+[2024-11-29T14:44:47.276+0700] {processor.py:186} INFO - Started process (PID=55012) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:44:47.280+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:44:47.337+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:47.336+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:44:47.422+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:44:47.701+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:47.701+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:44:48.105+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:48.100+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:44:48.355+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.151 seconds
+[2024-11-29T14:44:48.865+0700] {processor.py:186} INFO - Started process (PID=55032) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:44:48.869+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:44:48.896+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:48.885+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:44:48.977+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:44:49.238+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:49.237+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:44:49.507+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:44:49.506+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:44:49.733+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.934 seconds
+[2024-11-29T14:45:09.447+0700] {processor.py:186} INFO - Started process (PID=55289) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:45:09.460+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:45:09.482+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:09.472+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:45:09.578+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:45:09.777+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:09.776+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:45:09.941+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:09.941+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:45:10.185+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.804 seconds
+[2024-11-29T14:45:26.648+0700] {processor.py:186} INFO - Started process (PID=55479) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:45:26.656+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:45:26.672+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:26.671+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:45:26.720+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:45:26.911+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:26.911+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:45:27.152+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:27.151+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:45:27.400+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.819 seconds
+[2024-11-29T14:45:28.813+0700] {processor.py:186} INFO - Started process (PID=55503) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:45:28.816+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:45:28.840+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:28.831+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:45:28.927+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:45:29.268+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:29.267+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:45:29.613+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:29.612+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:45:29.906+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.180 seconds
+[2024-11-29T14:45:49.714+0700] {processor.py:186} INFO - Started process (PID=55712) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:45:49.725+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:45:49.765+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:49.764+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:45:49.952+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:45:50.326+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:50.325+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:45:50.744+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:45:50.737+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:45:50.947+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.340 seconds
+[2024-11-29T14:46:10.984+0700] {processor.py:186} INFO - Started process (PID=55904) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:46:10.992+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:46:11.013+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:11.007+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:46:11.056+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:46:11.377+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:11.370+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:46:11.754+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:11.753+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:46:12.032+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.123 seconds
+[2024-11-29T14:46:24.498+0700] {processor.py:186} INFO - Started process (PID=56025) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:46:24.502+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:46:24.538+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:24.526+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:46:24.639+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:46:24.807+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:24.807+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:46:25.146+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:25.146+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:46:25.408+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.950 seconds
+[2024-11-29T14:46:35.495+0700] {processor.py:186} INFO - Started process (PID=56111) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:46:35.501+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:46:35.517+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:35.516+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:46:35.549+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:46:35.935+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:35.916+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:46:36.368+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:46:36.367+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:46:36.747+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.324 seconds
+[2024-11-29T14:47:03.616+0700] {processor.py:186} INFO - Started process (PID=56327) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:47:03.624+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:47:03.650+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:03.641+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:47:03.760+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:47:03.976+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:03.976+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:47:04.412+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:04.411+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:47:04.736+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.207 seconds
+[2024-11-29T14:47:25.043+0700] {processor.py:186} INFO - Started process (PID=56482) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:47:25.057+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:47:25.077+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:25.076+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:47:25.165+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:47:25.357+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:25.354+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:47:25.716+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:25.713+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:47:26.090+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.149 seconds
+[2024-11-29T14:47:42.274+0700] {processor.py:186} INFO - Started process (PID=56607) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:47:42.281+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:47:42.347+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:42.318+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:47:42.571+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:47:42.947+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:42.946+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:47:43.327+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:47:43.327+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:47:43.633+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.449 seconds
+[2024-11-29T14:48:08.069+0700] {processor.py:186} INFO - Started process (PID=56820) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:48:08.082+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:48:08.111+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:08.101+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:48:08.235+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:48:08.703+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:08.703+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:48:09.083+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:09.082+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:48:09.343+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.333 seconds
+[2024-11-29T14:48:18.833+0700] {processor.py:186} INFO - Started process (PID=56925) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:48:18.856+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:48:18.900+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:18.900+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:48:18.990+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:48:19.206+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:19.206+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:48:19.434+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:19.434+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:48:19.740+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 0.982 seconds
+[2024-11-29T14:48:46.607+0700] {processor.py:186} INFO - Started process (PID=57174) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:48:46.618+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:48:46.647+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:46.647+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:48:46.956+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:48:47.514+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:47.514+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:48:48.316+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:48:48.316+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:48:48.736+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 2.264 seconds
+[2024-11-29T14:49:06.028+0700] {processor.py:186} INFO - Started process (PID=57313) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:49:06.032+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:49:06.085+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:49:06.070+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:49:06.200+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:49:06.570+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:49:06.569+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:49:06.641+0700] {processor.py:186} INFO - Started process (PID=57317) to work on /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:49:06.648+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py for tasks to queue
+[2024-11-29T14:49:06.688+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:49:06.677+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:49:06.781+0700] {processor.py:925} INFO - DAG(s) 'dag_with_decorator' retrieved from /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py
+[2024-11-29T14:49:06.949+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:49:06.949+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:49:07.054+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:49:07.054+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-29T14:49:07.357+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.446 seconds
+[2024-11-29T14:49:07.757+0700] {logging_mixin.py:190} INFO - [2024-11-29T14:49:07.757+0700] {dag.py:4180} INFO - Setting next_dagrun for dag_with_decorator to None, run_after=None
+[2024-11-29T14:49:08.292+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/airflow/dags/dag_with_decorator.py took 1.751 seconds

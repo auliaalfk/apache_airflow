@@ -1,0 +1,1059 @@
+[2024-10-10T15:22:41.996+0700] {processor.py:186} INFO - Started process (PID=28499) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:22:41.997+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T15:22:42.001+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:22:42.000+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:22:42.011+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:22:42.168+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:22:42.167+0700] {override.py:1900} INFO - Created Permission View: can read on DAG:tutorial_dag
+[2024-10-10T15:22:42.186+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:22:42.186+0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:tutorial_dag
+[2024-10-10T15:22:42.198+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:22:42.198+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:tutorial_dag
+[2024-10-10T15:22:42.216+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:22:42.215+0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:tutorial_dag
+[2024-10-10T15:22:42.229+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:22:42.228+0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:tutorial_dag
+[2024-10-10T15:22:42.243+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:22:42.243+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:tutorial_dag
+[2024-10-10T15:22:42.261+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:22:42.260+0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:tutorial_dag
+[2024-10-10T15:22:42.261+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:22:42.261+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:22:42.279+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:22:42.278+0700] {dag.py:3262} INFO - Creating ORM DAG for tutorial_dag
+[2024-10-10T15:22:42.280+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:22:42.279+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T15:22:42.311+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.325 seconds
+[2024-10-10T15:23:56.348+0700] {processor.py:186} INFO - Started process (PID=28664) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:23:56.349+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T15:23:56.354+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:56.353+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:23:56.367+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:23:56.396+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:56.395+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:23:56.425+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:23:56.424+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T15:23:56.464+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.125 seconds
+[2024-10-10T15:25:07.516+0700] {processor.py:186} INFO - Started process (PID=28848) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:25:07.517+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T15:25:07.520+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:25:07.520+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:25:07.530+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:25:07.550+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:25:07.549+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:25:07.568+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:25:07.567+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T15:25:07.598+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.091 seconds
+[2024-10-10T15:26:18.135+0700] {processor.py:186} INFO - Started process (PID=28914) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:26:18.136+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T15:26:18.140+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:26:18.139+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:26:18.151+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:26:18.171+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:26:18.170+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:26:18.197+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:26:18.196+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T15:26:18.247+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.125 seconds
+[2024-10-10T15:27:24.946+0700] {processor.py:186} INFO - Started process (PID=28992) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:27:24.947+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T15:27:24.951+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:27:24.950+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:27:24.961+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:27:24.981+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:27:24.981+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:27:24.999+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:27:24.999+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T15:27:25.030+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.097 seconds
+[2024-10-10T15:28:30.095+0700] {processor.py:186} INFO - Started process (PID=29067) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:28:30.097+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T15:28:30.100+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:28:30.100+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:28:30.111+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:28:30.130+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:28:30.130+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:28:30.148+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:28:30.148+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T15:28:30.177+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.094 seconds
+[2024-10-10T15:29:41.800+0700] {processor.py:186} INFO - Started process (PID=29139) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:29:41.802+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T15:29:41.806+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:29:41.805+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:29:41.819+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:29:41.847+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:29:41.846+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:29:41.879+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:29:41.879+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T15:29:41.922+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.132 seconds
+[2024-10-10T15:30:22.061+0700] {processor.py:186} INFO - Started process (PID=29185) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:30:22.063+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T15:30:22.066+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:30:22.065+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:30:22.076+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T15:30:22.096+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:30:22.096+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T15:30:22.115+0700] {logging_mixin.py:190} INFO - [2024-10-10T15:30:22.114+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T15:30:22.145+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.094 seconds
+[2024-10-10T18:50:24.012+0700] {processor.py:186} INFO - Started process (PID=44557) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:50:24.016+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T18:50:24.022+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:24.022+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:50:24.054+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:50:24.504+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:24.500+0700] {override.py:1900} INFO - Created Permission View: can read on DAG:tutorial_dag
+[2024-10-10T18:50:24.529+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:24.529+0700] {override.py:1900} INFO - Created Permission View: can edit on DAG:tutorial_dag
+[2024-10-10T18:50:24.560+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:24.557+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG:tutorial_dag
+[2024-10-10T18:50:24.600+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:24.600+0700] {override.py:1900} INFO - Created Permission View: can read on DAG Run:tutorial_dag
+[2024-10-10T18:50:24.633+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:24.633+0700] {override.py:1900} INFO - Created Permission View: menu access on DAG Run:tutorial_dag
+[2024-10-10T18:50:24.660+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:24.660+0700] {override.py:1900} INFO - Created Permission View: can create on DAG Run:tutorial_dag
+[2024-10-10T18:50:24.693+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:24.692+0700] {override.py:1900} INFO - Created Permission View: can delete on DAG Run:tutorial_dag
+[2024-10-10T18:50:24.695+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:24.695+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:50:24.755+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:24.755+0700] {dag.py:3262} INFO - Creating ORM DAG for tutorial_dag
+[2024-10-10T18:50:24.763+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:24.763+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T18:50:24.840+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.848 seconds
+[2024-10-10T18:50:55.667+0700] {processor.py:186} INFO - Started process (PID=44686) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:50:55.671+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T18:50:55.677+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:55.674+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:50:55.695+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:50:55.741+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:55.741+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:50:55.776+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:50:55.775+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T18:50:55.810+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.154 seconds
+[2024-10-10T18:51:26.180+0700] {processor.py:186} INFO - Started process (PID=44806) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:51:26.183+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T18:51:26.187+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:26.186+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:51:26.199+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:51:26.259+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:26.259+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:51:26.286+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:26.285+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T18:51:26.321+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.154 seconds
+[2024-10-10T18:51:56.835+0700] {processor.py:186} INFO - Started process (PID=44931) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:51:56.837+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T18:51:56.841+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:56.840+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:51:56.852+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:51:56.901+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:56.900+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:51:56.929+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:51:56.929+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T18:51:56.994+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.171 seconds
+[2024-10-10T18:52:27.187+0700] {processor.py:186} INFO - Started process (PID=45050) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:52:27.191+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T18:52:27.198+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:52:27.196+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:52:27.213+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:52:27.260+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:52:27.260+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:52:27.286+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:52:27.286+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T18:52:27.322+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.149 seconds
+[2024-10-10T18:53:39.488+0700] {processor.py:186} INFO - Started process (PID=45259) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:53:39.492+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T18:53:39.500+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:53:39.499+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:53:39.518+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:53:39.598+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:53:39.597+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:53:39.637+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:53:39.637+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T18:53:39.702+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.235 seconds
+[2024-10-10T18:54:10.235+0700] {processor.py:186} INFO - Started process (PID=45434) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:54:10.237+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T18:54:10.240+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:10.239+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:54:10.252+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:54:10.299+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:10.299+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:54:10.329+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:10.329+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T18:54:10.367+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.141 seconds
+[2024-10-10T18:54:41.912+0700] {processor.py:186} INFO - Started process (PID=45555) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:54:41.913+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T18:54:41.926+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:41.923+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:54:41.996+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:54:42.145+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:42.144+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:54:42.256+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:54:42.252+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T18:54:42.451+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.587 seconds
+[2024-10-10T18:55:13.392+0700] {processor.py:186} INFO - Started process (PID=45686) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:55:13.394+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T18:55:13.397+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:13.397+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:55:13.410+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:55:13.458+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:13.457+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:55:13.486+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:13.484+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T18:55:13.525+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.145 seconds
+[2024-10-10T18:55:44.417+0700] {processor.py:186} INFO - Started process (PID=45802) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:55:44.419+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T18:55:44.422+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:44.422+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:55:44.436+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:55:44.497+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:44.497+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:55:44.526+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:55:44.526+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T18:55:44.565+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.163 seconds
+[2024-10-10T18:56:14.939+0700] {processor.py:186} INFO - Started process (PID=45950) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:56:14.941+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T18:56:14.945+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:56:14.944+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:56:14.967+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:56:15.015+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:56:15.015+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:56:15.061+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:56:15.061+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T18:56:15.170+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.242 seconds
+[2024-10-10T18:56:45.537+0700] {processor.py:186} INFO - Started process (PID=46084) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:56:45.541+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T18:56:45.546+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:56:45.545+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:56:45.564+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:56:45.619+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:56:45.619+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:56:45.648+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:56:45.647+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T18:56:45.688+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.169 seconds
+[2024-10-10T18:58:38.179+0700] {processor.py:186} INFO - Started process (PID=46179) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:58:38.180+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T18:58:38.185+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:58:38.184+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:58:38.199+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:58:38.264+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:58:38.263+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:58:38.300+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:58:38.299+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T18:58:38.338+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.170 seconds
+[2024-10-10T18:59:08.585+0700] {processor.py:186} INFO - Started process (PID=46304) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:59:08.586+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T18:59:08.590+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:59:08.590+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:59:08.603+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:59:08.646+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:59:08.646+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:59:08.669+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:59:08.668+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T18:59:08.698+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.122 seconds
+[2024-10-10T18:59:39.174+0700] {processor.py:186} INFO - Started process (PID=46546) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:59:39.176+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T18:59:39.179+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:59:39.178+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:59:39.191+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T18:59:39.235+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:59:39.234+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T18:59:39.265+0700] {logging_mixin.py:190} INFO - [2024-10-10T18:59:39.265+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T18:59:39.301+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.136 seconds
+[2024-10-10T19:01:47.529+0700] {processor.py:186} INFO - Started process (PID=46718) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:01:47.530+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:01:47.535+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:01:47.534+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:01:47.546+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:01:47.605+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:01:47.605+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:01:47.635+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:01:47.634+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:01:47.669+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.155 seconds
+[2024-10-10T19:02:18.366+0700] {processor.py:186} INFO - Started process (PID=46916) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:02:18.367+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:02:18.371+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:02:18.371+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:02:18.384+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:02:18.438+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:02:18.438+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:02:18.471+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:02:18.471+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:02:18.511+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.159 seconds
+[2024-10-10T19:02:48.929+0700] {processor.py:186} INFO - Started process (PID=47043) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:02:48.931+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:02:48.935+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:02:48.934+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:02:48.949+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:02:49.012+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:02:49.012+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:02:49.046+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:02:49.046+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:02:49.091+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.173 seconds
+[2024-10-10T19:16:38.290+0700] {processor.py:186} INFO - Started process (PID=47449) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:16:38.292+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:16:38.297+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:16:38.296+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:16:38.309+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:16:38.373+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:16:38.373+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:16:38.410+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:16:38.410+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:16:38.447+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.169 seconds
+[2024-10-10T19:17:08.569+0700] {processor.py:186} INFO - Started process (PID=47583) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:17:08.570+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:17:08.573+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:08.573+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:17:08.586+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:17:08.636+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:08.635+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:17:08.670+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:08.670+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:17:08.718+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.159 seconds
+[2024-10-10T19:17:39.410+0700] {processor.py:186} INFO - Started process (PID=47707) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:17:39.411+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:17:39.413+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:39.413+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:17:39.427+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:17:39.479+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:39.479+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:17:39.514+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:17:39.513+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:17:39.555+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.156 seconds
+[2024-10-10T19:18:10.486+0700] {processor.py:186} INFO - Started process (PID=47847) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:18:10.487+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:18:10.490+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:10.489+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:18:10.503+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:18:10.559+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:10.558+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:18:10.591+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:10.591+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:18:10.634+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.160 seconds
+[2024-10-10T19:18:41.341+0700] {processor.py:186} INFO - Started process (PID=47963) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:18:41.342+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:18:41.345+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:41.344+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:18:41.359+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:18:41.414+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:41.413+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:18:41.446+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:18:41.446+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:18:41.484+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.155 seconds
+[2024-10-10T19:19:12.741+0700] {processor.py:186} INFO - Started process (PID=48098) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:19:12.742+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:19:12.746+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:12.744+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:19:12.767+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:19:12.849+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:12.849+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:19:12.883+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:12.883+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:19:12.933+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.204 seconds
+[2024-10-10T19:19:45.193+0700] {processor.py:186} INFO - Started process (PID=48241) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:19:45.198+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:19:45.202+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:45.201+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:19:45.236+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:19:45.344+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:45.343+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:19:45.390+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:19:45.389+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:19:45.457+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.286 seconds
+[2024-10-10T19:20:16.370+0700] {processor.py:186} INFO - Started process (PID=48371) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:20:16.372+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:20:16.374+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:16.374+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:20:16.387+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:20:16.433+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:16.433+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:20:16.461+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:16.460+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:20:16.522+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.166 seconds
+[2024-10-10T19:20:46.729+0700] {processor.py:186} INFO - Started process (PID=48489) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:20:46.730+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:20:46.733+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:46.733+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:20:46.746+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:20:46.802+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:46.800+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:20:46.839+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:20:46.838+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:20:46.881+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.170 seconds
+[2024-10-10T19:21:17.997+0700] {processor.py:186} INFO - Started process (PID=48624) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:21:18.017+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:21:18.097+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:21:18.051+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:21:18.353+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:21:18.634+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:21:18.627+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:21:18.924+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:21:18.923+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:21:19.396+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.683 seconds
+[2024-10-10T19:21:50.284+0700] {processor.py:186} INFO - Started process (PID=48769) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:21:50.285+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:21:50.287+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:21:50.287+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:21:50.301+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:21:50.350+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:21:50.349+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:21:50.381+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:21:50.381+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:21:50.429+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.158 seconds
+[2024-10-10T19:22:20.593+0700] {processor.py:186} INFO - Started process (PID=48891) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:22:20.595+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:22:20.597+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:20.596+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:22:20.612+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:22:20.666+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:20.666+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:22:20.698+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:20.697+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:22:20.732+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.155 seconds
+[2024-10-10T19:22:51.590+0700] {processor.py:186} INFO - Started process (PID=49010) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:22:51.592+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:22:51.594+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:51.593+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:22:51.608+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:22:51.654+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:51.654+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:22:51.683+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:22:51.682+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:22:51.723+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.145 seconds
+[2024-10-10T19:28:17.259+0700] {processor.py:186} INFO - Started process (PID=49177) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:28:17.282+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:28:17.317+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:17.316+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:28:17.395+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:28:17.709+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:17.709+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:28:17.850+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:17.850+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:28:17.917+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.710 seconds
+[2024-10-10T19:28:48.192+0700] {processor.py:186} INFO - Started process (PID=49321) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:28:48.194+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:28:48.197+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:48.196+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:28:48.207+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:28:48.256+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:48.256+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:28:48.281+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:28:48.280+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:28:48.316+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.133 seconds
+[2024-10-10T19:29:18.525+0700] {processor.py:186} INFO - Started process (PID=49472) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:29:18.527+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:29:18.532+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:18.530+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:29:18.551+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:29:18.605+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:18.605+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:29:18.642+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:18.642+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:29:18.693+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.177 seconds
+[2024-10-10T19:29:48.797+0700] {processor.py:186} INFO - Started process (PID=49588) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:29:48.801+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:29:48.804+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:48.804+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:29:48.817+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:29:48.870+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:48.870+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:29:48.905+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:29:48.904+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:29:48.939+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.153 seconds
+[2024-10-10T19:30:19.253+0700] {processor.py:186} INFO - Started process (PID=49715) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:30:19.255+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:30:19.261+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:30:19.260+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:30:19.277+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:30:19.329+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:30:19.328+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:30:19.362+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:30:19.361+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:30:19.405+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.161 seconds
+[2024-10-10T19:30:49.948+0700] {processor.py:186} INFO - Started process (PID=49870) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:30:49.962+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:30:49.979+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:30:49.978+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:30:50.032+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:30:50.433+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:30:50.432+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:30:50.695+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:30:50.693+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:30:50.879+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.993 seconds
+[2024-10-10T19:30:51.366+0700] {processor.py:186} INFO - Started process (PID=49883) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:30:51.367+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:30:51.373+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:30:51.372+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:30:51.408+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:30:51.483+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:30:51.482+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:30:51.618+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:30:51.616+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:30:51.720+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.367 seconds
+[2024-10-10T19:31:21.322+0700] {processor.py:186} INFO - Started process (PID=50164) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:31:21.323+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:31:21.327+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:21.327+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:31:21.340+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:31:21.449+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:21.448+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:31:21.586+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:21.585+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:31:21.842+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.542 seconds
+[2024-10-10T19:31:22.457+0700] {processor.py:186} INFO - Started process (PID=50176) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:31:22.459+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:31:22.466+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:22.464+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:31:22.487+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:31:22.570+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:22.570+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:31:22.660+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:22.657+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:31:22.744+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.303 seconds
+[2024-10-10T19:31:53.074+0700] {processor.py:186} INFO - Started process (PID=50411) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:31:53.085+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:31:53.158+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:53.137+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:31:53.359+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:31:53.688+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:53.688+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:31:54.085+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:54.068+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:31:54.224+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.254 seconds
+[2024-10-10T19:31:54.266+0700] {processor.py:186} INFO - Started process (PID=50418) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:31:54.267+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:31:54.273+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:54.272+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:31:54.313+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:31:54.413+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:54.412+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:31:54.524+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:31:54.523+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:31:54.631+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.388 seconds
+[2024-10-10T19:32:34.840+0700] {processor.py:186} INFO - Started process (PID=51276) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:32:34.846+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:32:34.856+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:34.855+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:32:34.913+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:32:35.021+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:35.021+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:32:35.083+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:35.083+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:32:35.165+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.375 seconds
+[2024-10-10T19:32:35.311+0700] {processor.py:186} INFO - Started process (PID=51282) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:32:35.316+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:32:35.332+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:35.327+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:32:35.374+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:32:35.569+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:35.566+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:32:35.725+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:32:35.725+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:32:35.882+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.608 seconds
+[2024-10-10T19:33:07.184+0700] {processor.py:186} INFO - Started process (PID=51552) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:07.190+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:33:07.212+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:07.209+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:07.213+0700] {processor.py:186} INFO - Started process (PID=51553) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:07.228+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:33:07.250+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:07.249+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:07.294+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:07.331+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:07.536+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:07.534+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:33:07.560+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:07.556+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:33:07.650+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:07.640+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:33:07.780+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:07.779+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:33:07.834+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.714 seconds
+[2024-10-10T19:33:07.948+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.795 seconds
+[2024-10-10T19:33:27.983+0700] {processor.py:186} INFO - Started process (PID=51748) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:27.987+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:33:27.997+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:27.994+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:28.018+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:28.697+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:28.696+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:33:28.872+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:28.872+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:33:29.064+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.096 seconds
+[2024-10-10T19:33:41.583+0700] {processor.py:186} INFO - Started process (PID=51880) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:41.585+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:33:41.594+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:41.593+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:41.636+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:41.838+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:41.838+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:33:41.909+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:41.909+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:33:41.985+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.435 seconds
+[2024-10-10T19:33:44.484+0700] {processor.py:186} INFO - Started process (PID=51911) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:44.496+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:33:44.532+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:44.518+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:44.609+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:44.901+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:44.899+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:33:45.085+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:45.084+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:33:45.280+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.882 seconds
+[2024-10-10T19:33:59.666+0700] {processor.py:186} INFO - Started process (PID=52071) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:59.685+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:33:59.700+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:33:59.700+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:33:59.776+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:34:00.047+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:00.046+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:00.335+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:00.332+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:34:00.940+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.329 seconds
+[2024-10-10T19:34:14.734+0700] {processor.py:186} INFO - Started process (PID=52244) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:34:14.743+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:34:14.760+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:14.758+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:34:14.782+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:34:14.878+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:14.877+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:14.995+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:14.995+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:34:15.171+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.514 seconds
+[2024-10-10T19:34:16.252+0700] {processor.py:186} INFO - Started process (PID=52261) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:34:16.264+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:34:16.279+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:16.278+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:34:16.364+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:34:16.647+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:16.646+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:16.798+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:16.797+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:34:16.915+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.725 seconds
+[2024-10-10T19:34:31.718+0700] {processor.py:186} INFO - Started process (PID=52426) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:34:31.722+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:34:31.734+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:31.731+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:34:31.749+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:34:31.848+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:31.847+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:31.991+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:31.990+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:34:32.148+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.440 seconds
+[2024-10-10T19:34:45.698+0700] {processor.py:186} INFO - Started process (PID=52578) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:34:45.705+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:34:45.716+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:45.715+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:34:45.760+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:34:45.929+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:45.924+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:46.042+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:46.036+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:34:46.142+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.479 seconds
+[2024-10-10T19:34:47.712+0700] {processor.py:186} INFO - Started process (PID=52606) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:34:47.717+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:34:47.733+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:47.733+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:34:47.790+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:34:47.903+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:47.900+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:34:48.010+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:34:48.009+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:34:48.179+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.543 seconds
+[2024-10-10T19:35:03.677+0700] {processor.py:186} INFO - Started process (PID=52804) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:35:03.683+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:35:03.738+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:03.737+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:35:03.816+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:35:04.096+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:04.096+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:35:04.196+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:04.195+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:35:04.387+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.870 seconds
+[2024-10-10T19:35:22.742+0700] {processor.py:186} INFO - Started process (PID=52964) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:35:22.751+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:35:22.777+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:22.772+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:35:22.853+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:35:23.018+0700] {processor.py:186} INFO - Started process (PID=52969) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:35:23.025+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:35:23.050+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:23.038+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:35:23.088+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:23.088+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:35:23.100+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:35:23.219+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:23.216+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:35:23.291+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:23.290+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:35:23.436+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.786 seconds
+[2024-10-10T19:35:23.481+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:23.481+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:35:23.702+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.766 seconds
+[2024-10-10T19:35:43.576+0700] {processor.py:186} INFO - Started process (PID=53147) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:35:43.584+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:35:43.610+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:43.600+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:35:43.729+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:35:44.007+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:44.006+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:35:44.108+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:44.107+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:35:44.338+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.824 seconds
+[2024-10-10T19:35:57.826+0700] {processor.py:186} INFO - Started process (PID=53298) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:35:57.847+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:35:57.916+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:57.896+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:35:58.025+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:35:58.274+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:58.271+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:35:58.455+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:35:58.454+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:35:58.625+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.890 seconds
+[2024-10-10T19:36:02.410+0700] {processor.py:186} INFO - Started process (PID=53346) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:36:02.423+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:36:02.453+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:02.452+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:36:02.535+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:36:02.824+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:02.823+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:36:02.992+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:02.989+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:36:03.181+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.990 seconds
+[2024-10-10T19:36:14.579+0700] {processor.py:186} INFO - Started process (PID=53499) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:36:14.580+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:36:14.585+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:14.584+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:36:14.602+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:36:14.673+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:14.672+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:36:14.708+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:14.708+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:36:14.746+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.179 seconds
+[2024-10-10T19:36:29.009+0700] {processor.py:186} INFO - Started process (PID=53653) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:36:29.017+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:36:29.040+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:29.034+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:36:29.114+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:36:29.315+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:29.314+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:36:29.385+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:29.384+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:36:29.439+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.496 seconds
+[2024-10-10T19:36:33.556+0700] {processor.py:186} INFO - Started process (PID=53696) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:36:33.563+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:36:33.576+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:33.575+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:36:33.616+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:36:33.720+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:33.717+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:36:33.779+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:33.778+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:36:33.860+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.337 seconds
+[2024-10-10T19:36:47.842+0700] {processor.py:186} INFO - Started process (PID=53882) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:36:47.856+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:36:47.877+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:47.877+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:36:47.977+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:36:48.271+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:48.270+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:36:48.331+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:36:48.331+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:36:48.419+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.714 seconds
+[2024-10-10T19:37:04.748+0700] {processor.py:186} INFO - Started process (PID=54075) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:04.769+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:37:04.817+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:04.816+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:04.969+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:05.172+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:05.168+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:37:05.467+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:05.454+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:37:05.785+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.163 seconds
+[2024-10-10T19:37:09.497+0700] {processor.py:186} INFO - Started process (PID=54111) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:09.499+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:37:09.520+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:09.519+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:09.600+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:09.923+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:09.912+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:37:10.321+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:10.321+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:37:10.614+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.168 seconds
+[2024-10-10T19:37:25.781+0700] {processor.py:186} INFO - Started process (PID=54231) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:25.783+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:37:25.790+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:25.789+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:25.824+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:26.220+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:26.210+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:37:26.440+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:26.430+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:37:26.657+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.922 seconds
+[2024-10-10T19:37:43.355+0700] {processor.py:186} INFO - Started process (PID=54394) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:43.360+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:37:43.380+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:43.379+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:43.460+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:43.783+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:43.783+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:37:43.986+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:43.985+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:37:44.167+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.893 seconds
+[2024-10-10T19:37:53.431+0700] {processor.py:186} INFO - Started process (PID=54488) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:53.453+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:37:53.609+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:53.594+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:53.776+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:54.515+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:54.498+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:37:54.678+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:54.678+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:37:54.692+0700] {processor.py:186} INFO - Started process (PID=54499) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:54.699+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:37:54.717+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:54.712+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:54.784+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:37:55.092+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 2.413 seconds
+[2024-10-10T19:37:55.397+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:55.386+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:37:55.712+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:37:55.712+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:37:56.072+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.440 seconds
+[2024-10-10T19:38:05.571+0700] {processor.py:186} INFO - Started process (PID=54607) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:38:05.579+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:38:05.632+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:05.631+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:38:05.759+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:38:06.017+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:06.017+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:38:06.236+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:06.235+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:38:06.498+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.067 seconds
+[2024-10-10T19:38:22.973+0700] {processor.py:186} INFO - Started process (PID=54777) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:38:22.978+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:38:22.986+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:22.986+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:38:23.035+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:38:23.287+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:23.287+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:38:23.541+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:23.538+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:38:23.737+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.797 seconds
+[2024-10-10T19:38:37.887+0700] {processor.py:186} INFO - Started process (PID=54937) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:38:37.926+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:38:38.073+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:38.072+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:38:38.124+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:38:38.663+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:38.625+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:38:39.260+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:39.259+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:38:39.816+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 2.121 seconds
+[2024-10-10T19:38:40.738+0700] {processor.py:186} INFO - Started process (PID=54966) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:38:40.762+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:38:40.798+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:40.788+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:38:40.933+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:38:41.240+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:41.240+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:38:41.409+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:41.381+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:38:41.788+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.169 seconds
+[2024-10-10T19:38:48.706+0700] {processor.py:186} INFO - Started process (PID=55028) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:38:48.733+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:38:48.824+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:48.823+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:38:49.077+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:38:49.728+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:49.727+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:38:50.182+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:38:50.150+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:38:50.721+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 2.214 seconds
+[2024-10-10T19:39:04.574+0700] {processor.py:186} INFO - Started process (PID=55142) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:39:04.579+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:39:04.597+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:04.596+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:39:04.703+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:39:05.193+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:05.177+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:39:05.681+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:05.664+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:39:05.976+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.481 seconds
+[2024-10-10T19:39:18.642+0700] {processor.py:186} INFO - Started process (PID=55305) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:39:18.658+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:39:18.694+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:18.687+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:39:18.888+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:39:19.113+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:19.104+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:39:19.415+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:19.402+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:39:19.674+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.132 seconds
+[2024-10-10T19:39:31.030+0700] {processor.py:186} INFO - Started process (PID=55428) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:39:31.050+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:39:31.109+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:31.094+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:39:31.289+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:39:31.816+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:31.801+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:39:32.173+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:32.156+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:39:32.542+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.656 seconds
+[2024-10-10T19:39:33.660+0700] {processor.py:186} INFO - Started process (PID=55461) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:39:33.683+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:39:33.721+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:33.720+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:39:33.851+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:39:34.433+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:34.433+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:39:34.827+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:34.816+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:39:35.139+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.633 seconds
+[2024-10-10T19:39:48.741+0700] {processor.py:186} INFO - Started process (PID=55665) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:39:48.756+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:39:48.792+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:48.791+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:39:48.918+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:39:49.351+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:49.350+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:39:49.619+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:39:49.618+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:39:49.850+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.236 seconds
+[2024-10-10T19:40:03.531+0700] {processor.py:186} INFO - Started process (PID=55840) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:03.545+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:40:03.590+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:03.589+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:03.751+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:03.977+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:03.977+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:40:04.120+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:04.117+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:40:04.389+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.955 seconds
+[2024-10-10T19:40:08.311+0700] {processor.py:186} INFO - Started process (PID=55895) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:08.319+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:40:08.358+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:08.342+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:08.438+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:08.637+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:08.636+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:40:08.838+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:08.838+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:40:09.112+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.865 seconds
+[2024-10-10T19:40:10.754+0700] {processor.py:186} INFO - Started process (PID=55926) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:10.770+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:40:10.808+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:10.807+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:10.936+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:11.242+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:11.242+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:40:11.378+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:11.377+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:40:11.628+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.931 seconds
+[2024-10-10T19:40:41.820+0700] {processor.py:186} INFO - Started process (PID=56203) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:41.830+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:40:41.857+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:41.856+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:41.990+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:42.423+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:42.410+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:40:42.680+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:42.679+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:40:43.055+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.312 seconds
+[2024-10-10T19:40:46.528+0700] {processor.py:186} INFO - Started process (PID=56246) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:46.572+0700] {processor.py:186} INFO - Started process (PID=56248) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:46.553+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:40:46.602+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:40:46.644+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:46.627+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:46.667+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:46.649+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:46.798+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:46.825+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:40:47.172+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:47.171+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:40:47.235+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:47.227+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:40:47.397+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:47.397+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:40:47.601+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:40:47.601+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:40:47.657+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.272 seconds
+[2024-10-10T19:40:47.883+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.520 seconds
+[2024-10-10T19:41:03.443+0700] {processor.py:186} INFO - Started process (PID=56413) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:03.453+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:41:03.486+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:03.473+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:03.569+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:03.857+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:03.854+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:41:04.216+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:04.194+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:41:04.776+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.406 seconds
+[2024-10-10T19:41:16.630+0700] {processor.py:186} INFO - Started process (PID=56558) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:16.658+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:41:16.760+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:16.759+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:16.918+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:17.793+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:17.786+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:41:18.304+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:18.303+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:41:18.526+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 2.051 seconds
+[2024-10-10T19:41:30.173+0700] {processor.py:186} INFO - Started process (PID=56690) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:30.178+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:41:30.195+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:30.193+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:30.318+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:30.618+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:30.599+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:41:30.928+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:30.928+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:41:31.292+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.172 seconds
+[2024-10-10T19:41:32.836+0700] {processor.py:186} INFO - Started process (PID=56721) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:32.838+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:41:32.850+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:32.847+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:32.877+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:33.184+0700] {processor.py:186} INFO - Started process (PID=56723) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:33.194+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:41:33.218+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:33.218+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:33.285+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:33.285+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:41:33.289+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:33.472+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:33.460+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:41:33.614+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:33.604+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:41:33.809+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.108 seconds
+[2024-10-10T19:41:33.907+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:33.906+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:41:34.308+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.276 seconds
+[2024-10-10T19:41:49.620+0700] {processor.py:186} INFO - Started process (PID=56912) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:49.656+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:41:49.753+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:49.752+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:50.192+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:41:50.655+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:50.652+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:41:51.391+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:41:51.391+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:41:51.721+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 2.300 seconds
+[2024-10-10T19:42:09.867+0700] {processor.py:186} INFO - Started process (PID=57145) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:09.874+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:42:09.906+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:09.901+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:10.067+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:10.351+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:10.350+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:10.520+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:10.519+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:42:10.786+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.024 seconds
+[2024-10-10T19:42:10.925+0700] {processor.py:186} INFO - Started process (PID=57157) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:10.933+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:42:10.975+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:10.962+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:11.063+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:11.473+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:11.473+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:11.710+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:11.706+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:42:12.024+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.198 seconds
+[2024-10-10T19:42:15.393+0700] {processor.py:186} INFO - Started process (PID=57216) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:15.409+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:42:15.445+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:15.445+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:15.595+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:16.000+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:15.999+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:16.306+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:16.305+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:42:16.576+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.285 seconds
+[2024-10-10T19:42:16.730+0700] {processor.py:186} INFO - Started process (PID=57232) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:16.742+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:42:16.771+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:16.771+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:16.872+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:17.145+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:17.144+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:17.353+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:17.353+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:42:17.608+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.979 seconds
+[2024-10-10T19:42:29.215+0700] {processor.py:186} INFO - Started process (PID=57394) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:29.228+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:42:29.248+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:29.239+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:29.359+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:29.902+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:29.896+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:30.212+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:30.211+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:42:30.565+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.416 seconds
+[2024-10-10T19:42:48.442+0700] {processor.py:186} INFO - Started process (PID=57588) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:48.449+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:42:48.530+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:48.511+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:48.901+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:42:50.003+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:50.002+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:42:50.883+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:42:50.883+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:42:51.455+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 3.323 seconds
+[2024-10-10T19:43:06.100+0700] {processor.py:186} INFO - Started process (PID=57741) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:43:06.113+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:43:06.127+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:06.125+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:43:06.164+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:43:06.723+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:06.721+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:43:07.033+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:07.032+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:43:07.511+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.468 seconds
+[2024-10-10T19:43:08.172+0700] {processor.py:186} INFO - Started process (PID=57757) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:43:08.186+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:43:08.215+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:08.208+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:43:08.312+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:43:08.522+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:08.521+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:43:08.778+0700] {processor.py:186} INFO - Started process (PID=57768) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:43:08.786+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:43:08.828+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:08.812+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:43:08.853+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:08.852+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:43:09.040+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:43:09.285+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.378 seconds
+[2024-10-10T19:43:09.396+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:09.396+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:43:09.488+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:09.488+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:43:09.746+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.038 seconds
+[2024-10-10T19:43:10.159+0700] {processor.py:186} INFO - Started process (PID=57788) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:43:10.163+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:43:10.182+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:10.177+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:43:10.295+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:43:10.528+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:10.528+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:43:10.754+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:10.754+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:43:11.072+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.956 seconds
+[2024-10-10T19:43:34.598+0700] {processor.py:186} INFO - Started process (PID=58086) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:43:34.613+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:43:34.642+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:34.626+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:43:34.789+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:43:35.188+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:35.187+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:43:35.466+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:43:35.466+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:43:35.909+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.428 seconds
+[2024-10-10T19:44:03.915+0700] {processor.py:186} INFO - Started process (PID=58372) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:03.918+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:44:03.930+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:03.930+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:04.072+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:04.570+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:04.569+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:44:04.663+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:04.658+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:44:04.898+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.028 seconds
+[2024-10-10T19:44:10.568+0700] {processor.py:186} INFO - Started process (PID=58446) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:10.583+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:44:10.644+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:10.634+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:10.812+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:11.174+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:11.174+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:44:11.347+0700] {processor.py:186} INFO - Started process (PID=58460) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:11.362+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:44:11.389+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:11.383+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:11.431+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:11.430+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:44:11.536+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:11.652+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.172 seconds
+[2024-10-10T19:44:12.006+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:12.006+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:44:12.200+0700] {processor.py:186} INFO - Started process (PID=58471) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:12.227+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:44:12.292+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:12.279+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:12.359+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:12.358+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:44:12.459+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:12.730+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.508 seconds
+[2024-10-10T19:44:12.807+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:12.806+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:44:12.971+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:12.971+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:44:13.091+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.003 seconds
+[2024-10-10T19:44:20.593+0700] {processor.py:186} INFO - Started process (PID=58569) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:20.611+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:44:20.664+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:20.644+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:20.832+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:21.441+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:21.441+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:44:21.814+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:21.813+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:44:22.103+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.640 seconds
+[2024-10-10T19:44:49.570+0700] {processor.py:186} INFO - Started process (PID=58871) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:49.577+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:44:49.595+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:49.594+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:49.693+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:44:49.938+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:49.933+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:44:50.137+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:44:50.137+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:44:50.404+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.895 seconds
+[2024-10-10T19:45:11.504+0700] {processor.py:186} INFO - Started process (PID=58977) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:45:11.555+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:45:11.772+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:11.769+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:45:11.957+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:45:12.337+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:12.336+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:45:12.607+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:12.604+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:45:13.174+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 12.214 seconds
+[2024-10-10T19:45:22.886+0700] {processor.py:186} INFO - Started process (PID=59114) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:45:23.053+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:45:23.077+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:23.068+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:45:23.473+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:45:23.701+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:23.701+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:45:23.749+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:23.749+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:45:25.047+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 2.199 seconds
+[2024-10-10T19:45:28.130+0700] {processor.py:186} INFO - Started process (PID=59150) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:45:28.131+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:45:28.135+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:28.134+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:45:28.149+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:45:28.247+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:28.247+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:45:28.346+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:28.343+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:45:28.600+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.482 seconds
+[2024-10-10T19:45:34.573+0700] {processor.py:186} INFO - Started process (PID=59231) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:45:34.594+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:45:34.628+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:34.625+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:45:34.845+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:45:35.049+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:35.048+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:45:35.085+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:35.082+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:45:35.393+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.910 seconds
+[2024-10-10T19:45:47.643+0700] {processor.py:186} INFO - Started process (PID=59386) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:45:47.655+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:45:47.693+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:47.685+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:45:47.775+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:45:47.977+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:47.976+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:45:48.166+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:45:48.166+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:45:48.460+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.070 seconds
+[2024-10-10T19:46:02.598+0700] {processor.py:186} INFO - Started process (PID=59570) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:46:02.607+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:46:02.621+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:02.620+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:46:02.944+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:46:03.583+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:03.558+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:46:04.093+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:04.092+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:46:04.578+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 2.090 seconds
+[2024-10-10T19:46:28.613+0700] {processor.py:186} INFO - Started process (PID=59750) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:46:28.617+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:46:28.640+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:28.630+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:46:28.811+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:46:29.220+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:29.219+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:46:29.324+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:29.321+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:46:29.616+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.079 seconds
+[2024-10-10T19:46:31.587+0700] {processor.py:186} INFO - Started process (PID=59781) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:46:31.604+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:46:31.629+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:31.628+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:46:32.098+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:46:32.658+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:32.657+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:46:33.208+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:33.208+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:46:33.405+0700] {processor.py:186} INFO - Started process (PID=59793) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:46:33.420+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:46:33.473+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:33.472+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:46:33.809+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:46:33.950+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 2.552 seconds
+[2024-10-10T19:46:34.318+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:34.318+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:46:34.708+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:34.708+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:46:34.951+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.646 seconds
+[2024-10-10T19:46:38.701+0700] {processor.py:186} INFO - Started process (PID=59849) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:46:38.715+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:46:38.748+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:38.747+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:46:38.775+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:46:39.086+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:39.085+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:46:39.694+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:46:39.666+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:46:40.135+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.611 seconds
+[2024-10-10T19:47:05.120+0700] {processor.py:186} INFO - Started process (PID=60167) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:05.129+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:47:05.137+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:05.136+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:05.220+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:05.384+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:05.384+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:05.493+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:05.493+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:47:05.773+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.716 seconds
+[2024-10-10T19:47:16.175+0700] {processor.py:186} INFO - Started process (PID=60280) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:16.180+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:47:16.191+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:16.190+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:16.214+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:16.404+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:16.401+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:16.823+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:16.823+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:47:16.883+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.728 seconds
+[2024-10-10T19:47:20.169+0700] {processor.py:186} INFO - Started process (PID=60337) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:20.181+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:47:20.214+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:20.213+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:20.310+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:20.579+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:20.579+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:20.729+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:20.729+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:47:20.885+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.795 seconds
+[2024-10-10T19:47:23.219+0700] {processor.py:186} INFO - Started process (PID=60394) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:23.215+0700] {processor.py:186} INFO - Started process (PID=60392) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:23.228+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:47:23.231+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:47:23.254+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:23.253+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:23.263+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:23.246+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:23.350+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:23.351+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:23.602+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:23.588+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:23.668+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:23.668+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:23.817+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:23.816+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:47:24.076+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:24.076+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:47:24.116+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.971 seconds
+[2024-10-10T19:47:24.454+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.313 seconds
+[2024-10-10T19:47:43.166+0700] {processor.py:186} INFO - Started process (PID=60711) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:43.170+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:47:43.177+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:43.172+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:43.244+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:43.627+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:43.626+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:43.885+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:43.884+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:47:44.119+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.002 seconds
+[2024-10-10T19:47:52.926+0700] {processor.py:186} INFO - Started process (PID=60845) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:52.951+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:47:53.010+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:53.009+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:53.157+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:53.755+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:53.743+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:53.892+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:53.891+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:47:54.026+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.288 seconds
+[2024-10-10T19:47:54.843+0700] {processor.py:186} INFO - Started process (PID=60861) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:54.861+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:47:54.915+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:54.914+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:55.024+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:55.353+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:55.352+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:55.536+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:55.536+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:47:55.891+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.150 seconds
+[2024-10-10T19:47:57.167+0700] {processor.py:186} INFO - Started process (PID=60895) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:57.174+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:47:57.188+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:57.187+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:57.258+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:47:57.518+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:57.518+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:47:57.768+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:47:57.767+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:47:58.033+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 0.935 seconds
+[2024-10-10T19:48:24.673+0700] {processor.py:186} INFO - Started process (PID=61206) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:48:24.706+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:48:28.544+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:28.543+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:48:29.115+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:48:29.254+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:29.253+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:48:29.362+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:29.354+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:48:29.626+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 5.060 seconds
+[2024-10-10T19:48:29.698+0700] {processor.py:186} INFO - Started process (PID=61243) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:48:29.700+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:48:29.705+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:29.704+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:48:29.745+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:48:30.250+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:30.224+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:48:30.856+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:30.856+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:48:31.319+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.635 seconds
+[2024-10-10T19:48:36.905+0700] {processor.py:186} INFO - Started process (PID=61309) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:48:36.953+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:48:37.057+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:37.030+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:48:37.267+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:48:37.451+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:37.451+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:48:37.802+0700] {processor.py:186} INFO - Started process (PID=61316) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:48:37.826+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:48:37.853+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:37.852+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:48:38.087+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:48:38.093+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:38.066+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:48:38.835+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 2.142 seconds
+[2024-10-10T19:48:38.850+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:38.848+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:48:39.024+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:39.024+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:48:39.882+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 2.306 seconds
+[2024-10-10T19:48:40.402+0700] {processor.py:186} INFO - Started process (PID=61337) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:48:40.433+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:48:40.528+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:40.506+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:48:40.886+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:48:41.561+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:41.560+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:48:41.960+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:48:41.933+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:48:42.430+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 2.210 seconds
+[2024-10-10T19:49:16.651+0700] {processor.py:186} INFO - Started process (PID=61759) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:16.676+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:49:16.731+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:16.717+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:16.936+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:17.238+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:17.237+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:17.634+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:17.634+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:49:18.101+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.575 seconds
+[2024-10-10T19:49:22.837+0700] {processor.py:186} INFO - Started process (PID=61833) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:22.847+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:49:22.867+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:22.853+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:22.972+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:23.356+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:23.355+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:23.542+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:23.542+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:49:23.816+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.043 seconds
+[2024-10-10T19:49:27.407+0700] {processor.py:186} INFO - Started process (PID=61899) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:27.415+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:49:27.426+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:27.422+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:27.500+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:27.827+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:27.827+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:28.213+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:28.191+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:49:28.413+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.071 seconds
+[2024-10-10T19:49:32.021+0700] {processor.py:186} INFO - Started process (PID=61948) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:32.043+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:49:32.102+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:32.088+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:32.360+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:32.862+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:32.861+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:33.511+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:33.510+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:49:34.259+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 2.409 seconds
+[2024-10-10T19:49:37.558+0700] {processor.py:186} INFO - Started process (PID=62024) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:37.559+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:49:37.585+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:37.584+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:37.699+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:37.986+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:37.986+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:38.210+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:38.210+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:49:38.500+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.043 seconds
+[2024-10-10T19:49:56.124+0700] {processor.py:186} INFO - Started process (PID=62275) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:56.144+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:49:56.178+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:56.177+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:56.353+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:49:56.704+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:56.703+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:49:57.002+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:49:57.001+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:49:57.280+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.278 seconds
+[2024-10-10T19:50:01.160+0700] {processor.py:186} INFO - Started process (PID=62355) to work on /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:50:01.178+0700] {processor.py:914} INFO - Processing file /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py for tasks to queue
+[2024-10-10T19:50:01.216+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:50:01.215+0700] {dagbag.py:588} INFO - Filling up the DagBag from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:50:01.337+0700] {processor.py:925} INFO - DAG(s) 'tutorial_dag' retrieved from /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py
+[2024-10-10T19:50:01.719+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:50:01.718+0700] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-10-10T19:50:02.040+0700] {logging_mixin.py:190} INFO - [2024-10-10T19:50:02.039+0700] {dag.py:4180} INFO - Setting next_dagrun for tutorial_dag to None, run_after=None
+[2024-10-10T19:50:02.400+0700] {processor.py:208} INFO - Processing /home/3323600030_Aulia/venv/lib/python3.12/site-packages/airflow/example_dags/tutorial_dag.py took 1.310 seconds
